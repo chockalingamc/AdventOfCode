@@ -1,11 +1,11 @@
 from datetime import datetime
 
-with open("locker_input.txt", "r") as f:
+with open("../input/day1_locker_input.txt", "r") as f:
     lines = f.readlines()
-    lines = [line.strip() for line in lines if line]
+lines = [line.strip() for line in lines if line]
 
 start_time = datetime.now()
-print(f"\nStart time: {start_time}\n")
+print(f"Start time: {start_time}\n")
 
 pointer = 50
 print(f"Pointer: {pointer}")
@@ -38,8 +38,8 @@ for line in lines:
     print(f"Pointer: {pointer} Stops: {stops} Passes: {passes}")
 
 end_time = datetime.now()
-print(f"\nEnd time: {end_time}\n")
-print(f"Part 1 Answer : {stops}")
+print(f"\nPart 1 Answer : {stops}")
 print(f"Passes past 0 (without stopping at 0): {passes}")
 print(f"Part 2 Answer : {stops + passes}")
+print(f"\nEnd time: {end_time}")
 print(f"Time taken: {end_time - start_time}\n")
