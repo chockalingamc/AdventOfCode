@@ -1,0 +1,8474 @@
+Start time: 2025-12-02 14:06:31.516372
+
+Pointer: 50
+R 29
+Pointer: 79 Stops: 0 Passes: 0
+R 41
+Pointer: 20 Stops: 0 Passes: 1
+R 8
+Pointer: 28 Stops: 0 Passes: 1
+R 50
+Pointer: 78 Stops: 0 Passes: 1
+L 27
+Pointer: 51 Stops: 0 Passes: 1
+R 40
+Pointer: 91 Stops: 0 Passes: 1
+R 31
+Pointer: 22 Stops: 0 Passes: 2
+R 30
+Pointer: 52 Stops: 0 Passes: 2
+L 20
+Pointer: 32 Stops: 0 Passes: 2
+R 20
+Pointer: 52 Stops: 0 Passes: 2
+R 20
+Pointer: 72 Stops: 0 Passes: 2
+R 50
+Pointer: 22 Stops: 0 Passes: 3
+R 22
+Pointer: 44 Stops: 0 Passes: 3
+L 6
+Pointer: 38 Stops: 0 Passes: 3
+L 21
+Pointer: 17 Stops: 0 Passes: 3
+R 15
+Pointer: 32 Stops: 0 Passes: 3
+L 30
+Pointer: 2 Stops: 0 Passes: 3
+R 7
+Pointer: 9 Stops: 0 Passes: 3
+L 4
+Pointer: 5 Stops: 0 Passes: 3
+R 32
+Pointer: 37 Stops: 0 Passes: 3
+R 22
+Pointer: 59 Stops: 0 Passes: 3
+R 20
+Pointer: 79 Stops: 0 Passes: 3
+L 33
+Pointer: 46 Stops: 0 Passes: 3
+L 9
+Pointer: 37 Stops: 0 Passes: 3
+L 8
+Pointer: 29 Stops: 0 Passes: 3
+L 47
+Pointer: 82 Stops: 0 Passes: 4
+R 14
+Pointer: 96 Stops: 0 Passes: 4
+L 27
+Pointer: 69 Stops: 0 Passes: 4
+L 20
+Pointer: 49 Stops: 0 Passes: 4
+R 5
+Pointer: 54 Stops: 0 Passes: 4
+R 30
+Pointer: 84 Stops: 0 Passes: 4
+L 47
+Pointer: 37 Stops: 0 Passes: 4
+R 6
+Pointer: 43 Stops: 0 Passes: 4
+R 21
+Pointer: 64 Stops: 0 Passes: 4
+R 30
+Pointer: 94 Stops: 0 Passes: 4
+L 10
+Pointer: 84 Stops: 0 Passes: 4
+L 20
+Pointer: 64 Stops: 0 Passes: 4
+L 6
+Pointer: 58 Stops: 0 Passes: 4
+L 45
+Pointer: 13 Stops: 0 Passes: 4
+L 18
+Pointer: 95 Stops: 0 Passes: 5
+R 47
+Pointer: 42 Stops: 0 Passes: 6
+L 49
+Pointer: 93 Stops: 0 Passes: 7
+R 7
+Pointer: 0 Stops: 1 Passes: 7
+L 16
+Pointer: 84 Stops: 1 Passes: 7
+R 21
+Pointer: 5 Stops: 1 Passes: 8
+R 44
+Pointer: 49 Stops: 1 Passes: 8
+R 45
+Pointer: 94 Stops: 1 Passes: 8
+R 29
+Pointer: 23 Stops: 1 Passes: 9
+R 26
+Pointer: 49 Stops: 1 Passes: 9
+L 68
+Pointer: 81 Stops: 1 Passes: 10
+L 72
+Pointer: 9 Stops: 1 Passes: 10
+R 91
+Pointer: 0 Stops: 2 Passes: 10
+R 63
+Pointer: 63 Stops: 2 Passes: 10
+R 29
+Pointer: 92 Stops: 2 Passes: 10
+R 22
+Pointer: 14 Stops: 2 Passes: 11
+R 86
+Pointer: 0 Stops: 3 Passes: 11
+R 31
+Pointer: 31 Stops: 3 Passes: 11
+L 31
+Pointer: 0 Stops: 4 Passes: 11
+R 4
+Pointer: 4 Stops: 4 Passes: 11
+L 42
+Pointer: 62 Stops: 4 Passes: 12
+L 7
+Pointer: 55 Stops: 4 Passes: 12
+L 77
+Pointer: 78 Stops: 4 Passes: 13
+L 39
+Pointer: 39 Stops: 4 Passes: 13
+R 61
+Pointer: 0 Stops: 5 Passes: 13
+L 22
+Pointer: 78 Stops: 5 Passes: 13
+L 8
+Pointer: 70 Stops: 5 Passes: 13
+L 17
+Pointer: 53 Stops: 5 Passes: 13
+L 38
+Pointer: 15 Stops: 5 Passes: 13
+L 97
+Pointer: 18 Stops: 5 Passes: 14
+R 82
+Pointer: 0 Stops: 6 Passes: 14
+R 2
+Pointer: 2 Stops: 6 Passes: 14
+L 51
+Pointer: 51 Stops: 6 Passes: 15
+L 51
+Pointer: 0 Stops: 7 Passes: 15
+L 25
+Pointer: 75 Stops: 7 Passes: 15
+L 75
+Pointer: 0 Stops: 8 Passes: 15
+L 20
+Pointer: 80 Stops: 8 Passes: 15
+R 20
+Pointer: 0 Stops: 9 Passes: 15
+R 61
+Pointer: 61 Stops: 9 Passes: 15
+L 14
+Pointer: 47 Stops: 9 Passes: 15
+L 11
+Pointer: 36 Stops: 9 Passes: 15
+L 70
+Pointer: 66 Stops: 9 Passes: 16
+R 94
+Pointer: 60 Stops: 9 Passes: 17
+L 58
+Pointer: 2 Stops: 9 Passes: 17
+L 95
+Pointer: 7 Stops: 9 Passes: 18
+L 48
+Pointer: 59 Stops: 9 Passes: 19
+L 94
+Pointer: 65 Stops: 9 Passes: 20
+L 76
+Pointer: 89 Stops: 9 Passes: 21
+R 95
+Pointer: 84 Stops: 9 Passes: 22
+R 69
+Pointer: 53 Stops: 9 Passes: 23
+L 76
+Pointer: 77 Stops: 9 Passes: 24
+L 50
+Pointer: 27 Stops: 9 Passes: 24
+R 1
+Pointer: 28 Stops: 9 Passes: 24
+L 28
+Pointer: 0 Stops: 10 Passes: 24
+R 62
+Pointer: 62 Stops: 10 Passes: 24
+L 62
+Pointer: 0 Stops: 11 Passes: 24
+L 22
+Pointer: 78 Stops: 11 Passes: 24
+R 22
+Pointer: 0 Stops: 12 Passes: 24
+R 28
+Pointer: 28 Stops: 12 Passes: 24
+L 93
+Pointer: 35 Stops: 12 Passes: 25
+R 83
+Pointer: 18 Stops: 12 Passes: 26
+L 18
+Pointer: 0 Stops: 13 Passes: 26
+L 652
+Pointer: 48 Stops: 13 Passes: 32
+R 7
+Pointer: 55 Stops: 13 Passes: 32
+L 888
+Pointer: 67 Stops: 13 Passes: 41
+L 763
+Pointer: 4 Stops: 13 Passes: 48
+L 24
+Pointer: 80 Stops: 13 Passes: 49
+L 89
+Pointer: 91 Stops: 13 Passes: 50
+R 443
+Pointer: 34 Stops: 13 Passes: 55
+L 34
+Pointer: 0 Stops: 14 Passes: 55
+R 16
+Pointer: 16 Stops: 14 Passes: 55
+R 11
+Pointer: 27 Stops: 14 Passes: 55
+R 68
+Pointer: 95 Stops: 14 Passes: 55
+L 95
+Pointer: 0 Stops: 15 Passes: 55
+L 80
+Pointer: 20 Stops: 15 Passes: 55
+R 80
+Pointer: 0 Stops: 16 Passes: 55
+R 74
+Pointer: 74 Stops: 16 Passes: 55
+R 26
+Pointer: 0 Stops: 17 Passes: 55
+R 72
+Pointer: 72 Stops: 17 Passes: 55
+R 61
+Pointer: 33 Stops: 17 Passes: 56
+R 106
+Pointer: 39 Stops: 17 Passes: 57
+R 19
+Pointer: 58 Stops: 17 Passes: 57
+L 58
+Pointer: 0 Stops: 18 Passes: 57
+R 74
+Pointer: 74 Stops: 18 Passes: 57
+R 63
+Pointer: 37 Stops: 18 Passes: 58
+R 759
+Pointer: 96 Stops: 18 Passes: 65
+R 304
+Pointer: 0 Stops: 19 Passes: 68
+L 62
+Pointer: 38 Stops: 19 Passes: 68
+L 438
+Pointer: 0 Stops: 20 Passes: 72
+R 8
+Pointer: 8 Stops: 20 Passes: 72
+R 91
+Pointer: 99 Stops: 20 Passes: 72
+R 692
+Pointer: 91 Stops: 20 Passes: 79
+L 59
+Pointer: 32 Stops: 20 Passes: 79
+L 41
+Pointer: 91 Stops: 20 Passes: 80
+L 49
+Pointer: 42 Stops: 20 Passes: 80
+R 84
+Pointer: 26 Stops: 20 Passes: 81
+R 99
+Pointer: 25 Stops: 20 Passes: 82
+L 1
+Pointer: 24 Stops: 20 Passes: 82
+L 24
+Pointer: 0 Stops: 21 Passes: 82
+R 35
+Pointer: 35 Stops: 21 Passes: 82
+R 37
+Pointer: 72 Stops: 21 Passes: 82
+R 28
+Pointer: 0 Stops: 22 Passes: 82
+L 34
+Pointer: 66 Stops: 22 Passes: 82
+R 70
+Pointer: 36 Stops: 22 Passes: 83
+R 64
+Pointer: 0 Stops: 23 Passes: 83
+R 50
+Pointer: 50 Stops: 23 Passes: 83
+R 450
+Pointer: 0 Stops: 24 Passes: 87
+R 1
+Pointer: 1 Stops: 24 Passes: 87
+R 499
+Pointer: 0 Stops: 25 Passes: 91
+R 39
+Pointer: 39 Stops: 25 Passes: 91
+R 61
+Pointer: 0 Stops: 26 Passes: 91
+L 96
+Pointer: 4 Stops: 26 Passes: 91
+R 333
+Pointer: 37 Stops: 26 Passes: 94
+L 37
+Pointer: 0 Stops: 27 Passes: 94
+R 106
+Pointer: 6 Stops: 27 Passes: 95
+L 76
+Pointer: 30 Stops: 27 Passes: 96
+R 14
+Pointer: 44 Stops: 27 Passes: 96
+R 84
+Pointer: 28 Stops: 27 Passes: 97
+L 30
+Pointer: 98 Stops: 27 Passes: 98
+L 98
+Pointer: 0 Stops: 28 Passes: 98
+R 77
+Pointer: 77 Stops: 28 Passes: 98
+R 16
+Pointer: 93 Stops: 28 Passes: 98
+L 93
+Pointer: 0 Stops: 29 Passes: 98
+L 36
+Pointer: 64 Stops: 29 Passes: 98
+R 36
+Pointer: 0 Stops: 30 Passes: 98
+L 63
+Pointer: 37 Stops: 30 Passes: 98
+L 13
+Pointer: 24 Stops: 30 Passes: 98
+L 532
+Pointer: 92 Stops: 30 Passes: 104
+L 992
+Pointer: 0 Stops: 31 Passes: 113
+R 98
+Pointer: 98 Stops: 31 Passes: 113
+L 98
+Pointer: 0 Stops: 32 Passes: 113
+R 33
+Pointer: 33 Stops: 32 Passes: 113
+L 96
+Pointer: 37 Stops: 32 Passes: 114
+L 37
+Pointer: 0 Stops: 33 Passes: 114
+L 82
+Pointer: 18 Stops: 33 Passes: 114
+R 20
+Pointer: 38 Stops: 33 Passes: 114
+L 57
+Pointer: 81 Stops: 33 Passes: 115
+R 302
+Pointer: 83 Stops: 33 Passes: 118
+L 483
+Pointer: 0 Stops: 34 Passes: 122
+R 49
+Pointer: 49 Stops: 34 Passes: 122
+L 426
+Pointer: 23 Stops: 34 Passes: 126
+L 71
+Pointer: 52 Stops: 34 Passes: 127
+L 38
+Pointer: 14 Stops: 34 Passes: 127
+R 71
+Pointer: 85 Stops: 34 Passes: 127
+L 78
+Pointer: 7 Stops: 34 Passes: 127
+R 93
+Pointer: 0 Stops: 35 Passes: 127
+R 56
+Pointer: 56 Stops: 35 Passes: 127
+R 590
+Pointer: 46 Stops: 35 Passes: 133
+L 98
+Pointer: 48 Stops: 35 Passes: 134
+R 42
+Pointer: 90 Stops: 35 Passes: 134
+L 90
+Pointer: 0 Stops: 36 Passes: 134
+R 20
+Pointer: 20 Stops: 36 Passes: 134
+L 10
+Pointer: 10 Stops: 36 Passes: 134
+R 51
+Pointer: 61 Stops: 36 Passes: 134
+R 28
+Pointer: 89 Stops: 36 Passes: 134
+L 62
+Pointer: 27 Stops: 36 Passes: 134
+L 39
+Pointer: 88 Stops: 36 Passes: 135
+L 26
+Pointer: 62 Stops: 36 Passes: 135
+L 615
+Pointer: 47 Stops: 36 Passes: 141
+L 47
+Pointer: 0 Stops: 37 Passes: 141
+R 67
+Pointer: 67 Stops: 37 Passes: 141
+R 89
+Pointer: 56 Stops: 37 Passes: 142
+L 256
+Pointer: 0 Stops: 38 Passes: 144
+L 65
+Pointer: 35 Stops: 38 Passes: 144
+L 5
+Pointer: 30 Stops: 38 Passes: 144
+L 46
+Pointer: 84 Stops: 38 Passes: 145
+R 21
+Pointer: 5 Stops: 38 Passes: 146
+L 370
+Pointer: 35 Stops: 38 Passes: 150
+L 864
+Pointer: 71 Stops: 38 Passes: 159
+R 29
+Pointer: 0 Stops: 39 Passes: 159
+R 61
+Pointer: 61 Stops: 39 Passes: 159
+R 11
+Pointer: 72 Stops: 39 Passes: 159
+L 72
+Pointer: 0 Stops: 40 Passes: 159
+R 688
+Pointer: 88 Stops: 40 Passes: 165
+L 88
+Pointer: 0 Stops: 41 Passes: 165
+R 27
+Pointer: 27 Stops: 41 Passes: 165
+R 73
+Pointer: 0 Stops: 42 Passes: 165
+L 88
+Pointer: 12 Stops: 42 Passes: 165
+L 32
+Pointer: 80 Stops: 42 Passes: 166
+R 61
+Pointer: 41 Stops: 42 Passes: 167
+L 92
+Pointer: 49 Stops: 42 Passes: 168
+L 49
+Pointer: 0 Stops: 43 Passes: 168
+L 328
+Pointer: 72 Stops: 43 Passes: 171
+L 77
+Pointer: 95 Stops: 43 Passes: 172
+L 53
+Pointer: 42 Stops: 43 Passes: 172
+R 458
+Pointer: 0 Stops: 44 Passes: 176
+R 35
+Pointer: 35 Stops: 44 Passes: 176
+L 814
+Pointer: 21 Stops: 44 Passes: 184
+L 21
+Pointer: 0 Stops: 45 Passes: 184
+R 467
+Pointer: 67 Stops: 45 Passes: 188
+R 95
+Pointer: 62 Stops: 45 Passes: 189
+R 38
+Pointer: 0 Stops: 46 Passes: 189
+R 323
+Pointer: 23 Stops: 46 Passes: 192
+L 574
+Pointer: 49 Stops: 46 Passes: 198
+R 51
+Pointer: 0 Stops: 47 Passes: 198
+R 28
+Pointer: 28 Stops: 47 Passes: 198
+L 58
+Pointer: 70 Stops: 47 Passes: 199
+L 91
+Pointer: 79 Stops: 47 Passes: 200
+R 24
+Pointer: 3 Stops: 47 Passes: 201
+L 989
+Pointer: 14 Stops: 47 Passes: 211
+R 86
+Pointer: 0 Stops: 48 Passes: 211
+L 35
+Pointer: 65 Stops: 48 Passes: 211
+L 61
+Pointer: 4 Stops: 48 Passes: 211
+R 96
+Pointer: 0 Stops: 49 Passes: 211
+L 22
+Pointer: 78 Stops: 49 Passes: 211
+R 89
+Pointer: 67 Stops: 49 Passes: 212
+R 55
+Pointer: 22 Stops: 49 Passes: 213
+L 59
+Pointer: 63 Stops: 49 Passes: 214
+L 61
+Pointer: 2 Stops: 49 Passes: 214
+L 2
+Pointer: 0 Stops: 50 Passes: 214
+R 96
+Pointer: 96 Stops: 50 Passes: 214
+R 37
+Pointer: 33 Stops: 50 Passes: 215
+R 67
+Pointer: 0 Stops: 51 Passes: 215
+R 29
+Pointer: 29 Stops: 51 Passes: 215
+L 1
+Pointer: 28 Stops: 51 Passes: 215
+L 950
+Pointer: 78 Stops: 51 Passes: 225
+L 14
+Pointer: 64 Stops: 51 Passes: 225
+L 92
+Pointer: 72 Stops: 51 Passes: 226
+L 1
+Pointer: 71 Stops: 51 Passes: 226
+L 32
+Pointer: 39 Stops: 51 Passes: 226
+L 39
+Pointer: 0 Stops: 52 Passes: 226
+R 80
+Pointer: 80 Stops: 52 Passes: 226
+R 5
+Pointer: 85 Stops: 52 Passes: 226
+L 2
+Pointer: 83 Stops: 52 Passes: 226
+L 438
+Pointer: 45 Stops: 52 Passes: 230
+R 38
+Pointer: 83 Stops: 52 Passes: 230
+L 83
+Pointer: 0 Stops: 53 Passes: 230
+L 444
+Pointer: 56 Stops: 53 Passes: 234
+R 99
+Pointer: 55 Stops: 53 Passes: 235
+L 55
+Pointer: 0 Stops: 54 Passes: 235
+R 758
+Pointer: 58 Stops: 54 Passes: 242
+R 50
+Pointer: 8 Stops: 54 Passes: 243
+R 89
+Pointer: 97 Stops: 54 Passes: 243
+L 986
+Pointer: 11 Stops: 54 Passes: 252
+R 89
+Pointer: 0 Stops: 55 Passes: 252
+L 84
+Pointer: 16 Stops: 55 Passes: 252
+R 853
+Pointer: 69 Stops: 55 Passes: 260
+R 31
+Pointer: 0 Stops: 56 Passes: 260
+L 53
+Pointer: 47 Stops: 56 Passes: 260
+L 33
+Pointer: 14 Stops: 56 Passes: 260
+L 51
+Pointer: 63 Stops: 56 Passes: 261
+L 66
+Pointer: 97 Stops: 56 Passes: 262
+L 29
+Pointer: 68 Stops: 56 Passes: 262
+L 768
+Pointer: 0 Stops: 57 Passes: 269
+L 185
+Pointer: 15 Stops: 57 Passes: 270
+L 292
+Pointer: 23 Stops: 57 Passes: 273
+R 77
+Pointer: 0 Stops: 58 Passes: 273
+L 932
+Pointer: 68 Stops: 58 Passes: 282
+L 85
+Pointer: 83 Stops: 58 Passes: 283
+L 46
+Pointer: 37 Stops: 58 Passes: 283
+R 63
+Pointer: 0 Stops: 59 Passes: 283
+L 973
+Pointer: 27 Stops: 59 Passes: 292
+R 73
+Pointer: 0 Stops: 60 Passes: 292
+L 86
+Pointer: 14 Stops: 60 Passes: 292
+R 6
+Pointer: 20 Stops: 60 Passes: 292
+R 352
+Pointer: 72 Stops: 60 Passes: 295
+R 28
+Pointer: 0 Stops: 61 Passes: 295
+L 35
+Pointer: 65 Stops: 61 Passes: 295
+L 65
+Pointer: 0 Stops: 62 Passes: 295
+R 97
+Pointer: 97 Stops: 62 Passes: 295
+L 97
+Pointer: 0 Stops: 63 Passes: 295
+R 60
+Pointer: 60 Stops: 63 Passes: 295
+R 55
+Pointer: 15 Stops: 63 Passes: 296
+R 532
+Pointer: 47 Stops: 63 Passes: 301
+R 53
+Pointer: 0 Stops: 64 Passes: 301
+R 407
+Pointer: 7 Stops: 64 Passes: 305
+L 8
+Pointer: 99 Stops: 64 Passes: 306
+L 999
+Pointer: 0 Stops: 65 Passes: 315
+L 58
+Pointer: 42 Stops: 65 Passes: 315
+L 42
+Pointer: 0 Stops: 66 Passes: 315
+R 5
+Pointer: 5 Stops: 66 Passes: 315
+R 571
+Pointer: 76 Stops: 66 Passes: 320
+R 430
+Pointer: 6 Stops: 66 Passes: 325
+R 60
+Pointer: 66 Stops: 66 Passes: 325
+L 91
+Pointer: 75 Stops: 66 Passes: 326
+R 25
+Pointer: 0 Stops: 67 Passes: 326
+L 52
+Pointer: 48 Stops: 67 Passes: 326
+R 252
+Pointer: 0 Stops: 68 Passes: 328
+R 66
+Pointer: 66 Stops: 68 Passes: 328
+R 34
+Pointer: 0 Stops: 69 Passes: 328
+R 13
+Pointer: 13 Stops: 69 Passes: 328
+R 19
+Pointer: 32 Stops: 69 Passes: 328
+L 432
+Pointer: 0 Stops: 70 Passes: 332
+L 896
+Pointer: 4 Stops: 70 Passes: 340
+L 3
+Pointer: 1 Stops: 70 Passes: 340
+R 99
+Pointer: 0 Stops: 71 Passes: 340
+R 71
+Pointer: 71 Stops: 71 Passes: 340
+R 85
+Pointer: 56 Stops: 71 Passes: 341
+L 56
+Pointer: 0 Stops: 72 Passes: 341
+L 13
+Pointer: 87 Stops: 72 Passes: 341
+R 483
+Pointer: 70 Stops: 72 Passes: 346
+L 970
+Pointer: 0 Stops: 73 Passes: 355
+L 97
+Pointer: 3 Stops: 73 Passes: 355
+R 30
+Pointer: 33 Stops: 73 Passes: 355
+R 678
+Pointer: 11 Stops: 73 Passes: 362
+R 61
+Pointer: 72 Stops: 73 Passes: 362
+L 72
+Pointer: 0 Stops: 74 Passes: 362
+L 308
+Pointer: 92 Stops: 74 Passes: 365
+R 19
+Pointer: 11 Stops: 74 Passes: 366
+R 95
+Pointer: 6 Stops: 74 Passes: 367
+R 710
+Pointer: 16 Stops: 74 Passes: 374
+L 16
+Pointer: 0 Stops: 75 Passes: 374
+L 949
+Pointer: 51 Stops: 75 Passes: 383
+L 51
+Pointer: 0 Stops: 76 Passes: 383
+L 18
+Pointer: 82 Stops: 76 Passes: 383
+L 94
+Pointer: 88 Stops: 76 Passes: 384
+R 82
+Pointer: 70 Stops: 76 Passes: 385
+R 30
+Pointer: 0 Stops: 77 Passes: 385
+R 91
+Pointer: 91 Stops: 77 Passes: 385
+L 4
+Pointer: 87 Stops: 77 Passes: 385
+R 91
+Pointer: 78 Stops: 77 Passes: 386
+R 55
+Pointer: 33 Stops: 77 Passes: 387
+R 267
+Pointer: 0 Stops: 78 Passes: 389
+R 82
+Pointer: 82 Stops: 78 Passes: 389
+R 915
+Pointer: 97 Stops: 78 Passes: 398
+L 97
+Pointer: 0 Stops: 79 Passes: 398
+R 61
+Pointer: 61 Stops: 79 Passes: 398
+L 683
+Pointer: 78 Stops: 79 Passes: 405
+L 16
+Pointer: 62 Stops: 79 Passes: 405
+L 19
+Pointer: 43 Stops: 79 Passes: 405
+R 57
+Pointer: 0 Stops: 80 Passes: 405
+R 521
+Pointer: 21 Stops: 80 Passes: 410
+R 79
+Pointer: 0 Stops: 81 Passes: 410
+R 96
+Pointer: 96 Stops: 81 Passes: 410
+R 94
+Pointer: 90 Stops: 81 Passes: 411
+R 10
+Pointer: 0 Stops: 82 Passes: 411
+L 98
+Pointer: 2 Stops: 82 Passes: 411
+L 56
+Pointer: 46 Stops: 82 Passes: 412
+L 85
+Pointer: 61 Stops: 82 Passes: 413
+L 49
+Pointer: 12 Stops: 82 Passes: 413
+L 121
+Pointer: 91 Stops: 82 Passes: 415
+R 9
+Pointer: 0 Stops: 83 Passes: 415
+R 37
+Pointer: 37 Stops: 83 Passes: 415
+L 9
+Pointer: 28 Stops: 83 Passes: 415
+L 78
+Pointer: 50 Stops: 83 Passes: 416
+L 350
+Pointer: 0 Stops: 84 Passes: 419
+R 52
+Pointer: 52 Stops: 84 Passes: 419
+L 66
+Pointer: 86 Stops: 84 Passes: 420
+L 960
+Pointer: 26 Stops: 84 Passes: 429
+R 57
+Pointer: 83 Stops: 84 Passes: 429
+R 17
+Pointer: 0 Stops: 85 Passes: 429
+L 514
+Pointer: 86 Stops: 85 Passes: 434
+L 20
+Pointer: 66 Stops: 85 Passes: 434
+R 45
+Pointer: 11 Stops: 85 Passes: 435
+R 50
+Pointer: 61 Stops: 85 Passes: 435
+L 668
+Pointer: 93 Stops: 85 Passes: 442
+L 86
+Pointer: 7 Stops: 85 Passes: 442
+L 86
+Pointer: 21 Stops: 85 Passes: 443
+R 95
+Pointer: 16 Stops: 85 Passes: 444
+L 54
+Pointer: 62 Stops: 85 Passes: 445
+L 62
+Pointer: 0 Stops: 86 Passes: 445
+L 46
+Pointer: 54 Stops: 86 Passes: 445
+R 47
+Pointer: 1 Stops: 86 Passes: 446
+L 1
+Pointer: 0 Stops: 87 Passes: 446
+R 67
+Pointer: 67 Stops: 87 Passes: 446
+L 67
+Pointer: 0 Stops: 88 Passes: 446
+L 46
+Pointer: 54 Stops: 88 Passes: 446
+R 46
+Pointer: 0 Stops: 89 Passes: 446
+L 98
+Pointer: 2 Stops: 89 Passes: 446
+R 13
+Pointer: 15 Stops: 89 Passes: 446
+R 67
+Pointer: 82 Stops: 89 Passes: 446
+L 82
+Pointer: 0 Stops: 90 Passes: 446
+R 905
+Pointer: 5 Stops: 90 Passes: 455
+R 49
+Pointer: 54 Stops: 90 Passes: 455
+R 14
+Pointer: 68 Stops: 90 Passes: 455
+L 68
+Pointer: 0 Stops: 91 Passes: 455
+L 454
+Pointer: 46 Stops: 91 Passes: 459
+L 46
+Pointer: 0 Stops: 92 Passes: 459
+R 82
+Pointer: 82 Stops: 92 Passes: 459
+R 18
+Pointer: 0 Stops: 93 Passes: 459
+L 94
+Pointer: 6 Stops: 93 Passes: 459
+R 6
+Pointer: 12 Stops: 93 Passes: 459
+L 994
+Pointer: 18 Stops: 93 Passes: 469
+R 82
+Pointer: 0 Stops: 94 Passes: 469
+R 61
+Pointer: 61 Stops: 94 Passes: 469
+L 64
+Pointer: 97 Stops: 94 Passes: 470
+L 897
+Pointer: 0 Stops: 95 Passes: 478
+L 135
+Pointer: 65 Stops: 95 Passes: 479
+R 35
+Pointer: 0 Stops: 96 Passes: 479
+L 33
+Pointer: 67 Stops: 96 Passes: 479
+R 36
+Pointer: 3 Stops: 96 Passes: 480
+L 3
+Pointer: 0 Stops: 97 Passes: 480
+R 85
+Pointer: 85 Stops: 97 Passes: 480
+R 58
+Pointer: 43 Stops: 97 Passes: 481
+R 97
+Pointer: 40 Stops: 97 Passes: 482
+R 72
+Pointer: 12 Stops: 97 Passes: 483
+R 83
+Pointer: 95 Stops: 97 Passes: 483
+L 446
+Pointer: 49 Stops: 97 Passes: 487
+R 51
+Pointer: 0 Stops: 98 Passes: 487
+R 96
+Pointer: 96 Stops: 98 Passes: 487
+R 30
+Pointer: 26 Stops: 98 Passes: 488
+R 18
+Pointer: 44 Stops: 98 Passes: 488
+L 44
+Pointer: 0 Stops: 99 Passes: 488
+R 52
+Pointer: 52 Stops: 99 Passes: 488
+R 48
+Pointer: 0 Stops: 100 Passes: 488
+R 37
+Pointer: 37 Stops: 100 Passes: 488
+L 23
+Pointer: 14 Stops: 100 Passes: 488
+L 32
+Pointer: 82 Stops: 100 Passes: 489
+L 50
+Pointer: 32 Stops: 100 Passes: 489
+R 10
+Pointer: 42 Stops: 100 Passes: 489
+R 858
+Pointer: 0 Stops: 101 Passes: 497
+R 30
+Pointer: 30 Stops: 101 Passes: 497
+L 65
+Pointer: 65 Stops: 101 Passes: 498
+L 308
+Pointer: 57 Stops: 101 Passes: 501
+L 80
+Pointer: 77 Stops: 101 Passes: 502
+R 3
+Pointer: 80 Stops: 101 Passes: 502
+R 81
+Pointer: 61 Stops: 101 Passes: 503
+L 61
+Pointer: 0 Stops: 102 Passes: 503
+R 11
+Pointer: 11 Stops: 102 Passes: 503
+R 89
+Pointer: 0 Stops: 103 Passes: 503
+R 13
+Pointer: 13 Stops: 103 Passes: 503
+R 87
+Pointer: 0 Stops: 104 Passes: 503
+R 26
+Pointer: 26 Stops: 104 Passes: 503
+L 65
+Pointer: 61 Stops: 104 Passes: 504
+L 23
+Pointer: 38 Stops: 104 Passes: 504
+L 38
+Pointer: 0 Stops: 105 Passes: 504
+R 47
+Pointer: 47 Stops: 105 Passes: 504
+R 16
+Pointer: 63 Stops: 105 Passes: 504
+L 44
+Pointer: 19 Stops: 105 Passes: 504
+R 3
+Pointer: 22 Stops: 105 Passes: 504
+L 66
+Pointer: 56 Stops: 105 Passes: 505
+L 70
+Pointer: 86 Stops: 105 Passes: 506
+L 28
+Pointer: 58 Stops: 105 Passes: 506
+L 94
+Pointer: 64 Stops: 105 Passes: 507
+R 37
+Pointer: 1 Stops: 105 Passes: 508
+R 99
+Pointer: 0 Stops: 106 Passes: 508
+L 37
+Pointer: 63 Stops: 106 Passes: 508
+R 883
+Pointer: 46 Stops: 106 Passes: 517
+L 23
+Pointer: 23 Stops: 106 Passes: 517
+L 80
+Pointer: 43 Stops: 106 Passes: 518
+L 82
+Pointer: 61 Stops: 106 Passes: 519
+R 72
+Pointer: 33 Stops: 106 Passes: 520
+R 740
+Pointer: 73 Stops: 106 Passes: 527
+L 96
+Pointer: 77 Stops: 106 Passes: 528
+L 77
+Pointer: 0 Stops: 107 Passes: 528
+L 728
+Pointer: 72 Stops: 107 Passes: 535
+R 11
+Pointer: 83 Stops: 107 Passes: 535
+L 17
+Pointer: 66 Stops: 107 Passes: 535
+L 25
+Pointer: 41 Stops: 107 Passes: 535
+R 16
+Pointer: 57 Stops: 107 Passes: 535
+L 83
+Pointer: 74 Stops: 107 Passes: 536
+R 98
+Pointer: 72 Stops: 107 Passes: 537
+L 57
+Pointer: 15 Stops: 107 Passes: 537
+L 15
+Pointer: 0 Stops: 108 Passes: 537
+R 556
+Pointer: 56 Stops: 108 Passes: 542
+R 1
+Pointer: 57 Stops: 108 Passes: 542
+R 57
+Pointer: 14 Stops: 108 Passes: 543
+R 86
+Pointer: 0 Stops: 109 Passes: 543
+L 59
+Pointer: 41 Stops: 109 Passes: 543
+L 78
+Pointer: 63 Stops: 109 Passes: 544
+R 753
+Pointer: 16 Stops: 109 Passes: 552
+R 81
+Pointer: 97 Stops: 109 Passes: 552
+L 75
+Pointer: 22 Stops: 109 Passes: 552
+R 46
+Pointer: 68 Stops: 109 Passes: 552
+R 1
+Pointer: 69 Stops: 109 Passes: 552
+L 54
+Pointer: 15 Stops: 109 Passes: 552
+L 51
+Pointer: 64 Stops: 109 Passes: 553
+R 82
+Pointer: 46 Stops: 109 Passes: 554
+R 454
+Pointer: 0 Stops: 110 Passes: 558
+L 97
+Pointer: 3 Stops: 110 Passes: 558
+R 91
+Pointer: 94 Stops: 110 Passes: 558
+L 649
+Pointer: 45 Stops: 110 Passes: 564
+R 55
+Pointer: 0 Stops: 111 Passes: 564
+R 85
+Pointer: 85 Stops: 111 Passes: 564
+R 899
+Pointer: 84 Stops: 111 Passes: 573
+R 13
+Pointer: 97 Stops: 111 Passes: 573
+R 6
+Pointer: 3 Stops: 111 Passes: 574
+L 903
+Pointer: 0 Stops: 112 Passes: 583
+L 894
+Pointer: 6 Stops: 112 Passes: 591
+R 97
+Pointer: 3 Stops: 112 Passes: 592
+L 3
+Pointer: 0 Stops: 113 Passes: 592
+R 82
+Pointer: 82 Stops: 113 Passes: 592
+R 76
+Pointer: 58 Stops: 113 Passes: 593
+L 58
+Pointer: 0 Stops: 114 Passes: 593
+R 87
+Pointer: 87 Stops: 114 Passes: 593
+L 53
+Pointer: 34 Stops: 114 Passes: 593
+L 34
+Pointer: 0 Stops: 115 Passes: 593
+L 945
+Pointer: 55 Stops: 115 Passes: 602
+R 875
+Pointer: 30 Stops: 115 Passes: 611
+L 83
+Pointer: 47 Stops: 115 Passes: 612
+L 47
+Pointer: 0 Stops: 116 Passes: 612
+R 51
+Pointer: 51 Stops: 116 Passes: 612
+R 47
+Pointer: 98 Stops: 116 Passes: 612
+R 2
+Pointer: 0 Stops: 117 Passes: 612
+L 334
+Pointer: 66 Stops: 117 Passes: 615
+L 716
+Pointer: 50 Stops: 117 Passes: 622
+L 50
+Pointer: 0 Stops: 118 Passes: 622
+L 30
+Pointer: 70 Stops: 118 Passes: 622
+L 970
+Pointer: 0 Stops: 119 Passes: 631
+L 95
+Pointer: 5 Stops: 119 Passes: 631
+L 5
+Pointer: 0 Stops: 120 Passes: 631
+R 219
+Pointer: 19 Stops: 120 Passes: 633
+R 39
+Pointer: 58 Stops: 120 Passes: 633
+L 58
+Pointer: 0 Stops: 121 Passes: 633
+R 81
+Pointer: 81 Stops: 121 Passes: 633
+L 81
+Pointer: 0 Stops: 122 Passes: 633
+L 49
+Pointer: 51 Stops: 122 Passes: 633
+L 51
+Pointer: 0 Stops: 123 Passes: 633
+L 46
+Pointer: 54 Stops: 123 Passes: 633
+R 550
+Pointer: 4 Stops: 123 Passes: 639
+L 4
+Pointer: 0 Stops: 124 Passes: 639
+R 49
+Pointer: 49 Stops: 124 Passes: 639
+L 29
+Pointer: 20 Stops: 124 Passes: 639
+R 80
+Pointer: 0 Stops: 125 Passes: 639
+R 62
+Pointer: 62 Stops: 125 Passes: 639
+R 74
+Pointer: 36 Stops: 125 Passes: 640
+R 64
+Pointer: 0 Stops: 126 Passes: 640
+L 4
+Pointer: 96 Stops: 126 Passes: 640
+R 87
+Pointer: 83 Stops: 126 Passes: 641
+L 27
+Pointer: 56 Stops: 126 Passes: 641
+R 17
+Pointer: 73 Stops: 126 Passes: 641
+R 511
+Pointer: 84 Stops: 126 Passes: 646
+R 282
+Pointer: 66 Stops: 126 Passes: 649
+R 2
+Pointer: 68 Stops: 126 Passes: 649
+R 5
+Pointer: 73 Stops: 126 Passes: 649
+L 39
+Pointer: 34 Stops: 126 Passes: 649
+L 560
+Pointer: 74 Stops: 126 Passes: 655
+L 3
+Pointer: 71 Stops: 126 Passes: 655
+R 629
+Pointer: 0 Stops: 127 Passes: 661
+L 887
+Pointer: 13 Stops: 127 Passes: 669
+L 13
+Pointer: 0 Stops: 128 Passes: 669
+L 31
+Pointer: 69 Stops: 128 Passes: 669
+R 31
+Pointer: 0 Stops: 129 Passes: 669
+R 532
+Pointer: 32 Stops: 129 Passes: 674
+R 44
+Pointer: 76 Stops: 129 Passes: 674
+L 413
+Pointer: 63 Stops: 129 Passes: 678
+L 74
+Pointer: 89 Stops: 129 Passes: 679
+L 95
+Pointer: 94 Stops: 129 Passes: 680
+R 6
+Pointer: 0 Stops: 130 Passes: 680
+L 98
+Pointer: 2 Stops: 130 Passes: 680
+R 91
+Pointer: 93 Stops: 130 Passes: 680
+R 81
+Pointer: 74 Stops: 130 Passes: 681
+L 96
+Pointer: 78 Stops: 130 Passes: 682
+R 22
+Pointer: 0 Stops: 131 Passes: 682
+L 1
+Pointer: 99 Stops: 131 Passes: 682
+L 33
+Pointer: 66 Stops: 131 Passes: 682
+L 24
+Pointer: 42 Stops: 131 Passes: 682
+R 58
+Pointer: 0 Stops: 132 Passes: 682
+L 81
+Pointer: 19 Stops: 132 Passes: 682
+R 381
+Pointer: 0 Stops: 133 Passes: 685
+R 10
+Pointer: 10 Stops: 133 Passes: 685
+R 37
+Pointer: 47 Stops: 133 Passes: 685
+L 47
+Pointer: 0 Stops: 134 Passes: 685
+L 24
+Pointer: 76 Stops: 134 Passes: 685
+L 176
+Pointer: 0 Stops: 135 Passes: 686
+L 28
+Pointer: 72 Stops: 135 Passes: 686
+R 53
+Pointer: 25 Stops: 135 Passes: 687
+L 441
+Pointer: 84 Stops: 135 Passes: 692
+R 21
+Pointer: 5 Stops: 135 Passes: 693
+R 45
+Pointer: 50 Stops: 135 Passes: 693
+L 32
+Pointer: 18 Stops: 135 Passes: 693
+L 58
+Pointer: 60 Stops: 135 Passes: 694
+R 42
+Pointer: 2 Stops: 135 Passes: 695
+R 472
+Pointer: 74 Stops: 135 Passes: 699
+L 431
+Pointer: 43 Stops: 135 Passes: 703
+R 38
+Pointer: 81 Stops: 135 Passes: 703
+R 51
+Pointer: 32 Stops: 135 Passes: 704
+R 12
+Pointer: 44 Stops: 135 Passes: 704
+L 63
+Pointer: 81 Stops: 135 Passes: 705
+R 19
+Pointer: 0 Stops: 136 Passes: 705
+L 56
+Pointer: 44 Stops: 136 Passes: 705
+R 28
+Pointer: 72 Stops: 136 Passes: 705
+L 15
+Pointer: 57 Stops: 136 Passes: 705
+L 254
+Pointer: 3 Stops: 136 Passes: 707
+L 597
+Pointer: 6 Stops: 136 Passes: 713
+R 87
+Pointer: 93 Stops: 136 Passes: 713
+R 481
+Pointer: 74 Stops: 136 Passes: 718
+R 76
+Pointer: 50 Stops: 136 Passes: 719
+R 35
+Pointer: 85 Stops: 136 Passes: 719
+R 88
+Pointer: 73 Stops: 136 Passes: 720
+L 10
+Pointer: 63 Stops: 136 Passes: 720
+L 33
+Pointer: 30 Stops: 136 Passes: 720
+L 30
+Pointer: 0 Stops: 137 Passes: 720
+R 156
+Pointer: 56 Stops: 137 Passes: 721
+L 56
+Pointer: 0 Stops: 138 Passes: 721
+L 25
+Pointer: 75 Stops: 138 Passes: 721
+R 91
+Pointer: 66 Stops: 138 Passes: 722
+R 605
+Pointer: 71 Stops: 138 Passes: 728
+L 671
+Pointer: 0 Stops: 139 Passes: 734
+L 66
+Pointer: 34 Stops: 139 Passes: 734
+L 93
+Pointer: 41 Stops: 139 Passes: 735
+L 37
+Pointer: 4 Stops: 139 Passes: 735
+R 96
+Pointer: 0 Stops: 140 Passes: 735
+L 32
+Pointer: 68 Stops: 140 Passes: 735
+R 11
+Pointer: 79 Stops: 140 Passes: 735
+L 21
+Pointer: 58 Stops: 140 Passes: 735
+R 22
+Pointer: 80 Stops: 140 Passes: 735
+R 26
+Pointer: 6 Stops: 140 Passes: 736
+R 594
+Pointer: 0 Stops: 141 Passes: 741
+L 61
+Pointer: 39 Stops: 141 Passes: 741
+L 39
+Pointer: 0 Stops: 142 Passes: 741
+R 76
+Pointer: 76 Stops: 142 Passes: 741
+L 90
+Pointer: 86 Stops: 142 Passes: 742
+R 93
+Pointer: 79 Stops: 142 Passes: 743
+R 16
+Pointer: 95 Stops: 142 Passes: 743
+R 91
+Pointer: 86 Stops: 142 Passes: 744
+R 20
+Pointer: 6 Stops: 142 Passes: 745
+L 54
+Pointer: 52 Stops: 142 Passes: 746
+R 59
+Pointer: 11 Stops: 142 Passes: 747
+L 833
+Pointer: 78 Stops: 142 Passes: 756
+R 89
+Pointer: 67 Stops: 142 Passes: 757
+R 33
+Pointer: 0 Stops: 143 Passes: 757
+R 78
+Pointer: 78 Stops: 143 Passes: 757
+L 78
+Pointer: 0 Stops: 144 Passes: 757
+R 92
+Pointer: 92 Stops: 144 Passes: 757
+R 36
+Pointer: 28 Stops: 144 Passes: 758
+R 72
+Pointer: 0 Stops: 145 Passes: 758
+L 95
+Pointer: 5 Stops: 145 Passes: 758
+L 20
+Pointer: 85 Stops: 145 Passes: 759
+L 165
+Pointer: 20 Stops: 145 Passes: 760
+L 65
+Pointer: 55 Stops: 145 Passes: 761
+L 50
+Pointer: 5 Stops: 145 Passes: 761
+R 195
+Pointer: 0 Stops: 146 Passes: 762
+L 674
+Pointer: 26 Stops: 146 Passes: 768
+L 10
+Pointer: 16 Stops: 146 Passes: 768
+L 99
+Pointer: 17 Stops: 146 Passes: 769
+R 98
+Pointer: 15 Stops: 146 Passes: 770
+R 46
+Pointer: 61 Stops: 146 Passes: 770
+L 32
+Pointer: 29 Stops: 146 Passes: 770
+R 377
+Pointer: 6 Stops: 146 Passes: 774
+R 194
+Pointer: 0 Stops: 147 Passes: 775
+R 99
+Pointer: 99 Stops: 147 Passes: 775
+L 27
+Pointer: 72 Stops: 147 Passes: 775
+L 872
+Pointer: 0 Stops: 148 Passes: 783
+R 26
+Pointer: 26 Stops: 148 Passes: 783
+R 74
+Pointer: 0 Stops: 149 Passes: 783
+R 580
+Pointer: 80 Stops: 149 Passes: 788
+L 7
+Pointer: 73 Stops: 149 Passes: 788
+R 48
+Pointer: 21 Stops: 149 Passes: 789
+R 79
+Pointer: 0 Stops: 150 Passes: 789
+R 10
+Pointer: 10 Stops: 150 Passes: 789
+L 981
+Pointer: 29 Stops: 150 Passes: 799
+R 29
+Pointer: 58 Stops: 150 Passes: 799
+R 42
+Pointer: 0 Stops: 151 Passes: 799
+R 32
+Pointer: 32 Stops: 151 Passes: 799
+L 32
+Pointer: 0 Stops: 152 Passes: 799
+R 20
+Pointer: 20 Stops: 152 Passes: 799
+R 59
+Pointer: 79 Stops: 152 Passes: 799
+R 21
+Pointer: 0 Stops: 153 Passes: 799
+L 62
+Pointer: 38 Stops: 153 Passes: 799
+L 87
+Pointer: 51 Stops: 153 Passes: 800
+L 851
+Pointer: 0 Stops: 154 Passes: 808
+R 15
+Pointer: 15 Stops: 154 Passes: 808
+L 79
+Pointer: 36 Stops: 154 Passes: 809
+R 64
+Pointer: 0 Stops: 155 Passes: 809
+L 80
+Pointer: 20 Stops: 155 Passes: 809
+R 96
+Pointer: 16 Stops: 155 Passes: 810
+L 16
+Pointer: 0 Stops: 156 Passes: 810
+L 56
+Pointer: 44 Stops: 156 Passes: 810
+R 19
+Pointer: 63 Stops: 156 Passes: 810
+L 373
+Pointer: 90 Stops: 156 Passes: 814
+L 90
+Pointer: 0 Stops: 157 Passes: 814
+L 886
+Pointer: 14 Stops: 157 Passes: 822
+L 88
+Pointer: 26 Stops: 157 Passes: 823
+L 26
+Pointer: 0 Stops: 158 Passes: 823
+R 7
+Pointer: 7 Stops: 158 Passes: 823
+L 85
+Pointer: 22 Stops: 158 Passes: 824
+L 12
+Pointer: 10 Stops: 158 Passes: 824
+L 87
+Pointer: 23 Stops: 158 Passes: 825
+R 77
+Pointer: 0 Stops: 159 Passes: 825
+R 97
+Pointer: 97 Stops: 159 Passes: 825
+L 8
+Pointer: 89 Stops: 159 Passes: 825
+L 589
+Pointer: 0 Stops: 160 Passes: 830
+R 57
+Pointer: 57 Stops: 160 Passes: 830
+R 1
+Pointer: 58 Stops: 160 Passes: 830
+L 58
+Pointer: 0 Stops: 161 Passes: 830
+L 62
+Pointer: 38 Stops: 161 Passes: 830
+R 18
+Pointer: 56 Stops: 161 Passes: 830
+R 77
+Pointer: 33 Stops: 161 Passes: 831
+R 94
+Pointer: 27 Stops: 161 Passes: 832
+R 73
+Pointer: 0 Stops: 162 Passes: 832
+R 862
+Pointer: 62 Stops: 162 Passes: 840
+L 62
+Pointer: 0 Stops: 163 Passes: 840
+L 71
+Pointer: 29 Stops: 163 Passes: 840
+R 71
+Pointer: 0 Stops: 164 Passes: 840
+L 3
+Pointer: 97 Stops: 164 Passes: 840
+R 46
+Pointer: 43 Stops: 164 Passes: 841
+L 60
+Pointer: 83 Stops: 164 Passes: 842
+L 32
+Pointer: 51 Stops: 164 Passes: 842
+R 915
+Pointer: 66 Stops: 164 Passes: 851
+R 91
+Pointer: 57 Stops: 164 Passes: 852
+L 42
+Pointer: 15 Stops: 164 Passes: 852
+R 17
+Pointer: 32 Stops: 164 Passes: 852
+R 9
+Pointer: 41 Stops: 164 Passes: 852
+R 22
+Pointer: 63 Stops: 164 Passes: 852
+R 3
+Pointer: 66 Stops: 164 Passes: 852
+R 63
+Pointer: 29 Stops: 164 Passes: 853
+L 29
+Pointer: 0 Stops: 165 Passes: 853
+R 96
+Pointer: 96 Stops: 165 Passes: 853
+R 58
+Pointer: 54 Stops: 165 Passes: 854
+R 37
+Pointer: 91 Stops: 165 Passes: 854
+L 60
+Pointer: 31 Stops: 165 Passes: 854
+R 297
+Pointer: 28 Stops: 165 Passes: 857
+R 83
+Pointer: 11 Stops: 165 Passes: 858
+L 2
+Pointer: 9 Stops: 165 Passes: 858
+L 73
+Pointer: 36 Stops: 165 Passes: 859
+L 20
+Pointer: 16 Stops: 165 Passes: 859
+R 590
+Pointer: 6 Stops: 165 Passes: 865
+L 15
+Pointer: 91 Stops: 165 Passes: 866
+R 76
+Pointer: 67 Stops: 165 Passes: 867
+L 73
+Pointer: 94 Stops: 165 Passes: 868
+R 66
+Pointer: 60 Stops: 165 Passes: 869
+R 40
+Pointer: 0 Stops: 166 Passes: 869
+L 69
+Pointer: 31 Stops: 166 Passes: 869
+R 82
+Pointer: 13 Stops: 166 Passes: 870
+R 290
+Pointer: 3 Stops: 166 Passes: 873
+L 23
+Pointer: 80 Stops: 166 Passes: 874
+L 80
+Pointer: 0 Stops: 167 Passes: 874
+L 50
+Pointer: 50 Stops: 167 Passes: 874
+R 250
+Pointer: 0 Stops: 168 Passes: 876
+L 66
+Pointer: 34 Stops: 168 Passes: 876
+L 34
+Pointer: 0 Stops: 169 Passes: 876
+R 213
+Pointer: 13 Stops: 169 Passes: 878
+R 83
+Pointer: 96 Stops: 169 Passes: 878
+L 96
+Pointer: 0 Stops: 170 Passes: 878
+L 339
+Pointer: 61 Stops: 170 Passes: 881
+L 61
+Pointer: 0 Stops: 171 Passes: 881
+L 98
+Pointer: 2 Stops: 171 Passes: 881
+L 69
+Pointer: 33 Stops: 171 Passes: 882
+R 94
+Pointer: 27 Stops: 171 Passes: 883
+L 27
+Pointer: 0 Stops: 172 Passes: 883
+L 4
+Pointer: 96 Stops: 172 Passes: 883
+L 34
+Pointer: 62 Stops: 172 Passes: 883
+L 76
+Pointer: 86 Stops: 172 Passes: 884
+R 83
+Pointer: 69 Stops: 172 Passes: 885
+L 469
+Pointer: 0 Stops: 173 Passes: 889
+L 618
+Pointer: 82 Stops: 173 Passes: 895
+R 952
+Pointer: 34 Stops: 173 Passes: 905
+R 17
+Pointer: 51 Stops: 173 Passes: 905
+R 49
+Pointer: 0 Stops: 174 Passes: 905
+R 16
+Pointer: 16 Stops: 174 Passes: 905
+R 64
+Pointer: 80 Stops: 174 Passes: 905
+L 80
+Pointer: 0 Stops: 175 Passes: 905
+R 65
+Pointer: 65 Stops: 175 Passes: 905
+R 35
+Pointer: 0 Stops: 176 Passes: 905
+L 178
+Pointer: 22 Stops: 176 Passes: 906
+R 36
+Pointer: 58 Stops: 176 Passes: 906
+L 11
+Pointer: 47 Stops: 176 Passes: 906
+R 153
+Pointer: 0 Stops: 177 Passes: 907
+R 64
+Pointer: 64 Stops: 177 Passes: 907
+L 62
+Pointer: 2 Stops: 177 Passes: 907
+R 68
+Pointer: 70 Stops: 177 Passes: 907
+R 24
+Pointer: 94 Stops: 177 Passes: 907
+L 78
+Pointer: 16 Stops: 177 Passes: 907
+R 84
+Pointer: 0 Stops: 178 Passes: 907
+R 47
+Pointer: 47 Stops: 178 Passes: 907
+L 26
+Pointer: 21 Stops: 178 Passes: 907
+R 102
+Pointer: 23 Stops: 178 Passes: 908
+L 881
+Pointer: 42 Stops: 178 Passes: 917
+L 47
+Pointer: 95 Stops: 178 Passes: 918
+L 95
+Pointer: 0 Stops: 179 Passes: 918
+R 93
+Pointer: 93 Stops: 179 Passes: 918
+L 50
+Pointer: 43 Stops: 179 Passes: 918
+L 643
+Pointer: 0 Stops: 180 Passes: 924
+L 77
+Pointer: 23 Stops: 180 Passes: 924
+L 71
+Pointer: 52 Stops: 180 Passes: 925
+L 48
+Pointer: 4 Stops: 180 Passes: 925
+L 4
+Pointer: 0 Stops: 181 Passes: 925
+L 68
+Pointer: 32 Stops: 181 Passes: 925
+R 41
+Pointer: 73 Stops: 181 Passes: 925
+L 6
+Pointer: 67 Stops: 181 Passes: 925
+R 666
+Pointer: 33 Stops: 181 Passes: 932
+R 67
+Pointer: 0 Stops: 182 Passes: 932
+R 70
+Pointer: 70 Stops: 182 Passes: 932
+R 61
+Pointer: 31 Stops: 182 Passes: 933
+L 53
+Pointer: 78 Stops: 182 Passes: 934
+L 32
+Pointer: 46 Stops: 182 Passes: 934
+L 59
+Pointer: 87 Stops: 182 Passes: 935
+L 87
+Pointer: 0 Stops: 183 Passes: 935
+L 85
+Pointer: 15 Stops: 183 Passes: 935
+L 207
+Pointer: 8 Stops: 183 Passes: 937
+R 92
+Pointer: 0 Stops: 184 Passes: 937
+L 55
+Pointer: 45 Stops: 184 Passes: 937
+R 68
+Pointer: 13 Stops: 184 Passes: 938
+L 58
+Pointer: 55 Stops: 184 Passes: 939
+R 93
+Pointer: 48 Stops: 184 Passes: 940
+R 52
+Pointer: 0 Stops: 185 Passes: 940
+L 824
+Pointer: 76 Stops: 185 Passes: 948
+R 54
+Pointer: 30 Stops: 185 Passes: 949
+R 52
+Pointer: 82 Stops: 185 Passes: 949
+R 18
+Pointer: 0 Stops: 186 Passes: 949
+L 62
+Pointer: 38 Stops: 186 Passes: 949
+R 62
+Pointer: 0 Stops: 187 Passes: 949
+L 35
+Pointer: 65 Stops: 187 Passes: 949
+L 81
+Pointer: 84 Stops: 187 Passes: 950
+L 784
+Pointer: 0 Stops: 188 Passes: 957
+L 296
+Pointer: 4 Stops: 188 Passes: 959
+L 39
+Pointer: 65 Stops: 188 Passes: 960
+L 24
+Pointer: 41 Stops: 188 Passes: 960
+L 41
+Pointer: 0 Stops: 189 Passes: 960
+L 72
+Pointer: 28 Stops: 189 Passes: 960
+R 97
+Pointer: 25 Stops: 189 Passes: 961
+R 10
+Pointer: 35 Stops: 189 Passes: 961
+R 45
+Pointer: 80 Stops: 189 Passes: 961
+L 96
+Pointer: 84 Stops: 189 Passes: 962
+R 55
+Pointer: 39 Stops: 189 Passes: 963
+L 439
+Pointer: 0 Stops: 190 Passes: 967
+R 98
+Pointer: 98 Stops: 190 Passes: 967
+L 50
+Pointer: 48 Stops: 190 Passes: 967
+R 53
+Pointer: 1 Stops: 190 Passes: 968
+R 65
+Pointer: 66 Stops: 190 Passes: 968
+L 2
+Pointer: 64 Stops: 190 Passes: 968
+R 44
+Pointer: 8 Stops: 190 Passes: 969
+R 96
+Pointer: 4 Stops: 190 Passes: 970
+R 15
+Pointer: 19 Stops: 190 Passes: 970
+L 52
+Pointer: 67 Stops: 190 Passes: 971
+R 91
+Pointer: 58 Stops: 190 Passes: 972
+R 202
+Pointer: 60 Stops: 190 Passes: 974
+R 14
+Pointer: 74 Stops: 190 Passes: 974
+R 26
+Pointer: 0 Stops: 191 Passes: 974
+R 718
+Pointer: 18 Stops: 191 Passes: 981
+L 62
+Pointer: 56 Stops: 191 Passes: 982
+L 79
+Pointer: 77 Stops: 191 Passes: 983
+R 52
+Pointer: 29 Stops: 191 Passes: 984
+R 513
+Pointer: 42 Stops: 191 Passes: 989
+L 42
+Pointer: 0 Stops: 192 Passes: 989
+R 229
+Pointer: 29 Stops: 192 Passes: 991
+L 532
+Pointer: 97 Stops: 192 Passes: 997
+R 50
+Pointer: 47 Stops: 192 Passes: 998
+L 516
+Pointer: 31 Stops: 192 Passes: 1003
+R 94
+Pointer: 25 Stops: 192 Passes: 1004
+L 88
+Pointer: 37 Stops: 192 Passes: 1005
+R 63
+Pointer: 0 Stops: 193 Passes: 1005
+L 27
+Pointer: 73 Stops: 193 Passes: 1005
+L 106
+Pointer: 67 Stops: 193 Passes: 1006
+R 30
+Pointer: 97 Stops: 193 Passes: 1006
+L 49
+Pointer: 48 Stops: 193 Passes: 1006
+L 48
+Pointer: 0 Stops: 194 Passes: 1006
+L 13
+Pointer: 87 Stops: 194 Passes: 1006
+L 54
+Pointer: 33 Stops: 194 Passes: 1006
+L 24
+Pointer: 9 Stops: 194 Passes: 1006
+L 32
+Pointer: 77 Stops: 194 Passes: 1007
+R 23
+Pointer: 0 Stops: 195 Passes: 1007
+L 73
+Pointer: 27 Stops: 195 Passes: 1007
+R 50
+Pointer: 77 Stops: 195 Passes: 1007
+L 77
+Pointer: 0 Stops: 196 Passes: 1007
+L 83
+Pointer: 17 Stops: 196 Passes: 1007
+L 557
+Pointer: 60 Stops: 196 Passes: 1013
+L 43
+Pointer: 17 Stops: 196 Passes: 1013
+L 880
+Pointer: 37 Stops: 196 Passes: 1022
+L 37
+Pointer: 0 Stops: 197 Passes: 1022
+L 98
+Pointer: 2 Stops: 197 Passes: 1022
+L 30
+Pointer: 72 Stops: 197 Passes: 1023
+L 27
+Pointer: 45 Stops: 197 Passes: 1023
+L 60
+Pointer: 85 Stops: 197 Passes: 1024
+R 77
+Pointer: 62 Stops: 197 Passes: 1025
+L 20
+Pointer: 42 Stops: 197 Passes: 1025
+R 11
+Pointer: 53 Stops: 197 Passes: 1025
+R 81
+Pointer: 34 Stops: 197 Passes: 1026
+L 39
+Pointer: 95 Stops: 197 Passes: 1027
+R 96
+Pointer: 91 Stops: 197 Passes: 1028
+R 58
+Pointer: 49 Stops: 197 Passes: 1029
+L 29
+Pointer: 20 Stops: 197 Passes: 1029
+R 80
+Pointer: 0 Stops: 198 Passes: 1029
+R 16
+Pointer: 16 Stops: 198 Passes: 1029
+L 557
+Pointer: 59 Stops: 198 Passes: 1035
+L 59
+Pointer: 0 Stops: 199 Passes: 1035
+R 40
+Pointer: 40 Stops: 199 Passes: 1035
+R 960
+Pointer: 0 Stops: 200 Passes: 1044
+R 490
+Pointer: 90 Stops: 200 Passes: 1048
+L 934
+Pointer: 56 Stops: 200 Passes: 1057
+L 23
+Pointer: 33 Stops: 200 Passes: 1057
+R 76
+Pointer: 9 Stops: 200 Passes: 1058
+L 9
+Pointer: 0 Stops: 201 Passes: 1058
+L 74
+Pointer: 26 Stops: 201 Passes: 1058
+R 74
+Pointer: 0 Stops: 202 Passes: 1058
+L 23
+Pointer: 77 Stops: 202 Passes: 1058
+R 757
+Pointer: 34 Stops: 202 Passes: 1066
+R 66
+Pointer: 0 Stops: 203 Passes: 1066
+R 60
+Pointer: 60 Stops: 203 Passes: 1066
+L 25
+Pointer: 35 Stops: 203 Passes: 1066
+R 13
+Pointer: 48 Stops: 203 Passes: 1066
+L 34
+Pointer: 14 Stops: 203 Passes: 1066
+R 66
+Pointer: 80 Stops: 203 Passes: 1066
+L 12
+Pointer: 68 Stops: 203 Passes: 1066
+L 31
+Pointer: 37 Stops: 203 Passes: 1066
+R 63
+Pointer: 0 Stops: 204 Passes: 1066
+L 56
+Pointer: 44 Stops: 204 Passes: 1066
+L 343
+Pointer: 1 Stops: 204 Passes: 1069
+R 92
+Pointer: 93 Stops: 204 Passes: 1069
+L 64
+Pointer: 29 Stops: 204 Passes: 1069
+R 73
+Pointer: 2 Stops: 204 Passes: 1070
+R 176
+Pointer: 78 Stops: 204 Passes: 1071
+R 68
+Pointer: 46 Stops: 204 Passes: 1072
+L 40
+Pointer: 6 Stops: 204 Passes: 1072
+R 164
+Pointer: 70 Stops: 204 Passes: 1073
+L 6
+Pointer: 64 Stops: 204 Passes: 1073
+R 36
+Pointer: 0 Stops: 205 Passes: 1073
+R 88
+Pointer: 88 Stops: 205 Passes: 1073
+R 81
+Pointer: 69 Stops: 205 Passes: 1074
+R 8
+Pointer: 77 Stops: 205 Passes: 1074
+L 28
+Pointer: 49 Stops: 205 Passes: 1074
+R 51
+Pointer: 0 Stops: 206 Passes: 1074
+L 245
+Pointer: 55 Stops: 206 Passes: 1076
+R 97
+Pointer: 52 Stops: 206 Passes: 1077
+R 36
+Pointer: 88 Stops: 206 Passes: 1077
+L 88
+Pointer: 0 Stops: 207 Passes: 1077
+R 72
+Pointer: 72 Stops: 207 Passes: 1077
+L 72
+Pointer: 0 Stops: 208 Passes: 1077
+L 21
+Pointer: 79 Stops: 208 Passes: 1077
+R 14
+Pointer: 93 Stops: 208 Passes: 1077
+R 6
+Pointer: 99 Stops: 208 Passes: 1077
+R 89
+Pointer: 88 Stops: 208 Passes: 1078
+R 18
+Pointer: 6 Stops: 208 Passes: 1079
+L 93
+Pointer: 13 Stops: 208 Passes: 1080
+L 52
+Pointer: 61 Stops: 208 Passes: 1081
+L 54
+Pointer: 7 Stops: 208 Passes: 1081
+R 10
+Pointer: 17 Stops: 208 Passes: 1081
+L 61
+Pointer: 56 Stops: 208 Passes: 1082
+R 544
+Pointer: 0 Stops: 209 Passes: 1087
+R 97
+Pointer: 97 Stops: 209 Passes: 1087
+R 203
+Pointer: 0 Stops: 210 Passes: 1089
+R 91
+Pointer: 91 Stops: 210 Passes: 1089
+R 21
+Pointer: 12 Stops: 210 Passes: 1090
+L 12
+Pointer: 0 Stops: 211 Passes: 1090
+R 168
+Pointer: 68 Stops: 211 Passes: 1091
+R 68
+Pointer: 36 Stops: 211 Passes: 1092
+R 661
+Pointer: 97 Stops: 211 Passes: 1098
+R 69
+Pointer: 66 Stops: 211 Passes: 1099
+L 1
+Pointer: 65 Stops: 211 Passes: 1099
+L 665
+Pointer: 0 Stops: 212 Passes: 1105
+R 338
+Pointer: 38 Stops: 212 Passes: 1108
+L 38
+Pointer: 0 Stops: 213 Passes: 1108
+L 25
+Pointer: 75 Stops: 213 Passes: 1108
+L 944
+Pointer: 31 Stops: 213 Passes: 1117
+L 31
+Pointer: 0 Stops: 214 Passes: 1117
+L 32
+Pointer: 68 Stops: 214 Passes: 1117
+L 13
+Pointer: 55 Stops: 214 Passes: 1117
+R 11
+Pointer: 66 Stops: 214 Passes: 1117
+R 528
+Pointer: 94 Stops: 214 Passes: 1122
+R 42
+Pointer: 36 Stops: 214 Passes: 1123
+L 36
+Pointer: 0 Stops: 215 Passes: 1123
+L 304
+Pointer: 96 Stops: 215 Passes: 1126
+R 4
+Pointer: 0 Stops: 216 Passes: 1126
+R 56
+Pointer: 56 Stops: 216 Passes: 1126
+L 65
+Pointer: 91 Stops: 216 Passes: 1127
+R 733
+Pointer: 24 Stops: 216 Passes: 1135
+L 36
+Pointer: 88 Stops: 216 Passes: 1136
+L 57
+Pointer: 31 Stops: 216 Passes: 1136
+L 380
+Pointer: 51 Stops: 216 Passes: 1140
+R 24
+Pointer: 75 Stops: 216 Passes: 1140
+R 2
+Pointer: 77 Stops: 216 Passes: 1140
+R 92
+Pointer: 69 Stops: 216 Passes: 1141
+L 594
+Pointer: 75 Stops: 216 Passes: 1147
+L 57
+Pointer: 18 Stops: 216 Passes: 1147
+L 18
+Pointer: 0 Stops: 217 Passes: 1147
+L 17
+Pointer: 83 Stops: 217 Passes: 1147
+R 46
+Pointer: 29 Stops: 217 Passes: 1148
+L 97
+Pointer: 32 Stops: 217 Passes: 1149
+L 58
+Pointer: 74 Stops: 217 Passes: 1150
+R 94
+Pointer: 68 Stops: 217 Passes: 1151
+R 37
+Pointer: 5 Stops: 217 Passes: 1152
+R 69
+Pointer: 74 Stops: 217 Passes: 1152
+L 19
+Pointer: 55 Stops: 217 Passes: 1152
+R 85
+Pointer: 40 Stops: 217 Passes: 1153
+R 760
+Pointer: 0 Stops: 218 Passes: 1160
+L 49
+Pointer: 51 Stops: 218 Passes: 1160
+R 958
+Pointer: 9 Stops: 218 Passes: 1170
+R 60
+Pointer: 69 Stops: 218 Passes: 1170
+L 69
+Pointer: 0 Stops: 219 Passes: 1170
+R 118
+Pointer: 18 Stops: 219 Passes: 1171
+L 49
+Pointer: 69 Stops: 219 Passes: 1172
+R 32
+Pointer: 1 Stops: 219 Passes: 1173
+L 61
+Pointer: 40 Stops: 219 Passes: 1174
+L 67
+Pointer: 73 Stops: 219 Passes: 1175
+L 73
+Pointer: 0 Stops: 220 Passes: 1175
+R 519
+Pointer: 19 Stops: 220 Passes: 1180
+L 19
+Pointer: 0 Stops: 221 Passes: 1180
+R 42
+Pointer: 42 Stops: 221 Passes: 1180
+R 1
+Pointer: 43 Stops: 221 Passes: 1180
+L 64
+Pointer: 79 Stops: 221 Passes: 1181
+R 21
+Pointer: 0 Stops: 222 Passes: 1181
+L 962
+Pointer: 38 Stops: 222 Passes: 1190
+R 66
+Pointer: 4 Stops: 222 Passes: 1191
+R 96
+Pointer: 0 Stops: 223 Passes: 1191
+R 84
+Pointer: 84 Stops: 223 Passes: 1191
+R 16
+Pointer: 0 Stops: 224 Passes: 1191
+R 12
+Pointer: 12 Stops: 224 Passes: 1191
+L 12
+Pointer: 0 Stops: 225 Passes: 1191
+L 98
+Pointer: 2 Stops: 225 Passes: 1191
+R 98
+Pointer: 0 Stops: 226 Passes: 1191
+L 81
+Pointer: 19 Stops: 226 Passes: 1191
+L 306
+Pointer: 13 Stops: 226 Passes: 1194
+L 40
+Pointer: 73 Stops: 226 Passes: 1195
+R 27
+Pointer: 0 Stops: 227 Passes: 1195
+R 82
+Pointer: 82 Stops: 227 Passes: 1195
+L 82
+Pointer: 0 Stops: 228 Passes: 1195
+R 4
+Pointer: 4 Stops: 228 Passes: 1195
+R 82
+Pointer: 86 Stops: 228 Passes: 1195
+R 47
+Pointer: 33 Stops: 228 Passes: 1196
+L 98
+Pointer: 35 Stops: 228 Passes: 1197
+L 59
+Pointer: 76 Stops: 228 Passes: 1198
+R 24
+Pointer: 0 Stops: 229 Passes: 1198
+L 77
+Pointer: 23 Stops: 229 Passes: 1198
+R 1
+Pointer: 24 Stops: 229 Passes: 1198
+R 453
+Pointer: 77 Stops: 229 Passes: 1202
+R 37
+Pointer: 14 Stops: 229 Passes: 1203
+R 58
+Pointer: 72 Stops: 229 Passes: 1203
+R 33
+Pointer: 5 Stops: 229 Passes: 1204
+L 959
+Pointer: 46 Stops: 229 Passes: 1214
+L 46
+Pointer: 0 Stops: 230 Passes: 1214
+R 11
+Pointer: 11 Stops: 230 Passes: 1214
+L 11
+Pointer: 0 Stops: 231 Passes: 1214
+L 92
+Pointer: 8 Stops: 231 Passes: 1214
+L 8
+Pointer: 0 Stops: 232 Passes: 1214
+R 98
+Pointer: 98 Stops: 232 Passes: 1214
+R 31
+Pointer: 29 Stops: 232 Passes: 1215
+R 10
+Pointer: 39 Stops: 232 Passes: 1215
+L 35
+Pointer: 4 Stops: 232 Passes: 1215
+R 96
+Pointer: 0 Stops: 233 Passes: 1215
+L 56
+Pointer: 44 Stops: 233 Passes: 1215
+R 62
+Pointer: 6 Stops: 233 Passes: 1216
+L 30
+Pointer: 76 Stops: 233 Passes: 1217
+R 64
+Pointer: 40 Stops: 233 Passes: 1218
+R 90
+Pointer: 30 Stops: 233 Passes: 1219
+R 591
+Pointer: 21 Stops: 233 Passes: 1225
+R 79
+Pointer: 0 Stops: 234 Passes: 1225
+L 68
+Pointer: 32 Stops: 234 Passes: 1225
+R 33
+Pointer: 65 Stops: 234 Passes: 1225
+L 762
+Pointer: 3 Stops: 234 Passes: 1232
+R 97
+Pointer: 0 Stops: 235 Passes: 1232
+L 15
+Pointer: 85 Stops: 235 Passes: 1232
+L 78
+Pointer: 7 Stops: 235 Passes: 1232
+L 4
+Pointer: 3 Stops: 235 Passes: 1232
+L 844
+Pointer: 59 Stops: 235 Passes: 1241
+R 28
+Pointer: 87 Stops: 235 Passes: 1241
+L 87
+Pointer: 0 Stops: 236 Passes: 1241
+L 61
+Pointer: 39 Stops: 236 Passes: 1241
+L 539
+Pointer: 0 Stops: 237 Passes: 1246
+R 14
+Pointer: 14 Stops: 237 Passes: 1246
+L 14
+Pointer: 0 Stops: 238 Passes: 1246
+R 10
+Pointer: 10 Stops: 238 Passes: 1246
+L 10
+Pointer: 0 Stops: 239 Passes: 1246
+L 73
+Pointer: 27 Stops: 239 Passes: 1246
+L 38
+Pointer: 89 Stops: 239 Passes: 1247
+L 12
+Pointer: 77 Stops: 239 Passes: 1247
+R 45
+Pointer: 22 Stops: 239 Passes: 1248
+R 73
+Pointer: 95 Stops: 239 Passes: 1248
+L 85
+Pointer: 10 Stops: 239 Passes: 1248
+L 245
+Pointer: 65 Stops: 239 Passes: 1251
+L 54
+Pointer: 11 Stops: 239 Passes: 1251
+R 9
+Pointer: 20 Stops: 239 Passes: 1251
+L 20
+Pointer: 0 Stops: 240 Passes: 1251
+R 47
+Pointer: 47 Stops: 240 Passes: 1251
+R 32
+Pointer: 79 Stops: 240 Passes: 1251
+R 42
+Pointer: 21 Stops: 240 Passes: 1252
+R 79
+Pointer: 0 Stops: 241 Passes: 1252
+L 39
+Pointer: 61 Stops: 241 Passes: 1252
+L 818
+Pointer: 43 Stops: 241 Passes: 1260
+L 3
+Pointer: 40 Stops: 241 Passes: 1260
+R 64
+Pointer: 4 Stops: 241 Passes: 1261
+R 590
+Pointer: 94 Stops: 241 Passes: 1266
+R 406
+Pointer: 0 Stops: 242 Passes: 1270
+R 97
+Pointer: 97 Stops: 242 Passes: 1270
+L 997
+Pointer: 0 Stops: 243 Passes: 1279
+L 39
+Pointer: 61 Stops: 243 Passes: 1279
+L 558
+Pointer: 3 Stops: 243 Passes: 1284
+L 40
+Pointer: 63 Stops: 243 Passes: 1285
+R 37
+Pointer: 0 Stops: 244 Passes: 1285
+L 82
+Pointer: 18 Stops: 244 Passes: 1285
+R 29
+Pointer: 47 Stops: 244 Passes: 1285
+L 47
+Pointer: 0 Stops: 245 Passes: 1285
+L 23
+Pointer: 77 Stops: 245 Passes: 1285
+R 93
+Pointer: 70 Stops: 245 Passes: 1286
+R 97
+Pointer: 67 Stops: 245 Passes: 1287
+R 23
+Pointer: 90 Stops: 245 Passes: 1287
+R 10
+Pointer: 0 Stops: 246 Passes: 1287
+R 514
+Pointer: 14 Stops: 246 Passes: 1292
+R 96
+Pointer: 10 Stops: 246 Passes: 1293
+R 90
+Pointer: 0 Stops: 247 Passes: 1293
+R 71
+Pointer: 71 Stops: 247 Passes: 1293
+L 20
+Pointer: 51 Stops: 247 Passes: 1293
+L 14
+Pointer: 37 Stops: 247 Passes: 1293
+L 67
+Pointer: 70 Stops: 247 Passes: 1294
+L 85
+Pointer: 85 Stops: 247 Passes: 1295
+R 15
+Pointer: 0 Stops: 248 Passes: 1295
+R 76
+Pointer: 76 Stops: 248 Passes: 1295
+L 1
+Pointer: 75 Stops: 248 Passes: 1295
+R 25
+Pointer: 0 Stops: 249 Passes: 1295
+L 30
+Pointer: 70 Stops: 249 Passes: 1295
+L 51
+Pointer: 19 Stops: 249 Passes: 1295
+L 619
+Pointer: 0 Stops: 250 Passes: 1301
+L 34
+Pointer: 66 Stops: 250 Passes: 1301
+R 411
+Pointer: 77 Stops: 250 Passes: 1305
+R 354
+Pointer: 31 Stops: 250 Passes: 1309
+R 69
+Pointer: 0 Stops: 251 Passes: 1309
+L 878
+Pointer: 22 Stops: 251 Passes: 1317
+R 34
+Pointer: 56 Stops: 251 Passes: 1317
+L 56
+Pointer: 0 Stops: 252 Passes: 1317
+L 7
+Pointer: 93 Stops: 252 Passes: 1317
+R 7
+Pointer: 0 Stops: 253 Passes: 1317
+R 275
+Pointer: 75 Stops: 253 Passes: 1319
+L 834
+Pointer: 41 Stops: 253 Passes: 1327
+L 99
+Pointer: 42 Stops: 253 Passes: 1328
+L 230
+Pointer: 12 Stops: 253 Passes: 1330
+L 90
+Pointer: 22 Stops: 253 Passes: 1331
+R 78
+Pointer: 0 Stops: 254 Passes: 1331
+L 77
+Pointer: 23 Stops: 254 Passes: 1331
+L 723
+Pointer: 0 Stops: 255 Passes: 1338
+L 840
+Pointer: 60 Stops: 255 Passes: 1346
+R 368
+Pointer: 28 Stops: 255 Passes: 1350
+L 328
+Pointer: 0 Stops: 256 Passes: 1353
+L 27
+Pointer: 73 Stops: 256 Passes: 1353
+R 27
+Pointer: 0 Stops: 257 Passes: 1353
+L 29
+Pointer: 71 Stops: 257 Passes: 1353
+L 36
+Pointer: 35 Stops: 257 Passes: 1353
+R 114
+Pointer: 49 Stops: 257 Passes: 1354
+L 649
+Pointer: 0 Stops: 258 Passes: 1360
+R 79
+Pointer: 79 Stops: 258 Passes: 1360
+R 710
+Pointer: 89 Stops: 258 Passes: 1367
+R 67
+Pointer: 56 Stops: 258 Passes: 1368
+L 27
+Pointer: 29 Stops: 258 Passes: 1368
+L 29
+Pointer: 0 Stops: 259 Passes: 1368
+L 62
+Pointer: 38 Stops: 259 Passes: 1368
+R 39
+Pointer: 77 Stops: 259 Passes: 1368
+R 93
+Pointer: 70 Stops: 259 Passes: 1369
+R 61
+Pointer: 31 Stops: 259 Passes: 1370
+R 43
+Pointer: 74 Stops: 259 Passes: 1370
+R 70
+Pointer: 44 Stops: 259 Passes: 1371
+L 274
+Pointer: 70 Stops: 259 Passes: 1374
+L 70
+Pointer: 0 Stops: 260 Passes: 1374
+L 208
+Pointer: 92 Stops: 260 Passes: 1376
+L 92
+Pointer: 0 Stops: 261 Passes: 1376
+L 829
+Pointer: 71 Stops: 261 Passes: 1384
+L 54
+Pointer: 17 Stops: 261 Passes: 1384
+R 53
+Pointer: 70 Stops: 261 Passes: 1384
+L 70
+Pointer: 0 Stops: 262 Passes: 1384
+R 26
+Pointer: 26 Stops: 262 Passes: 1384
+L 73
+Pointer: 53 Stops: 262 Passes: 1385
+L 24
+Pointer: 29 Stops: 262 Passes: 1385
+R 271
+Pointer: 0 Stops: 263 Passes: 1387
+R 209
+Pointer: 9 Stops: 263 Passes: 1389
+L 509
+Pointer: 0 Stops: 264 Passes: 1394
+R 48
+Pointer: 48 Stops: 264 Passes: 1394
+L 48
+Pointer: 0 Stops: 265 Passes: 1394
+R 61
+Pointer: 61 Stops: 265 Passes: 1394
+R 39
+Pointer: 0 Stops: 266 Passes: 1394
+L 3
+Pointer: 97 Stops: 266 Passes: 1394
+L 197
+Pointer: 0 Stops: 267 Passes: 1395
+R 64
+Pointer: 64 Stops: 267 Passes: 1395
+L 86
+Pointer: 78 Stops: 267 Passes: 1396
+L 18
+Pointer: 60 Stops: 267 Passes: 1396
+L 91
+Pointer: 69 Stops: 267 Passes: 1397
+L 55
+Pointer: 14 Stops: 267 Passes: 1397
+L 14
+Pointer: 0 Stops: 268 Passes: 1397
+L 77
+Pointer: 23 Stops: 268 Passes: 1397
+L 31
+Pointer: 92 Stops: 268 Passes: 1398
+R 90
+Pointer: 82 Stops: 268 Passes: 1399
+L 788
+Pointer: 94 Stops: 268 Passes: 1407
+R 417
+Pointer: 11 Stops: 268 Passes: 1412
+R 19
+Pointer: 30 Stops: 268 Passes: 1412
+L 822
+Pointer: 8 Stops: 268 Passes: 1420
+R 947
+Pointer: 55 Stops: 268 Passes: 1429
+R 16
+Pointer: 71 Stops: 268 Passes: 1429
+L 601
+Pointer: 70 Stops: 268 Passes: 1435
+L 91
+Pointer: 79 Stops: 268 Passes: 1436
+L 79
+Pointer: 0 Stops: 269 Passes: 1436
+R 1
+Pointer: 1 Stops: 269 Passes: 1436
+L 41
+Pointer: 60 Stops: 269 Passes: 1437
+R 40
+Pointer: 0 Stops: 270 Passes: 1437
+L 64
+Pointer: 36 Stops: 270 Passes: 1437
+L 36
+Pointer: 0 Stops: 271 Passes: 1437
+R 593
+Pointer: 93 Stops: 271 Passes: 1442
+L 23
+Pointer: 70 Stops: 271 Passes: 1442
+R 909
+Pointer: 79 Stops: 271 Passes: 1451
+L 79
+Pointer: 0 Stops: 272 Passes: 1451
+L 40
+Pointer: 60 Stops: 272 Passes: 1451
+R 46
+Pointer: 6 Stops: 272 Passes: 1452
+R 6
+Pointer: 12 Stops: 272 Passes: 1452
+R 88
+Pointer: 0 Stops: 273 Passes: 1452
+R 2
+Pointer: 2 Stops: 273 Passes: 1452
+R 55
+Pointer: 57 Stops: 273 Passes: 1452
+L 69
+Pointer: 88 Stops: 273 Passes: 1453
+R 410
+Pointer: 98 Stops: 273 Passes: 1457
+R 558
+Pointer: 56 Stops: 273 Passes: 1463
+R 596
+Pointer: 52 Stops: 273 Passes: 1469
+R 56
+Pointer: 8 Stops: 273 Passes: 1470
+R 34
+Pointer: 42 Stops: 273 Passes: 1470
+R 58
+Pointer: 0 Stops: 274 Passes: 1470
+L 58
+Pointer: 42 Stops: 274 Passes: 1470
+L 90
+Pointer: 52 Stops: 274 Passes: 1471
+L 91
+Pointer: 61 Stops: 274 Passes: 1472
+L 61
+Pointer: 0 Stops: 275 Passes: 1472
+R 22
+Pointer: 22 Stops: 275 Passes: 1472
+R 78
+Pointer: 0 Stops: 276 Passes: 1472
+R 962
+Pointer: 62 Stops: 276 Passes: 1481
+L 5
+Pointer: 57 Stops: 276 Passes: 1481
+R 571
+Pointer: 28 Stops: 276 Passes: 1487
+R 22
+Pointer: 50 Stops: 276 Passes: 1487
+L 48
+Pointer: 2 Stops: 276 Passes: 1487
+L 2
+Pointer: 0 Stops: 277 Passes: 1487
+L 63
+Pointer: 37 Stops: 277 Passes: 1487
+R 42
+Pointer: 79 Stops: 277 Passes: 1487
+R 76
+Pointer: 55 Stops: 277 Passes: 1488
+R 53
+Pointer: 8 Stops: 277 Passes: 1489
+L 54
+Pointer: 54 Stops: 277 Passes: 1490
+L 58
+Pointer: 96 Stops: 277 Passes: 1491
+R 25
+Pointer: 21 Stops: 277 Passes: 1492
+L 43
+Pointer: 78 Stops: 277 Passes: 1493
+R 22
+Pointer: 0 Stops: 278 Passes: 1493
+L 43
+Pointer: 57 Stops: 278 Passes: 1493
+L 45
+Pointer: 12 Stops: 278 Passes: 1493
+R 81
+Pointer: 93 Stops: 278 Passes: 1493
+R 51
+Pointer: 44 Stops: 278 Passes: 1494
+L 39
+Pointer: 5 Stops: 278 Passes: 1494
+L 9
+Pointer: 96 Stops: 278 Passes: 1495
+L 90
+Pointer: 6 Stops: 278 Passes: 1495
+L 5
+Pointer: 1 Stops: 278 Passes: 1495
+R 47
+Pointer: 48 Stops: 278 Passes: 1495
+R 98
+Pointer: 46 Stops: 278 Passes: 1496
+L 66
+Pointer: 80 Stops: 278 Passes: 1497
+R 126
+Pointer: 6 Stops: 278 Passes: 1499
+L 36
+Pointer: 70 Stops: 278 Passes: 1500
+L 35
+Pointer: 35 Stops: 278 Passes: 1500
+R 65
+Pointer: 0 Stops: 279 Passes: 1500
+L 274
+Pointer: 26 Stops: 279 Passes: 1502
+R 74
+Pointer: 0 Stops: 280 Passes: 1502
+R 57
+Pointer: 57 Stops: 280 Passes: 1502
+L 93
+Pointer: 64 Stops: 280 Passes: 1503
+R 35
+Pointer: 99 Stops: 280 Passes: 1503
+R 1
+Pointer: 0 Stops: 281 Passes: 1503
+L 84
+Pointer: 16 Stops: 281 Passes: 1503
+R 93
+Pointer: 9 Stops: 281 Passes: 1504
+R 54
+Pointer: 63 Stops: 281 Passes: 1504
+R 37
+Pointer: 0 Stops: 282 Passes: 1504
+L 74
+Pointer: 26 Stops: 282 Passes: 1504
+R 120
+Pointer: 46 Stops: 282 Passes: 1505
+L 23
+Pointer: 23 Stops: 282 Passes: 1505
+R 17
+Pointer: 40 Stops: 282 Passes: 1505
+R 96
+Pointer: 36 Stops: 282 Passes: 1506
+L 36
+Pointer: 0 Stops: 283 Passes: 1506
+L 34
+Pointer: 66 Stops: 283 Passes: 1506
+R 63
+Pointer: 29 Stops: 283 Passes: 1507
+L 29
+Pointer: 0 Stops: 284 Passes: 1507
+R 292
+Pointer: 92 Stops: 284 Passes: 1509
+L 705
+Pointer: 87 Stops: 284 Passes: 1516
+L 87
+Pointer: 0 Stops: 285 Passes: 1516
+L 2
+Pointer: 98 Stops: 285 Passes: 1516
+L 98
+Pointer: 0 Stops: 286 Passes: 1516
+R 724
+Pointer: 24 Stops: 286 Passes: 1523
+R 76
+Pointer: 0 Stops: 287 Passes: 1523
+R 98
+Pointer: 98 Stops: 287 Passes: 1523
+R 24
+Pointer: 22 Stops: 287 Passes: 1524
+R 30
+Pointer: 52 Stops: 287 Passes: 1524
+L 69
+Pointer: 83 Stops: 287 Passes: 1525
+L 83
+Pointer: 0 Stops: 288 Passes: 1525
+L 84
+Pointer: 16 Stops: 288 Passes: 1525
+L 16
+Pointer: 0 Stops: 289 Passes: 1525
+R 631
+Pointer: 31 Stops: 289 Passes: 1531
+R 69
+Pointer: 0 Stops: 290 Passes: 1531
+R 10
+Pointer: 10 Stops: 290 Passes: 1531
+L 10
+Pointer: 0 Stops: 291 Passes: 1531
+R 25
+Pointer: 25 Stops: 291 Passes: 1531
+L 55
+Pointer: 70 Stops: 291 Passes: 1532
+R 85
+Pointer: 55 Stops: 291 Passes: 1533
+L 55
+Pointer: 0 Stops: 292 Passes: 1533
+L 65
+Pointer: 35 Stops: 292 Passes: 1533
+L 35
+Pointer: 0 Stops: 293 Passes: 1533
+R 86
+Pointer: 86 Stops: 293 Passes: 1533
+R 14
+Pointer: 0 Stops: 294 Passes: 1533
+R 603
+Pointer: 3 Stops: 294 Passes: 1539
+R 76
+Pointer: 79 Stops: 294 Passes: 1539
+R 21
+Pointer: 0 Stops: 295 Passes: 1539
+R 7
+Pointer: 7 Stops: 295 Passes: 1539
+L 7
+Pointer: 0 Stops: 296 Passes: 1539
+R 95
+Pointer: 95 Stops: 296 Passes: 1539
+R 12
+Pointer: 7 Stops: 296 Passes: 1540
+R 50
+Pointer: 57 Stops: 296 Passes: 1540
+R 337
+Pointer: 94 Stops: 296 Passes: 1543
+R 6
+Pointer: 0 Stops: 297 Passes: 1543
+L 42
+Pointer: 58 Stops: 297 Passes: 1543
+R 542
+Pointer: 0 Stops: 298 Passes: 1548
+R 91
+Pointer: 91 Stops: 298 Passes: 1548
+R 13
+Pointer: 4 Stops: 298 Passes: 1549
+R 50
+Pointer: 54 Stops: 298 Passes: 1549
+R 59
+Pointer: 13 Stops: 298 Passes: 1550
+L 85
+Pointer: 28 Stops: 298 Passes: 1551
+L 28
+Pointer: 0 Stops: 299 Passes: 1551
+L 93
+Pointer: 7 Stops: 299 Passes: 1551
+L 54
+Pointer: 53 Stops: 299 Passes: 1552
+L 942
+Pointer: 11 Stops: 299 Passes: 1561
+L 3
+Pointer: 8 Stops: 299 Passes: 1561
+L 890
+Pointer: 18 Stops: 299 Passes: 1570
+R 79
+Pointer: 97 Stops: 299 Passes: 1570
+R 845
+Pointer: 42 Stops: 299 Passes: 1579
+L 342
+Pointer: 0 Stops: 300 Passes: 1582
+R 588
+Pointer: 88 Stops: 300 Passes: 1587
+L 42
+Pointer: 46 Stops: 300 Passes: 1587
+L 46
+Pointer: 0 Stops: 301 Passes: 1587
+R 40
+Pointer: 40 Stops: 301 Passes: 1587
+L 40
+Pointer: 0 Stops: 302 Passes: 1587
+L 48
+Pointer: 52 Stops: 302 Passes: 1587
+R 62
+Pointer: 14 Stops: 302 Passes: 1588
+L 59
+Pointer: 55 Stops: 302 Passes: 1589
+R 45
+Pointer: 0 Stops: 303 Passes: 1589
+R 6
+Pointer: 6 Stops: 303 Passes: 1589
+R 13
+Pointer: 19 Stops: 303 Passes: 1589
+L 19
+Pointer: 0 Stops: 304 Passes: 1589
+R 16
+Pointer: 16 Stops: 304 Passes: 1589
+L 66
+Pointer: 50 Stops: 304 Passes: 1590
+R 856
+Pointer: 6 Stops: 304 Passes: 1599
+L 62
+Pointer: 44 Stops: 304 Passes: 1600
+R 11
+Pointer: 55 Stops: 304 Passes: 1600
+L 55
+Pointer: 0 Stops: 305 Passes: 1600
+R 423
+Pointer: 23 Stops: 305 Passes: 1604
+L 26
+Pointer: 97 Stops: 305 Passes: 1605
+L 81
+Pointer: 16 Stops: 305 Passes: 1605
+R 16
+Pointer: 32 Stops: 305 Passes: 1605
+L 90
+Pointer: 42 Stops: 305 Passes: 1606
+L 42
+Pointer: 0 Stops: 306 Passes: 1606
+L 37
+Pointer: 63 Stops: 306 Passes: 1606
+L 970
+Pointer: 93 Stops: 306 Passes: 1616
+L 55
+Pointer: 38 Stops: 306 Passes: 1616
+R 17
+Pointer: 55 Stops: 306 Passes: 1616
+R 26
+Pointer: 81 Stops: 306 Passes: 1616
+R 351
+Pointer: 32 Stops: 306 Passes: 1620
+R 368
+Pointer: 0 Stops: 307 Passes: 1623
+L 443
+Pointer: 57 Stops: 307 Passes: 1627
+L 75
+Pointer: 82 Stops: 307 Passes: 1628
+L 71
+Pointer: 11 Stops: 307 Passes: 1628
+R 89
+Pointer: 0 Stops: 308 Passes: 1628
+R 901
+Pointer: 1 Stops: 308 Passes: 1637
+L 325
+Pointer: 76 Stops: 308 Passes: 1641
+L 576
+Pointer: 0 Stops: 309 Passes: 1646
+L 95
+Pointer: 5 Stops: 309 Passes: 1646
+R 14
+Pointer: 19 Stops: 309 Passes: 1646
+R 38
+Pointer: 57 Stops: 309 Passes: 1646
+L 57
+Pointer: 0 Stops: 310 Passes: 1646
+L 66
+Pointer: 34 Stops: 310 Passes: 1646
+L 34
+Pointer: 0 Stops: 311 Passes: 1646
+L 586
+Pointer: 14 Stops: 311 Passes: 1651
+R 91
+Pointer: 5 Stops: 311 Passes: 1652
+R 86
+Pointer: 91 Stops: 311 Passes: 1652
+R 9
+Pointer: 0 Stops: 312 Passes: 1652
+L 85
+Pointer: 15 Stops: 312 Passes: 1652
+R 85
+Pointer: 0 Stops: 313 Passes: 1652
+R 31
+Pointer: 31 Stops: 313 Passes: 1652
+L 824
+Pointer: 7 Stops: 313 Passes: 1660
+L 7
+Pointer: 0 Stops: 314 Passes: 1660
+R 219
+Pointer: 19 Stops: 314 Passes: 1662
+L 96
+Pointer: 23 Stops: 314 Passes: 1663
+R 72
+Pointer: 95 Stops: 314 Passes: 1663
+R 4
+Pointer: 99 Stops: 314 Passes: 1663
+R 58
+Pointer: 57 Stops: 314 Passes: 1664
+R 69
+Pointer: 26 Stops: 314 Passes: 1665
+L 13
+Pointer: 13 Stops: 314 Passes: 1665
+L 813
+Pointer: 0 Stops: 315 Passes: 1673
+L 4
+Pointer: 96 Stops: 315 Passes: 1673
+R 667
+Pointer: 63 Stops: 315 Passes: 1680
+L 60
+Pointer: 3 Stops: 315 Passes: 1680
+L 23
+Pointer: 80 Stops: 315 Passes: 1681
+R 93
+Pointer: 73 Stops: 315 Passes: 1682
+R 27
+Pointer: 0 Stops: 316 Passes: 1682
+L 41
+Pointer: 59 Stops: 316 Passes: 1682
+R 41
+Pointer: 0 Stops: 317 Passes: 1682
+L 61
+Pointer: 39 Stops: 317 Passes: 1682
+L 648
+Pointer: 91 Stops: 317 Passes: 1689
+R 55
+Pointer: 46 Stops: 317 Passes: 1690
+R 49
+Pointer: 95 Stops: 317 Passes: 1690
+R 38
+Pointer: 33 Stops: 317 Passes: 1691
+R 67
+Pointer: 0 Stops: 318 Passes: 1691
+L 2
+Pointer: 98 Stops: 318 Passes: 1691
+R 52
+Pointer: 50 Stops: 318 Passes: 1692
+L 66
+Pointer: 84 Stops: 318 Passes: 1693
+R 20
+Pointer: 4 Stops: 318 Passes: 1694
+R 45
+Pointer: 49 Stops: 318 Passes: 1694
+R 46
+Pointer: 95 Stops: 318 Passes: 1694
+R 35
+Pointer: 30 Stops: 318 Passes: 1695
+R 2
+Pointer: 32 Stops: 318 Passes: 1695
+R 432
+Pointer: 64 Stops: 318 Passes: 1699
+R 33
+Pointer: 97 Stops: 318 Passes: 1699
+R 40
+Pointer: 37 Stops: 318 Passes: 1700
+L 37
+Pointer: 0 Stops: 319 Passes: 1700
+L 69
+Pointer: 31 Stops: 319 Passes: 1700
+R 869
+Pointer: 0 Stops: 320 Passes: 1708
+R 678
+Pointer: 78 Stops: 320 Passes: 1714
+R 76
+Pointer: 54 Stops: 320 Passes: 1715
+L 654
+Pointer: 0 Stops: 321 Passes: 1721
+R 89
+Pointer: 89 Stops: 321 Passes: 1721
+R 38
+Pointer: 27 Stops: 321 Passes: 1722
+L 927
+Pointer: 0 Stops: 322 Passes: 1731
+L 777
+Pointer: 23 Stops: 322 Passes: 1738
+R 456
+Pointer: 79 Stops: 322 Passes: 1742
+R 21
+Pointer: 0 Stops: 323 Passes: 1742
+R 479
+Pointer: 79 Stops: 323 Passes: 1746
+R 21
+Pointer: 0 Stops: 324 Passes: 1746
+R 587
+Pointer: 87 Stops: 324 Passes: 1751
+L 87
+Pointer: 0 Stops: 325 Passes: 1751
+L 47
+Pointer: 53 Stops: 325 Passes: 1751
+R 74
+Pointer: 27 Stops: 325 Passes: 1752
+R 173
+Pointer: 0 Stops: 326 Passes: 1753
+L 44
+Pointer: 56 Stops: 326 Passes: 1753
+L 16
+Pointer: 40 Stops: 326 Passes: 1753
+L 48
+Pointer: 92 Stops: 326 Passes: 1754
+R 83
+Pointer: 75 Stops: 326 Passes: 1755
+L 348
+Pointer: 27 Stops: 326 Passes: 1758
+R 803
+Pointer: 30 Stops: 326 Passes: 1766
+R 219
+Pointer: 49 Stops: 326 Passes: 1768
+L 91
+Pointer: 58 Stops: 326 Passes: 1769
+R 42
+Pointer: 0 Stops: 327 Passes: 1769
+R 20
+Pointer: 20 Stops: 327 Passes: 1769
+R 58
+Pointer: 78 Stops: 327 Passes: 1769
+R 8
+Pointer: 86 Stops: 327 Passes: 1769
+R 369
+Pointer: 55 Stops: 327 Passes: 1773
+L 19
+Pointer: 36 Stops: 327 Passes: 1773
+R 28
+Pointer: 64 Stops: 327 Passes: 1773
+L 3
+Pointer: 61 Stops: 327 Passes: 1773
+R 39
+Pointer: 0 Stops: 328 Passes: 1773
+R 97
+Pointer: 97 Stops: 328 Passes: 1773
+L 857
+Pointer: 40 Stops: 328 Passes: 1781
+R 689
+Pointer: 29 Stops: 328 Passes: 1788
+R 275
+Pointer: 4 Stops: 328 Passes: 1791
+L 62
+Pointer: 42 Stops: 328 Passes: 1792
+L 41
+Pointer: 1 Stops: 328 Passes: 1792
+L 54
+Pointer: 47 Stops: 328 Passes: 1793
+L 81
+Pointer: 66 Stops: 328 Passes: 1794
+R 85
+Pointer: 51 Stops: 328 Passes: 1795
+L 12
+Pointer: 39 Stops: 328 Passes: 1795
+R 61
+Pointer: 0 Stops: 329 Passes: 1795
+L 45
+Pointer: 55 Stops: 329 Passes: 1795
+R 86
+Pointer: 41 Stops: 329 Passes: 1796
+R 17
+Pointer: 58 Stops: 329 Passes: 1796
+R 42
+Pointer: 0 Stops: 330 Passes: 1796
+R 47
+Pointer: 47 Stops: 330 Passes: 1796
+R 53
+Pointer: 0 Stops: 331 Passes: 1796
+R 99
+Pointer: 99 Stops: 331 Passes: 1796
+R 1
+Pointer: 0 Stops: 332 Passes: 1796
+L 297
+Pointer: 3 Stops: 332 Passes: 1798
+L 94
+Pointer: 9 Stops: 332 Passes: 1799
+R 93
+Pointer: 2 Stops: 332 Passes: 1800
+R 998
+Pointer: 0 Stops: 333 Passes: 1809
+R 90
+Pointer: 90 Stops: 333 Passes: 1809
+L 660
+Pointer: 30 Stops: 333 Passes: 1815
+R 189
+Pointer: 19 Stops: 333 Passes: 1817
+R 31
+Pointer: 50 Stops: 333 Passes: 1817
+R 50
+Pointer: 0 Stops: 334 Passes: 1817
+R 90
+Pointer: 90 Stops: 334 Passes: 1817
+L 61
+Pointer: 29 Stops: 334 Passes: 1817
+L 61
+Pointer: 68 Stops: 334 Passes: 1818
+R 47
+Pointer: 15 Stops: 334 Passes: 1819
+R 90
+Pointer: 5 Stops: 334 Passes: 1820
+R 146
+Pointer: 51 Stops: 334 Passes: 1821
+L 956
+Pointer: 95 Stops: 334 Passes: 1831
+L 87
+Pointer: 8 Stops: 334 Passes: 1831
+L 97
+Pointer: 11 Stops: 334 Passes: 1832
+L 80
+Pointer: 31 Stops: 334 Passes: 1833
+R 68
+Pointer: 99 Stops: 334 Passes: 1833
+L 99
+Pointer: 0 Stops: 335 Passes: 1833
+L 69
+Pointer: 31 Stops: 335 Passes: 1833
+L 58
+Pointer: 73 Stops: 335 Passes: 1834
+L 8
+Pointer: 65 Stops: 335 Passes: 1834
+L 365
+Pointer: 0 Stops: 336 Passes: 1837
+L 75
+Pointer: 25 Stops: 336 Passes: 1837
+R 77
+Pointer: 2 Stops: 336 Passes: 1838
+R 37
+Pointer: 39 Stops: 336 Passes: 1838
+L 622
+Pointer: 17 Stops: 336 Passes: 1844
+R 83
+Pointer: 0 Stops: 337 Passes: 1844
+R 29
+Pointer: 29 Stops: 337 Passes: 1844
+R 28
+Pointer: 57 Stops: 337 Passes: 1844
+L 57
+Pointer: 0 Stops: 338 Passes: 1844
+L 68
+Pointer: 32 Stops: 338 Passes: 1844
+L 32
+Pointer: 0 Stops: 339 Passes: 1844
+R 66
+Pointer: 66 Stops: 339 Passes: 1844
+L 244
+Pointer: 22 Stops: 339 Passes: 1846
+L 60
+Pointer: 62 Stops: 339 Passes: 1847
+L 62
+Pointer: 0 Stops: 340 Passes: 1847
+L 47
+Pointer: 53 Stops: 340 Passes: 1847
+L 553
+Pointer: 0 Stops: 341 Passes: 1852
+L 66
+Pointer: 34 Stops: 341 Passes: 1852
+R 66
+Pointer: 0 Stops: 342 Passes: 1852
+R 30
+Pointer: 30 Stops: 342 Passes: 1852
+R 570
+Pointer: 0 Stops: 343 Passes: 1857
+R 18
+Pointer: 18 Stops: 343 Passes: 1857
+L 18
+Pointer: 0 Stops: 344 Passes: 1857
+L 2
+Pointer: 98 Stops: 344 Passes: 1857
+L 345
+Pointer: 53 Stops: 344 Passes: 1860
+R 147
+Pointer: 0 Stops: 345 Passes: 1861
+R 179
+Pointer: 79 Stops: 345 Passes: 1862
+R 21
+Pointer: 0 Stops: 346 Passes: 1862
+R 952
+Pointer: 52 Stops: 346 Passes: 1871
+R 464
+Pointer: 16 Stops: 346 Passes: 1876
+L 16
+Pointer: 0 Stops: 347 Passes: 1876
+R 69
+Pointer: 69 Stops: 347 Passes: 1876
+L 7
+Pointer: 62 Stops: 347 Passes: 1876
+R 38
+Pointer: 0 Stops: 348 Passes: 1876
+L 368
+Pointer: 32 Stops: 348 Passes: 1879
+R 325
+Pointer: 57 Stops: 348 Passes: 1882
+R 43
+Pointer: 0 Stops: 349 Passes: 1882
+L 75
+Pointer: 25 Stops: 349 Passes: 1882
+L 82
+Pointer: 43 Stops: 349 Passes: 1883
+R 80
+Pointer: 23 Stops: 349 Passes: 1884
+R 16
+Pointer: 39 Stops: 349 Passes: 1884
+R 6
+Pointer: 45 Stops: 349 Passes: 1884
+L 2
+Pointer: 43 Stops: 349 Passes: 1884
+R 57
+Pointer: 0 Stops: 350 Passes: 1884
+R 54
+Pointer: 54 Stops: 350 Passes: 1884
+L 54
+Pointer: 0 Stops: 351 Passes: 1884
+R 121
+Pointer: 21 Stops: 351 Passes: 1885
+R 679
+Pointer: 0 Stops: 352 Passes: 1891
+R 33
+Pointer: 33 Stops: 352 Passes: 1891
+R 67
+Pointer: 0 Stops: 353 Passes: 1891
+R 17
+Pointer: 17 Stops: 353 Passes: 1891
+R 30
+Pointer: 47 Stops: 353 Passes: 1891
+R 56
+Pointer: 3 Stops: 353 Passes: 1892
+R 56
+Pointer: 59 Stops: 353 Passes: 1892
+L 94
+Pointer: 65 Stops: 353 Passes: 1893
+R 735
+Pointer: 0 Stops: 354 Passes: 1900
+L 10
+Pointer: 90 Stops: 354 Passes: 1900
+L 899
+Pointer: 91 Stops: 354 Passes: 1909
+L 91
+Pointer: 0 Stops: 355 Passes: 1909
+L 13
+Pointer: 87 Stops: 355 Passes: 1909
+L 75
+Pointer: 12 Stops: 355 Passes: 1909
+R 247
+Pointer: 59 Stops: 355 Passes: 1911
+R 76
+Pointer: 35 Stops: 355 Passes: 1912
+R 65
+Pointer: 0 Stops: 356 Passes: 1912
+L 45
+Pointer: 55 Stops: 356 Passes: 1912
+L 64
+Pointer: 91 Stops: 356 Passes: 1913
+R 23
+Pointer: 14 Stops: 356 Passes: 1914
+L 97
+Pointer: 17 Stops: 356 Passes: 1915
+R 180
+Pointer: 97 Stops: 356 Passes: 1916
+L 42
+Pointer: 55 Stops: 356 Passes: 1916
+R 45
+Pointer: 0 Stops: 357 Passes: 1916
+R 71
+Pointer: 71 Stops: 357 Passes: 1916
+R 86
+Pointer: 57 Stops: 357 Passes: 1917
+R 742
+Pointer: 99 Stops: 357 Passes: 1924
+L 351
+Pointer: 48 Stops: 357 Passes: 1927
+R 81
+Pointer: 29 Stops: 357 Passes: 1928
+R 69
+Pointer: 98 Stops: 357 Passes: 1928
+R 30
+Pointer: 28 Stops: 357 Passes: 1929
+L 28
+Pointer: 0 Stops: 358 Passes: 1929
+R 67
+Pointer: 67 Stops: 358 Passes: 1929
+L 167
+Pointer: 0 Stops: 359 Passes: 1930
+L 33
+Pointer: 67 Stops: 359 Passes: 1930
+L 349
+Pointer: 18 Stops: 359 Passes: 1933
+R 1
+Pointer: 19 Stops: 359 Passes: 1933
+R 60
+Pointer: 79 Stops: 359 Passes: 1933
+R 21
+Pointer: 0 Stops: 360 Passes: 1933
+L 50
+Pointer: 50 Stops: 360 Passes: 1933
+R 42
+Pointer: 92 Stops: 360 Passes: 1933
+R 8
+Pointer: 0 Stops: 361 Passes: 1933
+R 96
+Pointer: 96 Stops: 361 Passes: 1933
+R 26
+Pointer: 22 Stops: 361 Passes: 1934
+L 22
+Pointer: 0 Stops: 362 Passes: 1934
+L 969
+Pointer: 31 Stops: 362 Passes: 1943
+L 88
+Pointer: 43 Stops: 362 Passes: 1944
+R 769
+Pointer: 12 Stops: 362 Passes: 1952
+R 64
+Pointer: 76 Stops: 362 Passes: 1952
+L 76
+Pointer: 0 Stops: 363 Passes: 1952
+R 52
+Pointer: 52 Stops: 363 Passes: 1952
+R 67
+Pointer: 19 Stops: 363 Passes: 1953
+R 72
+Pointer: 91 Stops: 363 Passes: 1953
+L 91
+Pointer: 0 Stops: 364 Passes: 1953
+R 55
+Pointer: 55 Stops: 364 Passes: 1953
+L 646
+Pointer: 9 Stops: 364 Passes: 1959
+R 991
+Pointer: 0 Stops: 365 Passes: 1968
+R 45
+Pointer: 45 Stops: 365 Passes: 1968
+R 92
+Pointer: 37 Stops: 365 Passes: 1969
+R 17
+Pointer: 54 Stops: 365 Passes: 1969
+R 73
+Pointer: 27 Stops: 365 Passes: 1970
+L 75
+Pointer: 52 Stops: 365 Passes: 1971
+L 11
+Pointer: 41 Stops: 365 Passes: 1971
+L 29
+Pointer: 12 Stops: 365 Passes: 1971
+L 27
+Pointer: 85 Stops: 365 Passes: 1972
+L 85
+Pointer: 0 Stops: 366 Passes: 1972
+R 20
+Pointer: 20 Stops: 366 Passes: 1972
+R 80
+Pointer: 0 Stops: 367 Passes: 1972
+L 809
+Pointer: 91 Stops: 367 Passes: 1980
+L 9
+Pointer: 82 Stops: 367 Passes: 1980
+R 94
+Pointer: 76 Stops: 367 Passes: 1981
+R 28
+Pointer: 4 Stops: 367 Passes: 1982
+R 94
+Pointer: 98 Stops: 367 Passes: 1982
+L 98
+Pointer: 0 Stops: 368 Passes: 1982
+R 45
+Pointer: 45 Stops: 368 Passes: 1982
+R 55
+Pointer: 0 Stops: 369 Passes: 1982
+L 48
+Pointer: 52 Stops: 369 Passes: 1982
+R 48
+Pointer: 0 Stops: 370 Passes: 1982
+L 56
+Pointer: 44 Stops: 370 Passes: 1982
+L 92
+Pointer: 52 Stops: 370 Passes: 1983
+R 59
+Pointer: 11 Stops: 370 Passes: 1984
+L 48
+Pointer: 63 Stops: 370 Passes: 1985
+L 63
+Pointer: 0 Stops: 371 Passes: 1985
+R 89
+Pointer: 89 Stops: 371 Passes: 1985
+L 55
+Pointer: 34 Stops: 371 Passes: 1985
+L 34
+Pointer: 0 Stops: 372 Passes: 1985
+R 54
+Pointer: 54 Stops: 372 Passes: 1985
+R 946
+Pointer: 0 Stops: 373 Passes: 1994
+L 41
+Pointer: 59 Stops: 373 Passes: 1994
+L 59
+Pointer: 0 Stops: 374 Passes: 1994
+L 47
+Pointer: 53 Stops: 374 Passes: 1994
+L 93
+Pointer: 60 Stops: 374 Passes: 1995
+R 93
+Pointer: 53 Stops: 374 Passes: 1996
+L 26
+Pointer: 27 Stops: 374 Passes: 1996
+R 91
+Pointer: 18 Stops: 374 Passes: 1997
+L 72
+Pointer: 46 Stops: 374 Passes: 1998
+L 909
+Pointer: 37 Stops: 374 Passes: 2007
+R 63
+Pointer: 0 Stops: 375 Passes: 2007
+R 63
+Pointer: 63 Stops: 375 Passes: 2007
+R 37
+Pointer: 0 Stops: 376 Passes: 2007
+L 75
+Pointer: 25 Stops: 376 Passes: 2007
+L 42
+Pointer: 83 Stops: 376 Passes: 2008
+R 47
+Pointer: 30 Stops: 376 Passes: 2009
+L 61
+Pointer: 69 Stops: 376 Passes: 2010
+L 14
+Pointer: 55 Stops: 376 Passes: 2010
+L 69
+Pointer: 86 Stops: 376 Passes: 2011
+R 89
+Pointer: 75 Stops: 376 Passes: 2012
+R 28
+Pointer: 3 Stops: 376 Passes: 2013
+L 31
+Pointer: 72 Stops: 376 Passes: 2014
+R 78
+Pointer: 50 Stops: 376 Passes: 2015
+R 11
+Pointer: 61 Stops: 376 Passes: 2015
+L 61
+Pointer: 0 Stops: 377 Passes: 2015
+R 57
+Pointer: 57 Stops: 377 Passes: 2015
+L 20
+Pointer: 37 Stops: 377 Passes: 2015
+L 37
+Pointer: 0 Stops: 378 Passes: 2015
+L 59
+Pointer: 41 Stops: 378 Passes: 2015
+L 54
+Pointer: 87 Stops: 378 Passes: 2016
+L 87
+Pointer: 0 Stops: 379 Passes: 2016
+R 45
+Pointer: 45 Stops: 379 Passes: 2016
+R 55
+Pointer: 0 Stops: 380 Passes: 2016
+R 518
+Pointer: 18 Stops: 380 Passes: 2021
+L 18
+Pointer: 0 Stops: 381 Passes: 2021
+R 77
+Pointer: 77 Stops: 381 Passes: 2021
+R 23
+Pointer: 0 Stops: 382 Passes: 2021
+L 91
+Pointer: 9 Stops: 382 Passes: 2021
+R 87
+Pointer: 96 Stops: 382 Passes: 2021
+L 96
+Pointer: 0 Stops: 383 Passes: 2021
+L 42
+Pointer: 58 Stops: 383 Passes: 2021
+L 75
+Pointer: 83 Stops: 383 Passes: 2022
+L 916
+Pointer: 67 Stops: 383 Passes: 2031
+R 33
+Pointer: 0 Stops: 384 Passes: 2031
+L 305
+Pointer: 95 Stops: 384 Passes: 2034
+L 95
+Pointer: 0 Stops: 385 Passes: 2034
+R 17
+Pointer: 17 Stops: 385 Passes: 2034
+L 1
+Pointer: 16 Stops: 385 Passes: 2034
+L 50
+Pointer: 66 Stops: 385 Passes: 2035
+R 26
+Pointer: 92 Stops: 385 Passes: 2035
+L 18
+Pointer: 74 Stops: 385 Passes: 2035
+L 44
+Pointer: 30 Stops: 385 Passes: 2035
+R 5
+Pointer: 35 Stops: 385 Passes: 2035
+R 27
+Pointer: 62 Stops: 385 Passes: 2035
+L 45
+Pointer: 17 Stops: 385 Passes: 2035
+L 17
+Pointer: 0 Stops: 386 Passes: 2035
+L 13
+Pointer: 87 Stops: 386 Passes: 2035
+R 13
+Pointer: 0 Stops: 387 Passes: 2035
+R 46
+Pointer: 46 Stops: 387 Passes: 2035
+R 719
+Pointer: 65 Stops: 387 Passes: 2042
+R 775
+Pointer: 40 Stops: 387 Passes: 2050
+L 29
+Pointer: 11 Stops: 387 Passes: 2050
+L 11
+Pointer: 0 Stops: 388 Passes: 2050
+R 551
+Pointer: 51 Stops: 388 Passes: 2055
+L 61
+Pointer: 90 Stops: 388 Passes: 2056
+R 10
+Pointer: 0 Stops: 389 Passes: 2056
+L 58
+Pointer: 42 Stops: 389 Passes: 2056
+R 358
+Pointer: 0 Stops: 390 Passes: 2059
+R 48
+Pointer: 48 Stops: 390 Passes: 2059
+R 51
+Pointer: 99 Stops: 390 Passes: 2059
+R 410
+Pointer: 9 Stops: 390 Passes: 2064
+R 2
+Pointer: 11 Stops: 390 Passes: 2064
+L 789
+Pointer: 22 Stops: 390 Passes: 2072
+L 7
+Pointer: 15 Stops: 390 Passes: 2072
+R 12
+Pointer: 27 Stops: 390 Passes: 2072
+R 24
+Pointer: 51 Stops: 390 Passes: 2072
+L 51
+Pointer: 0 Stops: 391 Passes: 2072
+R 769
+Pointer: 69 Stops: 391 Passes: 2079
+R 80
+Pointer: 49 Stops: 391 Passes: 2080
+L 346
+Pointer: 3 Stops: 391 Passes: 2083
+L 92
+Pointer: 11 Stops: 391 Passes: 2084
+L 561
+Pointer: 50 Stops: 391 Passes: 2090
+R 29
+Pointer: 79 Stops: 391 Passes: 2090
+L 56
+Pointer: 23 Stops: 391 Passes: 2090
+L 23
+Pointer: 0 Stops: 392 Passes: 2090
+L 847
+Pointer: 53 Stops: 392 Passes: 2098
+L 85
+Pointer: 68 Stops: 392 Passes: 2099
+L 768
+Pointer: 0 Stops: 393 Passes: 2106
+R 93
+Pointer: 93 Stops: 393 Passes: 2106
+R 39
+Pointer: 32 Stops: 393 Passes: 2107
+L 81
+Pointer: 51 Stops: 393 Passes: 2108
+R 42
+Pointer: 93 Stops: 393 Passes: 2108
+R 36
+Pointer: 29 Stops: 393 Passes: 2109
+R 371
+Pointer: 0 Stops: 394 Passes: 2112
+L 237
+Pointer: 63 Stops: 394 Passes: 2114
+L 92
+Pointer: 71 Stops: 394 Passes: 2115
+L 50
+Pointer: 21 Stops: 394 Passes: 2115
+R 986
+Pointer: 7 Stops: 394 Passes: 2125
+L 22
+Pointer: 85 Stops: 394 Passes: 2126
+R 3
+Pointer: 88 Stops: 394 Passes: 2126
+L 92
+Pointer: 96 Stops: 394 Passes: 2127
+R 504
+Pointer: 0 Stops: 395 Passes: 2132
+R 112
+Pointer: 12 Stops: 395 Passes: 2133
+R 88
+Pointer: 0 Stops: 396 Passes: 2133
+L 24
+Pointer: 76 Stops: 396 Passes: 2133
+L 43
+Pointer: 33 Stops: 396 Passes: 2133
+R 34
+Pointer: 67 Stops: 396 Passes: 2133
+R 97
+Pointer: 64 Stops: 396 Passes: 2134
+R 80
+Pointer: 44 Stops: 396 Passes: 2135
+R 51
+Pointer: 95 Stops: 396 Passes: 2135
+L 90
+Pointer: 5 Stops: 396 Passes: 2135
+L 34
+Pointer: 71 Stops: 396 Passes: 2136
+R 29
+Pointer: 0 Stops: 397 Passes: 2136
+L 20
+Pointer: 80 Stops: 397 Passes: 2136
+R 91
+Pointer: 71 Stops: 397 Passes: 2137
+R 35
+Pointer: 6 Stops: 397 Passes: 2138
+L 46
+Pointer: 60 Stops: 397 Passes: 2139
+R 41
+Pointer: 1 Stops: 397 Passes: 2140
+L 75
+Pointer: 26 Stops: 397 Passes: 2141
+L 826
+Pointer: 0 Stops: 398 Passes: 2149
+L 64
+Pointer: 36 Stops: 398 Passes: 2149
+R 64
+Pointer: 0 Stops: 399 Passes: 2149
+R 8
+Pointer: 8 Stops: 399 Passes: 2149
+L 8
+Pointer: 0 Stops: 400 Passes: 2149
+R 924
+Pointer: 24 Stops: 400 Passes: 2158
+R 76
+Pointer: 0 Stops: 401 Passes: 2158
+R 95
+Pointer: 95 Stops: 401 Passes: 2158
+L 62
+Pointer: 33 Stops: 401 Passes: 2158
+L 983
+Pointer: 50 Stops: 401 Passes: 2168
+L 74
+Pointer: 76 Stops: 401 Passes: 2169
+R 806
+Pointer: 82 Stops: 401 Passes: 2177
+L 85
+Pointer: 97 Stops: 401 Passes: 2178
+L 95
+Pointer: 2 Stops: 401 Passes: 2178
+R 98
+Pointer: 0 Stops: 402 Passes: 2178
+R 79
+Pointer: 79 Stops: 402 Passes: 2178
+L 42
+Pointer: 37 Stops: 402 Passes: 2178
+L 37
+Pointer: 0 Stops: 403 Passes: 2178
+R 2
+Pointer: 2 Stops: 403 Passes: 2178
+R 23
+Pointer: 25 Stops: 403 Passes: 2178
+L 74
+Pointer: 51 Stops: 403 Passes: 2179
+R 97
+Pointer: 48 Stops: 403 Passes: 2180
+R 30
+Pointer: 78 Stops: 403 Passes: 2180
+L 78
+Pointer: 0 Stops: 404 Passes: 2180
+L 66
+Pointer: 34 Stops: 404 Passes: 2180
+R 77
+Pointer: 11 Stops: 404 Passes: 2181
+R 89
+Pointer: 0 Stops: 405 Passes: 2181
+L 56
+Pointer: 44 Stops: 405 Passes: 2181
+R 84
+Pointer: 28 Stops: 405 Passes: 2182
+L 228
+Pointer: 0 Stops: 406 Passes: 2184
+L 57
+Pointer: 43 Stops: 406 Passes: 2184
+L 43
+Pointer: 0 Stops: 407 Passes: 2184
+L 26
+Pointer: 74 Stops: 407 Passes: 2184
+R 98
+Pointer: 72 Stops: 407 Passes: 2185
+L 27
+Pointer: 45 Stops: 407 Passes: 2185
+L 73
+Pointer: 72 Stops: 407 Passes: 2186
+L 33
+Pointer: 39 Stops: 407 Passes: 2186
+L 39
+Pointer: 0 Stops: 408 Passes: 2186
+L 39
+Pointer: 61 Stops: 408 Passes: 2186
+R 93
+Pointer: 54 Stops: 408 Passes: 2187
+R 46
+Pointer: 0 Stops: 409 Passes: 2187
+R 725
+Pointer: 25 Stops: 409 Passes: 2194
+R 75
+Pointer: 0 Stops: 410 Passes: 2194
+R 584
+Pointer: 84 Stops: 410 Passes: 2199
+L 84
+Pointer: 0 Stops: 411 Passes: 2199
+L 830
+Pointer: 70 Stops: 411 Passes: 2207
+L 1
+Pointer: 69 Stops: 411 Passes: 2207
+R 31
+Pointer: 0 Stops: 412 Passes: 2207
+L 64
+Pointer: 36 Stops: 412 Passes: 2207
+R 64
+Pointer: 0 Stops: 413 Passes: 2207
+L 75
+Pointer: 25 Stops: 413 Passes: 2207
+L 25
+Pointer: 0 Stops: 414 Passes: 2207
+R 86
+Pointer: 86 Stops: 414 Passes: 2207
+R 12
+Pointer: 98 Stops: 414 Passes: 2207
+L 98
+Pointer: 0 Stops: 415 Passes: 2207
+L 94
+Pointer: 6 Stops: 415 Passes: 2207
+R 554
+Pointer: 60 Stops: 415 Passes: 2212
+R 87
+Pointer: 47 Stops: 415 Passes: 2213
+R 66
+Pointer: 13 Stops: 415 Passes: 2214
+R 7
+Pointer: 20 Stops: 415 Passes: 2214
+L 38
+Pointer: 82 Stops: 415 Passes: 2215
+R 36
+Pointer: 18 Stops: 415 Passes: 2216
+L 7
+Pointer: 11 Stops: 415 Passes: 2216
+L 33
+Pointer: 78 Stops: 415 Passes: 2217
+L 78
+Pointer: 0 Stops: 416 Passes: 2217
+R 68
+Pointer: 68 Stops: 416 Passes: 2217
+R 7
+Pointer: 75 Stops: 416 Passes: 2217
+R 43
+Pointer: 18 Stops: 416 Passes: 2218
+L 50
+Pointer: 68 Stops: 416 Passes: 2219
+R 986
+Pointer: 54 Stops: 416 Passes: 2229
+R 46
+Pointer: 0 Stops: 417 Passes: 2229
+L 86
+Pointer: 14 Stops: 417 Passes: 2229
+R 34
+Pointer: 48 Stops: 417 Passes: 2229
+L 40
+Pointer: 8 Stops: 417 Passes: 2229
+L 454
+Pointer: 54 Stops: 417 Passes: 2234
+L 35
+Pointer: 19 Stops: 417 Passes: 2234
+R 81
+Pointer: 0 Stops: 418 Passes: 2234
+R 70
+Pointer: 70 Stops: 418 Passes: 2234
+L 8
+Pointer: 62 Stops: 418 Passes: 2234
+R 85
+Pointer: 47 Stops: 418 Passes: 2235
+R 353
+Pointer: 0 Stops: 419 Passes: 2238
+L 355
+Pointer: 45 Stops: 419 Passes: 2241
+L 47
+Pointer: 98 Stops: 419 Passes: 2242
+R 37
+Pointer: 35 Stops: 419 Passes: 2243
+R 65
+Pointer: 0 Stops: 420 Passes: 2243
+L 19
+Pointer: 81 Stops: 420 Passes: 2243
+L 481
+Pointer: 0 Stops: 421 Passes: 2247
+R 94
+Pointer: 94 Stops: 421 Passes: 2247
+R 81
+Pointer: 75 Stops: 421 Passes: 2248
+L 97
+Pointer: 78 Stops: 421 Passes: 2249
+R 170
+Pointer: 48 Stops: 421 Passes: 2251
+R 52
+Pointer: 0 Stops: 422 Passes: 2251
+R 97
+Pointer: 97 Stops: 422 Passes: 2251
+L 194
+Pointer: 3 Stops: 422 Passes: 2252
+L 506
+Pointer: 97 Stops: 422 Passes: 2258
+R 53
+Pointer: 50 Stops: 422 Passes: 2259
+R 12
+Pointer: 62 Stops: 422 Passes: 2259
+L 90
+Pointer: 72 Stops: 422 Passes: 2260
+L 457
+Pointer: 15 Stops: 422 Passes: 2264
+R 85
+Pointer: 0 Stops: 423 Passes: 2264
+R 72
+Pointer: 72 Stops: 423 Passes: 2264
+R 452
+Pointer: 24 Stops: 423 Passes: 2269
+R 476
+Pointer: 0 Stops: 424 Passes: 2273
+R 582
+Pointer: 82 Stops: 424 Passes: 2278
+L 94
+Pointer: 88 Stops: 424 Passes: 2279
+R 62
+Pointer: 50 Stops: 424 Passes: 2280
+R 82
+Pointer: 32 Stops: 424 Passes: 2281
+R 68
+Pointer: 0 Stops: 425 Passes: 2281
+L 1
+Pointer: 99 Stops: 425 Passes: 2281
+R 915
+Pointer: 14 Stops: 425 Passes: 2291
+R 98
+Pointer: 12 Stops: 425 Passes: 2292
+L 12
+Pointer: 0 Stops: 426 Passes: 2292
+R 79
+Pointer: 79 Stops: 426 Passes: 2292
+R 85
+Pointer: 64 Stops: 426 Passes: 2293
+L 764
+Pointer: 0 Stops: 427 Passes: 2300
+L 86
+Pointer: 14 Stops: 427 Passes: 2300
+R 31
+Pointer: 45 Stops: 427 Passes: 2300
+L 45
+Pointer: 0 Stops: 428 Passes: 2300
+L 98
+Pointer: 2 Stops: 428 Passes: 2300
+L 26
+Pointer: 76 Stops: 428 Passes: 2301
+L 381
+Pointer: 95 Stops: 428 Passes: 2305
+L 95
+Pointer: 0 Stops: 429 Passes: 2305
+R 62
+Pointer: 62 Stops: 429 Passes: 2305
+R 991
+Pointer: 53 Stops: 429 Passes: 2315
+R 19
+Pointer: 72 Stops: 429 Passes: 2315
+R 52
+Pointer: 24 Stops: 429 Passes: 2316
+R 276
+Pointer: 0 Stops: 430 Passes: 2318
+R 50
+Pointer: 50 Stops: 430 Passes: 2318
+L 91
+Pointer: 59 Stops: 430 Passes: 2319
+R 80
+Pointer: 39 Stops: 430 Passes: 2320
+R 77
+Pointer: 16 Stops: 430 Passes: 2321
+L 16
+Pointer: 0 Stops: 431 Passes: 2321
+R 45
+Pointer: 45 Stops: 431 Passes: 2321
+L 968
+Pointer: 77 Stops: 431 Passes: 2331
+R 78
+Pointer: 55 Stops: 431 Passes: 2332
+R 795
+Pointer: 50 Stops: 431 Passes: 2340
+R 13
+Pointer: 63 Stops: 431 Passes: 2340
+L 63
+Pointer: 0 Stops: 432 Passes: 2340
+R 10
+Pointer: 10 Stops: 432 Passes: 2340
+L 95
+Pointer: 15 Stops: 432 Passes: 2341
+R 970
+Pointer: 85 Stops: 432 Passes: 2350
+R 43
+Pointer: 28 Stops: 432 Passes: 2351
+R 72
+Pointer: 0 Stops: 433 Passes: 2351
+R 35
+Pointer: 35 Stops: 433 Passes: 2351
+L 435
+Pointer: 0 Stops: 434 Passes: 2355
+R 318
+Pointer: 18 Stops: 434 Passes: 2358
+R 86
+Pointer: 4 Stops: 434 Passes: 2359
+L 4
+Pointer: 0 Stops: 435 Passes: 2359
+R 59
+Pointer: 59 Stops: 435 Passes: 2359
+R 13
+Pointer: 72 Stops: 435 Passes: 2359
+R 28
+Pointer: 0 Stops: 436 Passes: 2359
+R 43
+Pointer: 43 Stops: 436 Passes: 2359
+L 670
+Pointer: 73 Stops: 436 Passes: 2366
+L 97
+Pointer: 76 Stops: 436 Passes: 2367
+R 88
+Pointer: 64 Stops: 436 Passes: 2368
+R 45
+Pointer: 9 Stops: 436 Passes: 2369
+R 48
+Pointer: 57 Stops: 436 Passes: 2369
+L 442
+Pointer: 15 Stops: 436 Passes: 2373
+R 125
+Pointer: 40 Stops: 436 Passes: 2374
+R 69
+Pointer: 9 Stops: 436 Passes: 2375
+L 9
+Pointer: 0 Stops: 437 Passes: 2375
+R 721
+Pointer: 21 Stops: 437 Passes: 2382
+L 43
+Pointer: 78 Stops: 437 Passes: 2383
+L 344
+Pointer: 34 Stops: 437 Passes: 2386
+L 89
+Pointer: 45 Stops: 437 Passes: 2387
+R 71
+Pointer: 16 Stops: 437 Passes: 2388
+R 84
+Pointer: 0 Stops: 438 Passes: 2388
+L 352
+Pointer: 48 Stops: 438 Passes: 2391
+R 56
+Pointer: 4 Stops: 438 Passes: 2392
+L 4
+Pointer: 0 Stops: 439 Passes: 2392
+R 913
+Pointer: 13 Stops: 439 Passes: 2401
+R 435
+Pointer: 48 Stops: 439 Passes: 2405
+L 48
+Pointer: 0 Stops: 440 Passes: 2405
+R 23
+Pointer: 23 Stops: 440 Passes: 2405
+L 91
+Pointer: 32 Stops: 440 Passes: 2406
+L 832
+Pointer: 0 Stops: 441 Passes: 2414
+L 426
+Pointer: 74 Stops: 441 Passes: 2418
+R 99
+Pointer: 73 Stops: 441 Passes: 2419
+L 73
+Pointer: 0 Stops: 442 Passes: 2419
+L 2
+Pointer: 98 Stops: 442 Passes: 2419
+R 20
+Pointer: 18 Stops: 442 Passes: 2420
+L 701
+Pointer: 17 Stops: 442 Passes: 2427
+L 5
+Pointer: 12 Stops: 442 Passes: 2427
+L 12
+Pointer: 0 Stops: 443 Passes: 2427
+R 37
+Pointer: 37 Stops: 443 Passes: 2427
+R 26
+Pointer: 63 Stops: 443 Passes: 2427
+R 437
+Pointer: 0 Stops: 444 Passes: 2431
+R 74
+Pointer: 74 Stops: 444 Passes: 2431
+R 224
+Pointer: 98 Stops: 444 Passes: 2433
+R 35
+Pointer: 33 Stops: 444 Passes: 2434
+L 833
+Pointer: 0 Stops: 445 Passes: 2442
+R 984
+Pointer: 84 Stops: 445 Passes: 2451
+R 38
+Pointer: 22 Stops: 445 Passes: 2452
+L 45
+Pointer: 77 Stops: 445 Passes: 2453
+R 18
+Pointer: 95 Stops: 445 Passes: 2453
+R 5
+Pointer: 0 Stops: 446 Passes: 2453
+L 726
+Pointer: 74 Stops: 446 Passes: 2460
+L 44
+Pointer: 30 Stops: 446 Passes: 2460
+L 40
+Pointer: 90 Stops: 446 Passes: 2461
+R 63
+Pointer: 53 Stops: 446 Passes: 2462
+R 47
+Pointer: 0 Stops: 447 Passes: 2462
+R 21
+Pointer: 21 Stops: 447 Passes: 2462
+R 57
+Pointer: 78 Stops: 447 Passes: 2462
+L 24
+Pointer: 54 Stops: 447 Passes: 2462
+L 927
+Pointer: 27 Stops: 447 Passes: 2471
+R 70
+Pointer: 97 Stops: 447 Passes: 2471
+L 97
+Pointer: 0 Stops: 448 Passes: 2471
+L 72
+Pointer: 28 Stops: 448 Passes: 2471
+R 72
+Pointer: 0 Stops: 449 Passes: 2471
+L 978
+Pointer: 22 Stops: 449 Passes: 2480
+L 22
+Pointer: 0 Stops: 450 Passes: 2480
+L 71
+Pointer: 29 Stops: 450 Passes: 2480
+L 620
+Pointer: 9 Stops: 450 Passes: 2486
+L 93
+Pointer: 16 Stops: 450 Passes: 2487
+L 16
+Pointer: 0 Stops: 451 Passes: 2487
+R 82
+Pointer: 82 Stops: 451 Passes: 2487
+L 82
+Pointer: 0 Stops: 452 Passes: 2487
+L 9
+Pointer: 91 Stops: 452 Passes: 2487
+R 40
+Pointer: 31 Stops: 452 Passes: 2488
+L 431
+Pointer: 0 Stops: 453 Passes: 2492
+R 52
+Pointer: 52 Stops: 453 Passes: 2492
+R 155
+Pointer: 7 Stops: 453 Passes: 2494
+L 871
+Pointer: 36 Stops: 453 Passes: 2503
+R 68
+Pointer: 4 Stops: 453 Passes: 2504
+L 29
+Pointer: 75 Stops: 453 Passes: 2505
+L 75
+Pointer: 0 Stops: 454 Passes: 2505
+R 98
+Pointer: 98 Stops: 454 Passes: 2505
+R 57
+Pointer: 55 Stops: 454 Passes: 2506
+R 54
+Pointer: 9 Stops: 454 Passes: 2507
+R 91
+Pointer: 0 Stops: 455 Passes: 2507
+R 289
+Pointer: 89 Stops: 455 Passes: 2509
+L 47
+Pointer: 42 Stops: 455 Passes: 2509
+L 36
+Pointer: 6 Stops: 455 Passes: 2509
+R 23
+Pointer: 29 Stops: 455 Passes: 2509
+R 86
+Pointer: 15 Stops: 455 Passes: 2510
+R 72
+Pointer: 87 Stops: 455 Passes: 2510
+L 28
+Pointer: 59 Stops: 455 Passes: 2510
+L 59
+Pointer: 0 Stops: 456 Passes: 2510
+R 42
+Pointer: 42 Stops: 456 Passes: 2510
+R 99
+Pointer: 41 Stops: 456 Passes: 2511
+L 49
+Pointer: 92 Stops: 456 Passes: 2512
+R 54
+Pointer: 46 Stops: 456 Passes: 2513
+R 96
+Pointer: 42 Stops: 456 Passes: 2514
+L 91
+Pointer: 51 Stops: 456 Passes: 2515
+L 41
+Pointer: 10 Stops: 456 Passes: 2515
+L 94
+Pointer: 16 Stops: 456 Passes: 2516
+L 58
+Pointer: 58 Stops: 456 Passes: 2517
+R 705
+Pointer: 63 Stops: 456 Passes: 2524
+L 83
+Pointer: 80 Stops: 456 Passes: 2525
+R 920
+Pointer: 0 Stops: 457 Passes: 2534
+L 64
+Pointer: 36 Stops: 457 Passes: 2534
+L 36
+Pointer: 0 Stops: 458 Passes: 2534
+L 3
+Pointer: 97 Stops: 458 Passes: 2534
+R 69
+Pointer: 66 Stops: 458 Passes: 2535
+L 20
+Pointer: 46 Stops: 458 Passes: 2535
+L 46
+Pointer: 0 Stops: 459 Passes: 2535
+L 56
+Pointer: 44 Stops: 459 Passes: 2535
+L 97
+Pointer: 47 Stops: 459 Passes: 2536
+R 53
+Pointer: 0 Stops: 460 Passes: 2536
+R 76
+Pointer: 76 Stops: 460 Passes: 2536
+L 85
+Pointer: 91 Stops: 460 Passes: 2537
+L 48
+Pointer: 43 Stops: 460 Passes: 2537
+R 196
+Pointer: 39 Stops: 460 Passes: 2539
+R 61
+Pointer: 0 Stops: 461 Passes: 2539
+L 1
+Pointer: 99 Stops: 461 Passes: 2539
+R 101
+Pointer: 0 Stops: 462 Passes: 2540
+R 88
+Pointer: 88 Stops: 462 Passes: 2540
+L 82
+Pointer: 6 Stops: 462 Passes: 2540
+R 30
+Pointer: 36 Stops: 462 Passes: 2540
+L 313
+Pointer: 23 Stops: 462 Passes: 2543
+L 23
+Pointer: 0 Stops: 463 Passes: 2543
+L 663
+Pointer: 37 Stops: 463 Passes: 2549
+L 40
+Pointer: 97 Stops: 463 Passes: 2550
+L 37
+Pointer: 60 Stops: 463 Passes: 2550
+L 60
+Pointer: 0 Stops: 464 Passes: 2550
+R 4
+Pointer: 4 Stops: 464 Passes: 2550
+R 504
+Pointer: 8 Stops: 464 Passes: 2555
+L 28
+Pointer: 80 Stops: 464 Passes: 2556
+R 20
+Pointer: 0 Stops: 465 Passes: 2556
+R 54
+Pointer: 54 Stops: 465 Passes: 2556
+R 46
+Pointer: 0 Stops: 466 Passes: 2556
+R 96
+Pointer: 96 Stops: 466 Passes: 2556
+R 4
+Pointer: 0 Stops: 467 Passes: 2556
+R 18
+Pointer: 18 Stops: 467 Passes: 2556
+R 82
+Pointer: 0 Stops: 468 Passes: 2556
+L 479
+Pointer: 21 Stops: 468 Passes: 2560
+R 79
+Pointer: 0 Stops: 469 Passes: 2560
+L 604
+Pointer: 96 Stops: 469 Passes: 2566
+L 96
+Pointer: 0 Stops: 470 Passes: 2566
+L 31
+Pointer: 69 Stops: 470 Passes: 2566
+R 42
+Pointer: 11 Stops: 470 Passes: 2567
+R 654
+Pointer: 65 Stops: 470 Passes: 2573
+L 965
+Pointer: 0 Stops: 471 Passes: 2582
+R 46
+Pointer: 46 Stops: 471 Passes: 2582
+L 37
+Pointer: 9 Stops: 471 Passes: 2582
+L 19
+Pointer: 90 Stops: 471 Passes: 2583
+L 90
+Pointer: 0 Stops: 472 Passes: 2583
+L 49
+Pointer: 51 Stops: 472 Passes: 2583
+L 2
+Pointer: 49 Stops: 472 Passes: 2583
+R 75
+Pointer: 24 Stops: 472 Passes: 2584
+L 66
+Pointer: 58 Stops: 472 Passes: 2585
+L 944
+Pointer: 14 Stops: 472 Passes: 2594
+L 26
+Pointer: 88 Stops: 472 Passes: 2595
+R 18
+Pointer: 6 Stops: 472 Passes: 2596
+R 22
+Pointer: 28 Stops: 472 Passes: 2596
+R 954
+Pointer: 82 Stops: 472 Passes: 2605
+R 18
+Pointer: 0 Stops: 473 Passes: 2605
+L 780
+Pointer: 20 Stops: 473 Passes: 2612
+R 3
+Pointer: 23 Stops: 473 Passes: 2612
+L 23
+Pointer: 0 Stops: 474 Passes: 2612
+L 74
+Pointer: 26 Stops: 474 Passes: 2612
+R 274
+Pointer: 0 Stops: 475 Passes: 2614
+R 39
+Pointer: 39 Stops: 475 Passes: 2614
+L 39
+Pointer: 0 Stops: 476 Passes: 2614
+R 95
+Pointer: 95 Stops: 476 Passes: 2614
+L 974
+Pointer: 21 Stops: 476 Passes: 2623
+L 42
+Pointer: 79 Stops: 476 Passes: 2624
+L 934
+Pointer: 45 Stops: 476 Passes: 2633
+R 98
+Pointer: 43 Stops: 476 Passes: 2634
+L 90
+Pointer: 53 Stops: 476 Passes: 2635
+R 7
+Pointer: 60 Stops: 476 Passes: 2635
+L 49
+Pointer: 11 Stops: 476 Passes: 2635
+L 947
+Pointer: 64 Stops: 476 Passes: 2645
+L 72
+Pointer: 92 Stops: 476 Passes: 2646
+L 678
+Pointer: 14 Stops: 476 Passes: 2652
+L 814
+Pointer: 0 Stops: 477 Passes: 2660
+R 13
+Pointer: 13 Stops: 477 Passes: 2660
+R 87
+Pointer: 0 Stops: 478 Passes: 2660
+R 371
+Pointer: 71 Stops: 478 Passes: 2663
+L 36
+Pointer: 35 Stops: 478 Passes: 2663
+R 16
+Pointer: 51 Stops: 478 Passes: 2663
+R 49
+Pointer: 0 Stops: 479 Passes: 2663
+L 13
+Pointer: 87 Stops: 479 Passes: 2663
+R 5
+Pointer: 92 Stops: 479 Passes: 2663
+L 80
+Pointer: 12 Stops: 479 Passes: 2663
+R 88
+Pointer: 0 Stops: 480 Passes: 2663
+R 33
+Pointer: 33 Stops: 480 Passes: 2663
+L 33
+Pointer: 0 Stops: 481 Passes: 2663
+R 60
+Pointer: 60 Stops: 481 Passes: 2663
+R 40
+Pointer: 0 Stops: 482 Passes: 2663
+R 71
+Pointer: 71 Stops: 482 Passes: 2663
+L 71
+Pointer: 0 Stops: 483 Passes: 2663
+L 76
+Pointer: 24 Stops: 483 Passes: 2663
+R 6
+Pointer: 30 Stops: 483 Passes: 2663
+L 574
+Pointer: 56 Stops: 483 Passes: 2669
+L 56
+Pointer: 0 Stops: 484 Passes: 2669
+L 12
+Pointer: 88 Stops: 484 Passes: 2669
+R 90
+Pointer: 78 Stops: 484 Passes: 2670
+R 122
+Pointer: 0 Stops: 485 Passes: 2671
+R 46
+Pointer: 46 Stops: 485 Passes: 2671
+R 41
+Pointer: 87 Stops: 485 Passes: 2671
+R 20
+Pointer: 7 Stops: 485 Passes: 2672
+R 93
+Pointer: 0 Stops: 486 Passes: 2672
+R 70
+Pointer: 70 Stops: 486 Passes: 2672
+L 270
+Pointer: 0 Stops: 487 Passes: 2674
+L 77
+Pointer: 23 Stops: 487 Passes: 2674
+R 77
+Pointer: 0 Stops: 488 Passes: 2674
+L 36
+Pointer: 64 Stops: 488 Passes: 2674
+L 102
+Pointer: 62 Stops: 488 Passes: 2675
+R 238
+Pointer: 0 Stops: 489 Passes: 2677
+R 611
+Pointer: 11 Stops: 489 Passes: 2683
+R 42
+Pointer: 53 Stops: 489 Passes: 2683
+L 677
+Pointer: 76 Stops: 489 Passes: 2690
+L 76
+Pointer: 0 Stops: 490 Passes: 2690
+L 76
+Pointer: 24 Stops: 490 Passes: 2690
+L 584
+Pointer: 40 Stops: 490 Passes: 2696
+L 40
+Pointer: 0 Stops: 491 Passes: 2696
+R 82
+Pointer: 82 Stops: 491 Passes: 2696
+L 582
+Pointer: 0 Stops: 492 Passes: 2701
+L 62
+Pointer: 38 Stops: 492 Passes: 2701
+L 38
+Pointer: 0 Stops: 493 Passes: 2701
+R 888
+Pointer: 88 Stops: 493 Passes: 2709
+L 50
+Pointer: 38 Stops: 493 Passes: 2709
+R 21
+Pointer: 59 Stops: 493 Passes: 2709
+L 23
+Pointer: 36 Stops: 493 Passes: 2709
+L 581
+Pointer: 55 Stops: 493 Passes: 2715
+L 55
+Pointer: 0 Stops: 494 Passes: 2715
+R 60
+Pointer: 60 Stops: 494 Passes: 2715
+L 96
+Pointer: 64 Stops: 494 Passes: 2716
+L 94
+Pointer: 70 Stops: 494 Passes: 2717
+L 71
+Pointer: 99 Stops: 494 Passes: 2718
+L 29
+Pointer: 70 Stops: 494 Passes: 2718
+R 1
+Pointer: 71 Stops: 494 Passes: 2718
+R 55
+Pointer: 26 Stops: 494 Passes: 2719
+L 48
+Pointer: 78 Stops: 494 Passes: 2720
+L 19
+Pointer: 59 Stops: 494 Passes: 2720
+R 37
+Pointer: 96 Stops: 494 Passes: 2720
+L 96
+Pointer: 0 Stops: 495 Passes: 2720
+L 13
+Pointer: 87 Stops: 495 Passes: 2720
+R 421
+Pointer: 8 Stops: 495 Passes: 2725
+L 508
+Pointer: 0 Stops: 496 Passes: 2730
+L 11
+Pointer: 89 Stops: 496 Passes: 2730
+R 371
+Pointer: 60 Stops: 496 Passes: 2734
+R 11
+Pointer: 71 Stops: 496 Passes: 2734
+L 84
+Pointer: 87 Stops: 496 Passes: 2735
+L 93
+Pointer: 94 Stops: 496 Passes: 2736
+L 43
+Pointer: 51 Stops: 496 Passes: 2736
+L 74
+Pointer: 77 Stops: 496 Passes: 2737
+R 23
+Pointer: 0 Stops: 497 Passes: 2737
+R 81
+Pointer: 81 Stops: 497 Passes: 2737
+R 71
+Pointer: 52 Stops: 497 Passes: 2738
+R 49
+Pointer: 1 Stops: 497 Passes: 2739
+L 607
+Pointer: 94 Stops: 497 Passes: 2746
+R 24
+Pointer: 18 Stops: 497 Passes: 2747
+L 46
+Pointer: 72 Stops: 497 Passes: 2748
+R 58
+Pointer: 30 Stops: 497 Passes: 2749
+R 11
+Pointer: 41 Stops: 497 Passes: 2749
+R 1
+Pointer: 42 Stops: 497 Passes: 2749
+L 25
+Pointer: 17 Stops: 497 Passes: 2749
+L 61
+Pointer: 56 Stops: 497 Passes: 2750
+L 479
+Pointer: 77 Stops: 497 Passes: 2755
+R 296
+Pointer: 73 Stops: 497 Passes: 2758
+L 3
+Pointer: 70 Stops: 497 Passes: 2758
+L 70
+Pointer: 0 Stops: 498 Passes: 2758
+L 94
+Pointer: 6 Stops: 498 Passes: 2758
+R 56
+Pointer: 62 Stops: 498 Passes: 2758
+L 62
+Pointer: 0 Stops: 499 Passes: 2758
+L 41
+Pointer: 59 Stops: 499 Passes: 2758
+R 601
+Pointer: 60 Stops: 499 Passes: 2764
+R 40
+Pointer: 0 Stops: 500 Passes: 2764
+L 87
+Pointer: 13 Stops: 500 Passes: 2764
+L 174
+Pointer: 39 Stops: 500 Passes: 2766
+R 17
+Pointer: 56 Stops: 500 Passes: 2766
+R 44
+Pointer: 0 Stops: 501 Passes: 2766
+R 47
+Pointer: 47 Stops: 501 Passes: 2766
+R 75
+Pointer: 22 Stops: 501 Passes: 2767
+L 22
+Pointer: 0 Stops: 502 Passes: 2767
+L 38
+Pointer: 62 Stops: 502 Passes: 2767
+L 92
+Pointer: 70 Stops: 502 Passes: 2768
+R 61
+Pointer: 31 Stops: 502 Passes: 2769
+R 75
+Pointer: 6 Stops: 502 Passes: 2770
+L 6
+Pointer: 0 Stops: 503 Passes: 2770
+R 72
+Pointer: 72 Stops: 503 Passes: 2770
+L 67
+Pointer: 5 Stops: 503 Passes: 2770
+R 95
+Pointer: 0 Stops: 504 Passes: 2770
+L 78
+Pointer: 22 Stops: 504 Passes: 2770
+L 22
+Pointer: 0 Stops: 505 Passes: 2770
+L 21
+Pointer: 79 Stops: 505 Passes: 2770
+R 460
+Pointer: 39 Stops: 505 Passes: 2775
+R 65
+Pointer: 4 Stops: 505 Passes: 2776
+L 652
+Pointer: 52 Stops: 505 Passes: 2783
+R 59
+Pointer: 11 Stops: 505 Passes: 2784
+R 28
+Pointer: 39 Stops: 505 Passes: 2784
+L 39
+Pointer: 0 Stops: 506 Passes: 2784
+R 10
+Pointer: 10 Stops: 506 Passes: 2784
+L 744
+Pointer: 66 Stops: 506 Passes: 2792
+L 66
+Pointer: 0 Stops: 507 Passes: 2792
+R 38
+Pointer: 38 Stops: 507 Passes: 2792
+L 92
+Pointer: 46 Stops: 507 Passes: 2793
+R 350
+Pointer: 96 Stops: 507 Passes: 2796
+L 54
+Pointer: 42 Stops: 507 Passes: 2796
+L 86
+Pointer: 56 Stops: 507 Passes: 2797
+R 50
+Pointer: 6 Stops: 507 Passes: 2798
+L 11
+Pointer: 95 Stops: 507 Passes: 2799
+L 855
+Pointer: 40 Stops: 507 Passes: 2807
+L 19
+Pointer: 21 Stops: 507 Passes: 2807
+L 943
+Pointer: 78 Stops: 507 Passes: 2817
+L 18
+Pointer: 60 Stops: 507 Passes: 2817
+R 982
+Pointer: 42 Stops: 507 Passes: 2827
+R 51
+Pointer: 93 Stops: 507 Passes: 2827
+R 707
+Pointer: 0 Stops: 508 Passes: 2834
+L 86
+Pointer: 14 Stops: 508 Passes: 2834
+R 58
+Pointer: 72 Stops: 508 Passes: 2834
+L 72
+Pointer: 0 Stops: 509 Passes: 2834
+R 96
+Pointer: 96 Stops: 509 Passes: 2834
+L 78
+Pointer: 18 Stops: 509 Passes: 2834
+R 82
+Pointer: 0 Stops: 510 Passes: 2834
+L 6
+Pointer: 94 Stops: 510 Passes: 2834
+R 6
+Pointer: 0 Stops: 511 Passes: 2834
+L 14
+Pointer: 86 Stops: 511 Passes: 2834
+L 6
+Pointer: 80 Stops: 511 Passes: 2834
+L 74
+Pointer: 6 Stops: 511 Passes: 2834
+R 1
+Pointer: 7 Stops: 511 Passes: 2834
+R 1
+Pointer: 8 Stops: 511 Passes: 2834
+L 8
+Pointer: 0 Stops: 512 Passes: 2834
+L 529
+Pointer: 71 Stops: 512 Passes: 2839
+L 71
+Pointer: 0 Stops: 513 Passes: 2839
+R 23
+Pointer: 23 Stops: 513 Passes: 2839
+L 51
+Pointer: 72 Stops: 513 Passes: 2840
+R 8
+Pointer: 80 Stops: 513 Passes: 2840
+L 80
+Pointer: 0 Stops: 514 Passes: 2840
+L 61
+Pointer: 39 Stops: 514 Passes: 2840
+L 63
+Pointer: 76 Stops: 514 Passes: 2841
+R 76
+Pointer: 52 Stops: 514 Passes: 2842
+L 52
+Pointer: 0 Stops: 515 Passes: 2842
+R 341
+Pointer: 41 Stops: 515 Passes: 2845
+R 659
+Pointer: 0 Stops: 516 Passes: 2851
+L 215
+Pointer: 85 Stops: 516 Passes: 2853
+R 68
+Pointer: 53 Stops: 516 Passes: 2854
+L 96
+Pointer: 57 Stops: 516 Passes: 2855
+L 57
+Pointer: 0 Stops: 517 Passes: 2855
+L 18
+Pointer: 82 Stops: 517 Passes: 2855
+R 18
+Pointer: 0 Stops: 518 Passes: 2855
+R 88
+Pointer: 88 Stops: 518 Passes: 2855
+L 22
+Pointer: 66 Stops: 518 Passes: 2855
+R 27
+Pointer: 93 Stops: 518 Passes: 2855
+L 48
+Pointer: 45 Stops: 518 Passes: 2855
+R 70
+Pointer: 15 Stops: 518 Passes: 2856
+R 30
+Pointer: 45 Stops: 518 Passes: 2856
+L 89
+Pointer: 56 Stops: 518 Passes: 2857
+L 60
+Pointer: 96 Stops: 518 Passes: 2858
+R 49
+Pointer: 45 Stops: 518 Passes: 2859
+L 55
+Pointer: 90 Stops: 518 Passes: 2860
+R 675
+Pointer: 65 Stops: 518 Passes: 2867
+L 517
+Pointer: 48 Stops: 518 Passes: 2872
+L 46
+Pointer: 2 Stops: 518 Passes: 2872
+R 98
+Pointer: 0 Stops: 519 Passes: 2872
+L 42
+Pointer: 58 Stops: 519 Passes: 2872
+L 791
+Pointer: 67 Stops: 519 Passes: 2880
+L 50
+Pointer: 17 Stops: 519 Passes: 2880
+L 17
+Pointer: 0 Stops: 520 Passes: 2880
+R 910
+Pointer: 10 Stops: 520 Passes: 2889
+R 601
+Pointer: 11 Stops: 520 Passes: 2895
+L 11
+Pointer: 0 Stops: 521 Passes: 2895
+R 52
+Pointer: 52 Stops: 521 Passes: 2895
+R 48
+Pointer: 0 Stops: 522 Passes: 2895
+R 62
+Pointer: 62 Stops: 522 Passes: 2895
+L 62
+Pointer: 0 Stops: 523 Passes: 2895
+L 20
+Pointer: 80 Stops: 523 Passes: 2895
+R 20
+Pointer: 0 Stops: 524 Passes: 2895
+R 53
+Pointer: 53 Stops: 524 Passes: 2895
+L 37
+Pointer: 16 Stops: 524 Passes: 2895
+L 16
+Pointer: 0 Stops: 525 Passes: 2895
+R 87
+Pointer: 87 Stops: 525 Passes: 2895
+R 76
+Pointer: 63 Stops: 525 Passes: 2896
+R 37
+Pointer: 0 Stops: 526 Passes: 2896
+R 97
+Pointer: 97 Stops: 526 Passes: 2896
+R 47
+Pointer: 44 Stops: 526 Passes: 2897
+L 67
+Pointer: 77 Stops: 526 Passes: 2898
+R 240
+Pointer: 17 Stops: 526 Passes: 2901
+R 83
+Pointer: 0 Stops: 527 Passes: 2901
+R 23
+Pointer: 23 Stops: 527 Passes: 2901
+R 66
+Pointer: 89 Stops: 527 Passes: 2901
+L 169
+Pointer: 20 Stops: 527 Passes: 2902
+L 20
+Pointer: 0 Stops: 528 Passes: 2902
+R 55
+Pointer: 55 Stops: 528 Passes: 2902
+L 855
+Pointer: 0 Stops: 529 Passes: 2910
+R 3
+Pointer: 3 Stops: 529 Passes: 2910
+R 73
+Pointer: 76 Stops: 529 Passes: 2910
+R 124
+Pointer: 0 Stops: 530 Passes: 2911
+R 89
+Pointer: 89 Stops: 530 Passes: 2911
+R 67
+Pointer: 56 Stops: 530 Passes: 2912
+L 6
+Pointer: 50 Stops: 530 Passes: 2912
+L 61
+Pointer: 89 Stops: 530 Passes: 2913
+R 14
+Pointer: 3 Stops: 530 Passes: 2914
+R 97
+Pointer: 0 Stops: 531 Passes: 2914
+L 63
+Pointer: 37 Stops: 531 Passes: 2914
+L 62
+Pointer: 75 Stops: 531 Passes: 2915
+R 676
+Pointer: 51 Stops: 531 Passes: 2922
+L 51
+Pointer: 0 Stops: 532 Passes: 2922
+R 18
+Pointer: 18 Stops: 532 Passes: 2922
+L 12
+Pointer: 6 Stops: 532 Passes: 2922
+R 94
+Pointer: 0 Stops: 533 Passes: 2922
+R 4
+Pointer: 4 Stops: 533 Passes: 2922
+R 24
+Pointer: 28 Stops: 533 Passes: 2922
+L 28
+Pointer: 0 Stops: 534 Passes: 2922
+R 17
+Pointer: 17 Stops: 534 Passes: 2922
+L 16
+Pointer: 1 Stops: 534 Passes: 2922
+L 82
+Pointer: 19 Stops: 534 Passes: 2923
+R 958
+Pointer: 77 Stops: 534 Passes: 2932
+L 18
+Pointer: 59 Stops: 534 Passes: 2932
+R 41
+Pointer: 0 Stops: 535 Passes: 2932
+R 41
+Pointer: 41 Stops: 535 Passes: 2932
+L 855
+Pointer: 86 Stops: 535 Passes: 2941
+L 86
+Pointer: 0 Stops: 536 Passes: 2941
+R 57
+Pointer: 57 Stops: 536 Passes: 2941
+L 83
+Pointer: 74 Stops: 536 Passes: 2942
+L 45
+Pointer: 29 Stops: 536 Passes: 2942
+R 27
+Pointer: 56 Stops: 536 Passes: 2942
+R 44
+Pointer: 0 Stops: 537 Passes: 2942
+L 43
+Pointer: 57 Stops: 537 Passes: 2942
+L 31
+Pointer: 26 Stops: 537 Passes: 2942
+L 426
+Pointer: 0 Stops: 538 Passes: 2946
+R 84
+Pointer: 84 Stops: 538 Passes: 2946
+L 96
+Pointer: 88 Stops: 538 Passes: 2947
+L 90
+Pointer: 98 Stops: 538 Passes: 2948
+L 16
+Pointer: 82 Stops: 538 Passes: 2948
+L 69
+Pointer: 13 Stops: 538 Passes: 2948
+R 58
+Pointer: 71 Stops: 538 Passes: 2948
+R 78
+Pointer: 49 Stops: 538 Passes: 2949
+R 89
+Pointer: 38 Stops: 538 Passes: 2950
+L 16
+Pointer: 22 Stops: 538 Passes: 2950
+R 47
+Pointer: 69 Stops: 538 Passes: 2950
+R 515
+Pointer: 84 Stops: 538 Passes: 2955
+R 64
+Pointer: 48 Stops: 538 Passes: 2956
+L 56
+Pointer: 92 Stops: 538 Passes: 2957
+L 92
+Pointer: 0 Stops: 539 Passes: 2957
+L 33
+Pointer: 67 Stops: 539 Passes: 2957
+L 67
+Pointer: 0 Stops: 540 Passes: 2957
+L 60
+Pointer: 40 Stops: 540 Passes: 2957
+L 40
+Pointer: 0 Stops: 541 Passes: 2957
+L 75
+Pointer: 25 Stops: 541 Passes: 2957
+R 75
+Pointer: 0 Stops: 542 Passes: 2957
+L 15
+Pointer: 85 Stops: 542 Passes: 2957
+L 29
+Pointer: 56 Stops: 542 Passes: 2957
+R 71
+Pointer: 27 Stops: 542 Passes: 2958
+R 40
+Pointer: 67 Stops: 542 Passes: 2958
+L 67
+Pointer: 0 Stops: 543 Passes: 2958
+R 69
+Pointer: 69 Stops: 543 Passes: 2958
+L 8
+Pointer: 61 Stops: 543 Passes: 2958
+L 61
+Pointer: 0 Stops: 544 Passes: 2958
+L 934
+Pointer: 66 Stops: 544 Passes: 2967
+L 36
+Pointer: 30 Stops: 544 Passes: 2967
+R 70
+Pointer: 0 Stops: 545 Passes: 2967
+L 83
+Pointer: 17 Stops: 545 Passes: 2967
+R 97
+Pointer: 14 Stops: 545 Passes: 2968
+R 32
+Pointer: 46 Stops: 545 Passes: 2968
+L 31
+Pointer: 15 Stops: 545 Passes: 2968
+L 45
+Pointer: 70 Stops: 545 Passes: 2969
+L 70
+Pointer: 0 Stops: 546 Passes: 2969
+L 32
+Pointer: 68 Stops: 546 Passes: 2969
+R 80
+Pointer: 48 Stops: 546 Passes: 2970
+R 69
+Pointer: 17 Stops: 546 Passes: 2971
+L 1
+Pointer: 16 Stops: 546 Passes: 2971
+R 84
+Pointer: 0 Stops: 547 Passes: 2971
+L 6
+Pointer: 94 Stops: 547 Passes: 2971
+L 94
+Pointer: 0 Stops: 548 Passes: 2971
+R 76
+Pointer: 76 Stops: 548 Passes: 2971
+R 24
+Pointer: 0 Stops: 549 Passes: 2971
+L 10
+Pointer: 90 Stops: 549 Passes: 2971
+L 90
+Pointer: 0 Stops: 550 Passes: 2971
+L 21
+Pointer: 79 Stops: 550 Passes: 2971
+R 70
+Pointer: 49 Stops: 550 Passes: 2972
+L 59
+Pointer: 90 Stops: 550 Passes: 2973
+L 90
+Pointer: 0 Stops: 551 Passes: 2973
+R 45
+Pointer: 45 Stops: 551 Passes: 2973
+R 580
+Pointer: 25 Stops: 551 Passes: 2979
+L 25
+Pointer: 0 Stops: 552 Passes: 2979
+R 79
+Pointer: 79 Stops: 552 Passes: 2979
+L 79
+Pointer: 0 Stops: 553 Passes: 2979
+L 47
+Pointer: 53 Stops: 553 Passes: 2979
+L 497
+Pointer: 56 Stops: 553 Passes: 2984
+R 44
+Pointer: 0 Stops: 554 Passes: 2984
+R 6
+Pointer: 6 Stops: 554 Passes: 2984
+L 6
+Pointer: 0 Stops: 555 Passes: 2984
+R 86
+Pointer: 86 Stops: 555 Passes: 2984
+R 59
+Pointer: 45 Stops: 555 Passes: 2985
+L 45
+Pointer: 0 Stops: 556 Passes: 2985
+L 26
+Pointer: 74 Stops: 556 Passes: 2985
+R 936
+Pointer: 10 Stops: 556 Passes: 2995
+R 90
+Pointer: 0 Stops: 557 Passes: 2995
+R 897
+Pointer: 97 Stops: 557 Passes: 3003
+R 198
+Pointer: 95 Stops: 557 Passes: 3005
+L 16
+Pointer: 79 Stops: 557 Passes: 3005
+R 21
+Pointer: 0 Stops: 558 Passes: 3005
+R 88
+Pointer: 88 Stops: 558 Passes: 3005
+L 67
+Pointer: 21 Stops: 558 Passes: 3005
+L 66
+Pointer: 55 Stops: 558 Passes: 3006
+R 845
+Pointer: 0 Stops: 559 Passes: 3014
+R 36
+Pointer: 36 Stops: 559 Passes: 3014
+L 86
+Pointer: 50 Stops: 559 Passes: 3015
+L 5
+Pointer: 45 Stops: 559 Passes: 3015
+L 945
+Pointer: 0 Stops: 560 Passes: 3024
+L 49
+Pointer: 51 Stops: 560 Passes: 3024
+L 40
+Pointer: 11 Stops: 560 Passes: 3024
+L 90
+Pointer: 21 Stops: 560 Passes: 3025
+R 879
+Pointer: 0 Stops: 561 Passes: 3033
+R 58
+Pointer: 58 Stops: 561 Passes: 3033
+R 84
+Pointer: 42 Stops: 561 Passes: 3034
+L 42
+Pointer: 0 Stops: 562 Passes: 3034
+R 20
+Pointer: 20 Stops: 562 Passes: 3034
+R 5
+Pointer: 25 Stops: 562 Passes: 3034
+R 37
+Pointer: 62 Stops: 562 Passes: 3034
+L 62
+Pointer: 0 Stops: 563 Passes: 3034
+R 58
+Pointer: 58 Stops: 563 Passes: 3034
+R 752
+Pointer: 10 Stops: 563 Passes: 3042
+R 90
+Pointer: 0 Stops: 564 Passes: 3042
+L 88
+Pointer: 12 Stops: 564 Passes: 3042
+R 988
+Pointer: 0 Stops: 565 Passes: 3051
+L 88
+Pointer: 12 Stops: 565 Passes: 3051
+R 85
+Pointer: 97 Stops: 565 Passes: 3051
+L 97
+Pointer: 0 Stops: 566 Passes: 3051
+L 67
+Pointer: 33 Stops: 566 Passes: 3051
+L 933
+Pointer: 0 Stops: 567 Passes: 3060
+R 47
+Pointer: 47 Stops: 567 Passes: 3060
+R 3
+Pointer: 50 Stops: 567 Passes: 3060
+R 37
+Pointer: 87 Stops: 567 Passes: 3060
+R 50
+Pointer: 37 Stops: 567 Passes: 3061
+R 72
+Pointer: 9 Stops: 567 Passes: 3062
+R 85
+Pointer: 94 Stops: 567 Passes: 3062
+L 16
+Pointer: 78 Stops: 567 Passes: 3062
+R 48
+Pointer: 26 Stops: 567 Passes: 3063
+L 26
+Pointer: 0 Stops: 568 Passes: 3063
+L 734
+Pointer: 66 Stops: 568 Passes: 3070
+R 33
+Pointer: 99 Stops: 568 Passes: 3070
+L 59
+Pointer: 40 Stops: 568 Passes: 3070
+R 60
+Pointer: 0 Stops: 569 Passes: 3070
+L 46
+Pointer: 54 Stops: 569 Passes: 3070
+R 83
+Pointer: 37 Stops: 569 Passes: 3071
+R 55
+Pointer: 92 Stops: 569 Passes: 3071
+R 8
+Pointer: 0 Stops: 570 Passes: 3071
+L 53
+Pointer: 47 Stops: 570 Passes: 3071
+R 63
+Pointer: 10 Stops: 570 Passes: 3072
+R 19
+Pointer: 29 Stops: 570 Passes: 3072
+R 969
+Pointer: 98 Stops: 570 Passes: 3081
+L 50
+Pointer: 48 Stops: 570 Passes: 3081
+R 60
+Pointer: 8 Stops: 570 Passes: 3082
+L 12
+Pointer: 96 Stops: 570 Passes: 3083
+L 96
+Pointer: 0 Stops: 571 Passes: 3083
+R 66
+Pointer: 66 Stops: 571 Passes: 3083
+L 21
+Pointer: 45 Stops: 571 Passes: 3083
+L 94
+Pointer: 51 Stops: 571 Passes: 3084
+L 72
+Pointer: 79 Stops: 571 Passes: 3085
+L 31
+Pointer: 48 Stops: 571 Passes: 3085
+R 452
+Pointer: 0 Stops: 572 Passes: 3089
+L 1
+Pointer: 99 Stops: 572 Passes: 3089
+L 61
+Pointer: 38 Stops: 572 Passes: 3089
+R 24
+Pointer: 62 Stops: 572 Passes: 3089
+R 94
+Pointer: 56 Stops: 572 Passes: 3090
+R 10
+Pointer: 66 Stops: 572 Passes: 3090
+R 40
+Pointer: 6 Stops: 572 Passes: 3091
+R 56
+Pointer: 62 Stops: 572 Passes: 3091
+L 162
+Pointer: 0 Stops: 573 Passes: 3092
+L 29
+Pointer: 71 Stops: 573 Passes: 3092
+R 39
+Pointer: 10 Stops: 573 Passes: 3093
+L 910
+Pointer: 0 Stops: 574 Passes: 3102
+R 391
+Pointer: 91 Stops: 574 Passes: 3105
+R 84
+Pointer: 75 Stops: 574 Passes: 3106
+R 25
+Pointer: 0 Stops: 575 Passes: 3106
+L 72
+Pointer: 28 Stops: 575 Passes: 3106
+R 21
+Pointer: 49 Stops: 575 Passes: 3106
+R 65
+Pointer: 14 Stops: 575 Passes: 3107
+R 7
+Pointer: 21 Stops: 575 Passes: 3107
+L 24
+Pointer: 97 Stops: 575 Passes: 3108
+R 1
+Pointer: 98 Stops: 575 Passes: 3108
+L 94
+Pointer: 4 Stops: 575 Passes: 3108
+L 234
+Pointer: 70 Stops: 575 Passes: 3111
+R 30
+Pointer: 0 Stops: 576 Passes: 3111
+L 77
+Pointer: 23 Stops: 576 Passes: 3111
+L 23
+Pointer: 0 Stops: 577 Passes: 3111
+L 94
+Pointer: 6 Stops: 577 Passes: 3111
+R 34
+Pointer: 40 Stops: 577 Passes: 3111
+R 931
+Pointer: 71 Stops: 577 Passes: 3120
+L 29
+Pointer: 42 Stops: 577 Passes: 3120
+R 57
+Pointer: 99 Stops: 577 Passes: 3120
+L 64
+Pointer: 35 Stops: 577 Passes: 3120
+R 65
+Pointer: 0 Stops: 578 Passes: 3120
+L 28
+Pointer: 72 Stops: 578 Passes: 3120
+L 56
+Pointer: 16 Stops: 578 Passes: 3120
+R 84
+Pointer: 0 Stops: 579 Passes: 3120
+L 23
+Pointer: 77 Stops: 579 Passes: 3120
+L 593
+Pointer: 84 Stops: 579 Passes: 3126
+R 82
+Pointer: 66 Stops: 579 Passes: 3127
+R 81
+Pointer: 47 Stops: 579 Passes: 3128
+R 53
+Pointer: 0 Stops: 580 Passes: 3128
+L 41
+Pointer: 59 Stops: 580 Passes: 3128
+L 19
+Pointer: 40 Stops: 580 Passes: 3128
+R 29
+Pointer: 69 Stops: 580 Passes: 3128
+R 17
+Pointer: 86 Stops: 580 Passes: 3128
+L 86
+Pointer: 0 Stops: 581 Passes: 3128
+R 55
+Pointer: 55 Stops: 581 Passes: 3128
+L 55
+Pointer: 0 Stops: 582 Passes: 3128
+R 86
+Pointer: 86 Stops: 582 Passes: 3128
+R 40
+Pointer: 26 Stops: 582 Passes: 3129
+L 24
+Pointer: 2 Stops: 582 Passes: 3129
+R 398
+Pointer: 0 Stops: 583 Passes: 3132
+R 75
+Pointer: 75 Stops: 583 Passes: 3132
+L 75
+Pointer: 0 Stops: 584 Passes: 3132
+L 516
+Pointer: 84 Stops: 584 Passes: 3137
+L 28
+Pointer: 56 Stops: 584 Passes: 3137
+R 62
+Pointer: 18 Stops: 584 Passes: 3138
+R 59
+Pointer: 77 Stops: 584 Passes: 3138
+L 68
+Pointer: 9 Stops: 584 Passes: 3138
+L 9
+Pointer: 0 Stops: 585 Passes: 3138
+L 69
+Pointer: 31 Stops: 585 Passes: 3138
+L 66
+Pointer: 65 Stops: 585 Passes: 3139
+L 775
+Pointer: 90 Stops: 585 Passes: 3147
+R 10
+Pointer: 0 Stops: 586 Passes: 3147
+R 48
+Pointer: 48 Stops: 586 Passes: 3147
+L 15
+Pointer: 33 Stops: 586 Passes: 3147
+L 6
+Pointer: 27 Stops: 586 Passes: 3147
+L 364
+Pointer: 63 Stops: 586 Passes: 3151
+L 76
+Pointer: 87 Stops: 586 Passes: 3152
+L 13
+Pointer: 74 Stops: 586 Passes: 3152
+R 26
+Pointer: 0 Stops: 587 Passes: 3152
+R 85
+Pointer: 85 Stops: 587 Passes: 3152
+L 76
+Pointer: 9 Stops: 587 Passes: 3152
+L 74
+Pointer: 35 Stops: 587 Passes: 3153
+L 35
+Pointer: 0 Stops: 588 Passes: 3153
+L 86
+Pointer: 14 Stops: 588 Passes: 3153
+R 80
+Pointer: 94 Stops: 588 Passes: 3153
+R 6
+Pointer: 0 Stops: 589 Passes: 3153
+L 344
+Pointer: 56 Stops: 589 Passes: 3156
+R 83
+Pointer: 39 Stops: 589 Passes: 3157
+R 2
+Pointer: 41 Stops: 589 Passes: 3157
+L 1
+Pointer: 40 Stops: 589 Passes: 3157
+L 957
+Pointer: 83 Stops: 589 Passes: 3167
+R 22
+Pointer: 5 Stops: 589 Passes: 3168
+R 61
+Pointer: 66 Stops: 589 Passes: 3168
+L 28
+Pointer: 38 Stops: 589 Passes: 3168
+L 58
+Pointer: 80 Stops: 589 Passes: 3169
+L 37
+Pointer: 43 Stops: 589 Passes: 3169
+R 75
+Pointer: 18 Stops: 589 Passes: 3170
+R 82
+Pointer: 0 Stops: 590 Passes: 3170
+L 60
+Pointer: 40 Stops: 590 Passes: 3170
+L 640
+Pointer: 0 Stops: 591 Passes: 3176
+R 25
+Pointer: 25 Stops: 591 Passes: 3176
+L 25
+Pointer: 0 Stops: 592 Passes: 3176
+R 53
+Pointer: 53 Stops: 592 Passes: 3176
+R 47
+Pointer: 0 Stops: 593 Passes: 3176
+L 97
+Pointer: 3 Stops: 593 Passes: 3176
+R 24
+Pointer: 27 Stops: 593 Passes: 3176
+R 202
+Pointer: 29 Stops: 593 Passes: 3178
+R 71
+Pointer: 0 Stops: 594 Passes: 3178
+L 588
+Pointer: 12 Stops: 594 Passes: 3183
+R 157
+Pointer: 69 Stops: 594 Passes: 3184
+L 69
+Pointer: 0 Stops: 595 Passes: 3184
+L 42
+Pointer: 58 Stops: 595 Passes: 3184
+R 842
+Pointer: 0 Stops: 596 Passes: 3192
+R 95
+Pointer: 95 Stops: 596 Passes: 3192
+L 95
+Pointer: 0 Stops: 597 Passes: 3192
+L 2
+Pointer: 98 Stops: 597 Passes: 3192
+L 798
+Pointer: 0 Stops: 598 Passes: 3199
+L 42
+Pointer: 58 Stops: 598 Passes: 3199
+R 45
+Pointer: 3 Stops: 598 Passes: 3200
+L 24
+Pointer: 79 Stops: 598 Passes: 3201
+L 79
+Pointer: 0 Stops: 599 Passes: 3201
+L 79
+Pointer: 21 Stops: 599 Passes: 3201
+R 79
+Pointer: 0 Stops: 600 Passes: 3201
+L 25
+Pointer: 75 Stops: 600 Passes: 3201
+L 95
+Pointer: 80 Stops: 600 Passes: 3202
+L 851
+Pointer: 29 Stops: 600 Passes: 3210
+R 55
+Pointer: 84 Stops: 600 Passes: 3210
+L 61
+Pointer: 23 Stops: 600 Passes: 3210
+L 39
+Pointer: 84 Stops: 600 Passes: 3211
+R 16
+Pointer: 0 Stops: 601 Passes: 3211
+R 28
+Pointer: 28 Stops: 601 Passes: 3211
+L 28
+Pointer: 0 Stops: 602 Passes: 3211
+L 97
+Pointer: 3 Stops: 602 Passes: 3211
+R 83
+Pointer: 86 Stops: 602 Passes: 3211
+R 14
+Pointer: 0 Stops: 603 Passes: 3211
+L 26
+Pointer: 74 Stops: 603 Passes: 3211
+L 74
+Pointer: 0 Stops: 604 Passes: 3211
+R 24
+Pointer: 24 Stops: 604 Passes: 3211
+R 45
+Pointer: 69 Stops: 604 Passes: 3211
+R 42
+Pointer: 11 Stops: 604 Passes: 3212
+R 89
+Pointer: 0 Stops: 605 Passes: 3212
+R 835
+Pointer: 35 Stops: 605 Passes: 3220
+L 35
+Pointer: 0 Stops: 606 Passes: 3220
+R 32
+Pointer: 32 Stops: 606 Passes: 3220
+R 70
+Pointer: 2 Stops: 606 Passes: 3221
+R 98
+Pointer: 0 Stops: 607 Passes: 3221
+R 81
+Pointer: 81 Stops: 607 Passes: 3221
+R 222
+Pointer: 3 Stops: 607 Passes: 3224
+L 939
+Pointer: 64 Stops: 607 Passes: 3234
+L 64
+Pointer: 0 Stops: 608 Passes: 3234
+R 29
+Pointer: 29 Stops: 608 Passes: 3234
+R 188
+Pointer: 17 Stops: 608 Passes: 3236
+R 9
+Pointer: 26 Stops: 608 Passes: 3236
+L 26
+Pointer: 0 Stops: 609 Passes: 3236
+R 42
+Pointer: 42 Stops: 609 Passes: 3236
+L 42
+Pointer: 0 Stops: 610 Passes: 3236
+R 65
+Pointer: 65 Stops: 610 Passes: 3236
+L 65
+Pointer: 0 Stops: 611 Passes: 3236
+R 78
+Pointer: 78 Stops: 611 Passes: 3236
+L 78
+Pointer: 0 Stops: 612 Passes: 3236
+L 11
+Pointer: 89 Stops: 612 Passes: 3236
+R 611
+Pointer: 0 Stops: 613 Passes: 3242
+R 15
+Pointer: 15 Stops: 613 Passes: 3242
+R 7
+Pointer: 22 Stops: 613 Passes: 3242
+L 95
+Pointer: 27 Stops: 613 Passes: 3243
+L 27
+Pointer: 0 Stops: 614 Passes: 3243
+L 861
+Pointer: 39 Stops: 614 Passes: 3251
+R 6
+Pointer: 45 Stops: 614 Passes: 3251
+L 95
+Pointer: 50 Stops: 614 Passes: 3252
+L 82
+Pointer: 68 Stops: 614 Passes: 3253
+L 68
+Pointer: 0 Stops: 615 Passes: 3253
+R 76
+Pointer: 76 Stops: 615 Passes: 3253
+R 97
+Pointer: 73 Stops: 615 Passes: 3254
+L 904
+Pointer: 69 Stops: 615 Passes: 3263
+L 69
+Pointer: 0 Stops: 616 Passes: 3263
+R 558
+Pointer: 58 Stops: 616 Passes: 3268
+L 58
+Pointer: 0 Stops: 617 Passes: 3268
+L 34
+Pointer: 66 Stops: 617 Passes: 3268
+R 34
+Pointer: 0 Stops: 618 Passes: 3268
+R 20
+Pointer: 20 Stops: 618 Passes: 3268
+R 80
+Pointer: 0 Stops: 619 Passes: 3268
+L 37
+Pointer: 63 Stops: 619 Passes: 3268
+L 10
+Pointer: 53 Stops: 619 Passes: 3268
+R 447
+Pointer: 0 Stops: 620 Passes: 3272
+L 78
+Pointer: 22 Stops: 620 Passes: 3272
+L 22
+Pointer: 0 Stops: 621 Passes: 3272
+R 37
+Pointer: 37 Stops: 621 Passes: 3272
+R 50
+Pointer: 87 Stops: 621 Passes: 3272
+R 35
+Pointer: 22 Stops: 621 Passes: 3273
+R 78
+Pointer: 0 Stops: 622 Passes: 3273
+L 5
+Pointer: 95 Stops: 622 Passes: 3273
+L 718
+Pointer: 77 Stops: 622 Passes: 3280
+R 23
+Pointer: 0 Stops: 623 Passes: 3280
+R 30
+Pointer: 30 Stops: 623 Passes: 3280
+L 97
+Pointer: 33 Stops: 623 Passes: 3281
+R 67
+Pointer: 0 Stops: 624 Passes: 3281
+R 64
+Pointer: 64 Stops: 624 Passes: 3281
+L 24
+Pointer: 40 Stops: 624 Passes: 3281
+L 540
+Pointer: 0 Stops: 625 Passes: 3286
+L 85
+Pointer: 15 Stops: 625 Passes: 3286
+R 85
+Pointer: 0 Stops: 626 Passes: 3286
+R 116
+Pointer: 16 Stops: 626 Passes: 3287
+L 63
+Pointer: 53 Stops: 626 Passes: 3288
+L 53
+Pointer: 0 Stops: 627 Passes: 3288
+L 56
+Pointer: 44 Stops: 627 Passes: 3288
+L 44
+Pointer: 0 Stops: 628 Passes: 3288
+R 82
+Pointer: 82 Stops: 628 Passes: 3288
+L 68
+Pointer: 14 Stops: 628 Passes: 3288
+L 68
+Pointer: 46 Stops: 628 Passes: 3289
+L 50
+Pointer: 96 Stops: 628 Passes: 3290
+L 96
+Pointer: 0 Stops: 629 Passes: 3290
+R 31
+Pointer: 31 Stops: 629 Passes: 3290
+R 69
+Pointer: 0 Stops: 630 Passes: 3290
+R 74
+Pointer: 74 Stops: 630 Passes: 3290
+R 7
+Pointer: 81 Stops: 630 Passes: 3290
+R 76
+Pointer: 57 Stops: 630 Passes: 3291
+L 62
+Pointer: 95 Stops: 630 Passes: 3292
+R 5
+Pointer: 0 Stops: 631 Passes: 3292
+R 82
+Pointer: 82 Stops: 631 Passes: 3292
+L 94
+Pointer: 88 Stops: 631 Passes: 3293
+L 750
+Pointer: 38 Stops: 631 Passes: 3300
+R 81
+Pointer: 19 Stops: 631 Passes: 3301
+R 81
+Pointer: 0 Stops: 632 Passes: 3301
+L 42
+Pointer: 58 Stops: 632 Passes: 3301
+R 96
+Pointer: 54 Stops: 632 Passes: 3302
+R 38
+Pointer: 92 Stops: 632 Passes: 3302
+L 92
+Pointer: 0 Stops: 633 Passes: 3302
+R 696
+Pointer: 96 Stops: 633 Passes: 3308
+L 96
+Pointer: 0 Stops: 634 Passes: 3308
+R 639
+Pointer: 39 Stops: 634 Passes: 3314
+R 61
+Pointer: 0 Stops: 635 Passes: 3314
+L 17
+Pointer: 83 Stops: 635 Passes: 3314
+R 26
+Pointer: 9 Stops: 635 Passes: 3315
+L 9
+Pointer: 0 Stops: 636 Passes: 3315
+L 67
+Pointer: 33 Stops: 636 Passes: 3315
+R 8
+Pointer: 41 Stops: 636 Passes: 3315
+L 24
+Pointer: 17 Stops: 636 Passes: 3315
+R 22
+Pointer: 39 Stops: 636 Passes: 3315
+R 97
+Pointer: 36 Stops: 636 Passes: 3316
+R 79
+Pointer: 15 Stops: 636 Passes: 3317
+L 27
+Pointer: 88 Stops: 636 Passes: 3318
+R 57
+Pointer: 45 Stops: 636 Passes: 3319
+R 55
+Pointer: 0 Stops: 637 Passes: 3319
+L 38
+Pointer: 62 Stops: 637 Passes: 3319
+R 45
+Pointer: 7 Stops: 637 Passes: 3320
+R 38
+Pointer: 45 Stops: 637 Passes: 3320
+L 86
+Pointer: 59 Stops: 637 Passes: 3321
+L 59
+Pointer: 0 Stops: 638 Passes: 3321
+L 38
+Pointer: 62 Stops: 638 Passes: 3321
+R 13
+Pointer: 75 Stops: 638 Passes: 3321
+L 948
+Pointer: 27 Stops: 638 Passes: 3330
+L 3
+Pointer: 24 Stops: 638 Passes: 3330
+R 78
+Pointer: 2 Stops: 638 Passes: 3331
+R 69
+Pointer: 71 Stops: 638 Passes: 3331
+R 97
+Pointer: 68 Stops: 638 Passes: 3332
+L 68
+Pointer: 0 Stops: 639 Passes: 3332
+R 2
+Pointer: 2 Stops: 639 Passes: 3332
+L 50
+Pointer: 52 Stops: 639 Passes: 3333
+L 39
+Pointer: 13 Stops: 639 Passes: 3333
+R 34
+Pointer: 47 Stops: 639 Passes: 3333
+R 93
+Pointer: 40 Stops: 639 Passes: 3334
+R 61
+Pointer: 1 Stops: 639 Passes: 3335
+L 1
+Pointer: 0 Stops: 640 Passes: 3335
+R 411
+Pointer: 11 Stops: 640 Passes: 3339
+L 78
+Pointer: 33 Stops: 640 Passes: 3340
+R 32
+Pointer: 65 Stops: 640 Passes: 3340
+L 350
+Pointer: 15 Stops: 640 Passes: 3343
+L 84
+Pointer: 31 Stops: 640 Passes: 3344
+R 69
+Pointer: 0 Stops: 641 Passes: 3344
+L 77
+Pointer: 23 Stops: 641 Passes: 3344
+R 52
+Pointer: 75 Stops: 641 Passes: 3344
+L 75
+Pointer: 0 Stops: 642 Passes: 3344
+R 413
+Pointer: 13 Stops: 642 Passes: 3348
+R 7
+Pointer: 20 Stops: 642 Passes: 3348
+L 41
+Pointer: 79 Stops: 642 Passes: 3349
+R 754
+Pointer: 33 Stops: 642 Passes: 3357
+R 26
+Pointer: 59 Stops: 642 Passes: 3357
+L 473
+Pointer: 86 Stops: 642 Passes: 3362
+R 66
+Pointer: 52 Stops: 642 Passes: 3363
+R 12
+Pointer: 64 Stops: 642 Passes: 3363
+L 89
+Pointer: 75 Stops: 642 Passes: 3364
+L 375
+Pointer: 0 Stops: 643 Passes: 3367
+R 63
+Pointer: 63 Stops: 643 Passes: 3367
+L 40
+Pointer: 23 Stops: 643 Passes: 3367
+R 564
+Pointer: 87 Stops: 643 Passes: 3372
+R 13
+Pointer: 0 Stops: 644 Passes: 3372
+R 18
+Pointer: 18 Stops: 644 Passes: 3372
+L 18
+Pointer: 0 Stops: 645 Passes: 3372
+L 792
+Pointer: 8 Stops: 645 Passes: 3379
+R 92
+Pointer: 0 Stops: 646 Passes: 3379
+R 66
+Pointer: 66 Stops: 646 Passes: 3379
+L 33
+Pointer: 33 Stops: 646 Passes: 3379
+R 67
+Pointer: 0 Stops: 647 Passes: 3379
+L 81
+Pointer: 19 Stops: 647 Passes: 3379
+R 81
+Pointer: 0 Stops: 648 Passes: 3379
+R 494
+Pointer: 94 Stops: 648 Passes: 3383
+L 19
+Pointer: 75 Stops: 648 Passes: 3383
+R 40
+Pointer: 15 Stops: 648 Passes: 3384
+L 17
+Pointer: 98 Stops: 648 Passes: 3385
+L 10
+Pointer: 88 Stops: 648 Passes: 3385
+R 12
+Pointer: 0 Stops: 649 Passes: 3385
+L 606
+Pointer: 94 Stops: 649 Passes: 3391
+L 94
+Pointer: 0 Stops: 650 Passes: 3391
+L 57
+Pointer: 43 Stops: 650 Passes: 3391
+R 26
+Pointer: 69 Stops: 650 Passes: 3391
+L 69
+Pointer: 0 Stops: 651 Passes: 3391
+L 30
+Pointer: 70 Stops: 651 Passes: 3391
+R 30
+Pointer: 0 Stops: 652 Passes: 3391
+L 85
+Pointer: 15 Stops: 652 Passes: 3391
+R 85
+Pointer: 0 Stops: 653 Passes: 3391
+R 273
+Pointer: 73 Stops: 653 Passes: 3393
+L 840
+Pointer: 33 Stops: 653 Passes: 3401
+R 62
+Pointer: 95 Stops: 653 Passes: 3401
+R 5
+Pointer: 0 Stops: 654 Passes: 3401
+R 36
+Pointer: 36 Stops: 654 Passes: 3401
+L 87
+Pointer: 49 Stops: 654 Passes: 3402
+L 626
+Pointer: 23 Stops: 654 Passes: 3408
+R 54
+Pointer: 77 Stops: 654 Passes: 3408
+R 23
+Pointer: 0 Stops: 655 Passes: 3408
+L 292
+Pointer: 8 Stops: 655 Passes: 3410
+L 67
+Pointer: 41 Stops: 655 Passes: 3411
+R 60
+Pointer: 1 Stops: 655 Passes: 3412
+L 401
+Pointer: 0 Stops: 656 Passes: 3416
+L 34
+Pointer: 66 Stops: 656 Passes: 3416
+L 66
+Pointer: 0 Stops: 657 Passes: 3416
+L 18
+Pointer: 82 Stops: 657 Passes: 3416
+R 65
+Pointer: 47 Stops: 657 Passes: 3417
+R 853
+Pointer: 0 Stops: 658 Passes: 3425
+L 36
+Pointer: 64 Stops: 658 Passes: 3425
+L 70
+Pointer: 94 Stops: 658 Passes: 3426
+L 28
+Pointer: 66 Stops: 658 Passes: 3426
+R 134
+Pointer: 0 Stops: 659 Passes: 3427
+L 542
+Pointer: 58 Stops: 659 Passes: 3432
+L 4
+Pointer: 54 Stops: 659 Passes: 3432
+L 87
+Pointer: 67 Stops: 659 Passes: 3433
+L 67
+Pointer: 0 Stops: 660 Passes: 3433
+L 30
+Pointer: 70 Stops: 660 Passes: 3433
+L 70
+Pointer: 0 Stops: 661 Passes: 3433
+L 90
+Pointer: 10 Stops: 661 Passes: 3433
+R 21
+Pointer: 31 Stops: 661 Passes: 3433
+L 31
+Pointer: 0 Stops: 662 Passes: 3433
+L 785
+Pointer: 15 Stops: 662 Passes: 3440
+L 25
+Pointer: 90 Stops: 662 Passes: 3441
+R 10
+Pointer: 0 Stops: 663 Passes: 3441
+L 32
+Pointer: 68 Stops: 663 Passes: 3441
+R 61
+Pointer: 29 Stops: 663 Passes: 3442
+R 60
+Pointer: 89 Stops: 663 Passes: 3442
+L 71
+Pointer: 18 Stops: 663 Passes: 3442
+L 18
+Pointer: 0 Stops: 664 Passes: 3442
+R 45
+Pointer: 45 Stops: 664 Passes: 3442
+L 74
+Pointer: 71 Stops: 664 Passes: 3443
+L 79
+Pointer: 92 Stops: 664 Passes: 3444
+L 398
+Pointer: 94 Stops: 664 Passes: 3448
+R 6
+Pointer: 0 Stops: 665 Passes: 3448
+R 51
+Pointer: 51 Stops: 665 Passes: 3448
+L 51
+Pointer: 0 Stops: 666 Passes: 3448
+L 43
+Pointer: 57 Stops: 666 Passes: 3448
+R 43
+Pointer: 0 Stops: 667 Passes: 3448
+L 69
+Pointer: 31 Stops: 667 Passes: 3448
+L 22
+Pointer: 9 Stops: 667 Passes: 3448
+R 749
+Pointer: 58 Stops: 667 Passes: 3455
+R 41
+Pointer: 99 Stops: 667 Passes: 3455
+R 359
+Pointer: 58 Stops: 667 Passes: 3459
+R 73
+Pointer: 31 Stops: 667 Passes: 3460
+L 24
+Pointer: 7 Stops: 667 Passes: 3460
+R 211
+Pointer: 18 Stops: 667 Passes: 3462
+R 382
+Pointer: 0 Stops: 668 Passes: 3465
+L 61
+Pointer: 39 Stops: 668 Passes: 3465
+R 6
+Pointer: 45 Stops: 668 Passes: 3465
+R 855
+Pointer: 0 Stops: 669 Passes: 3473
+L 383
+Pointer: 17 Stops: 669 Passes: 3476
+L 17
+Pointer: 0 Stops: 670 Passes: 3476
+R 86
+Pointer: 86 Stops: 670 Passes: 3476
+L 25
+Pointer: 61 Stops: 670 Passes: 3476
+L 3
+Pointer: 58 Stops: 670 Passes: 3476
+L 58
+Pointer: 0 Stops: 671 Passes: 3476
+R 39
+Pointer: 39 Stops: 671 Passes: 3476
+R 14
+Pointer: 53 Stops: 671 Passes: 3476
+R 72
+Pointer: 25 Stops: 671 Passes: 3477
+R 37
+Pointer: 62 Stops: 671 Passes: 3477
+R 52
+Pointer: 14 Stops: 671 Passes: 3478
+L 914
+Pointer: 0 Stops: 672 Passes: 3487
+R 3
+Pointer: 3 Stops: 672 Passes: 3487
+R 2
+Pointer: 5 Stops: 672 Passes: 3487
+R 57
+Pointer: 62 Stops: 672 Passes: 3487
+L 14
+Pointer: 48 Stops: 672 Passes: 3487
+L 554
+Pointer: 94 Stops: 672 Passes: 3493
+L 95
+Pointer: 99 Stops: 672 Passes: 3494
+L 93
+Pointer: 6 Stops: 672 Passes: 3494
+R 50
+Pointer: 56 Stops: 672 Passes: 3494
+R 61
+Pointer: 17 Stops: 672 Passes: 3495
+L 29
+Pointer: 88 Stops: 672 Passes: 3496
+L 888
+Pointer: 0 Stops: 673 Passes: 3504
+R 98
+Pointer: 98 Stops: 673 Passes: 3504
+L 81
+Pointer: 17 Stops: 673 Passes: 3504
+L 17
+Pointer: 0 Stops: 674 Passes: 3504
+R 71
+Pointer: 71 Stops: 674 Passes: 3504
+L 88
+Pointer: 83 Stops: 674 Passes: 3505
+R 74
+Pointer: 57 Stops: 674 Passes: 3506
+R 43
+Pointer: 0 Stops: 675 Passes: 3506
+R 84
+Pointer: 84 Stops: 675 Passes: 3506
+R 4
+Pointer: 88 Stops: 675 Passes: 3506
+L 53
+Pointer: 35 Stops: 675 Passes: 3506
+R 97
+Pointer: 32 Stops: 675 Passes: 3507
+L 73
+Pointer: 59 Stops: 675 Passes: 3508
+L 7
+Pointer: 52 Stops: 675 Passes: 3508
+R 48
+Pointer: 0 Stops: 676 Passes: 3508
+R 98
+Pointer: 98 Stops: 676 Passes: 3508
+L 772
+Pointer: 26 Stops: 676 Passes: 3515
+L 67
+Pointer: 59 Stops: 676 Passes: 3516
+L 990
+Pointer: 69 Stops: 676 Passes: 3526
+R 31
+Pointer: 0 Stops: 677 Passes: 3526
+R 14
+Pointer: 14 Stops: 677 Passes: 3526
+L 18
+Pointer: 96 Stops: 677 Passes: 3527
+L 55
+Pointer: 41 Stops: 677 Passes: 3527
+L 3
+Pointer: 38 Stops: 677 Passes: 3527
+L 50
+Pointer: 88 Stops: 677 Passes: 3528
+R 70
+Pointer: 58 Stops: 677 Passes: 3529
+L 78
+Pointer: 80 Stops: 677 Passes: 3530
+L 97
+Pointer: 83 Stops: 677 Passes: 3531
+R 94
+Pointer: 77 Stops: 677 Passes: 3532
+L 241
+Pointer: 36 Stops: 677 Passes: 3534
+R 66
+Pointer: 2 Stops: 677 Passes: 3535
+R 22
+Pointer: 24 Stops: 677 Passes: 3535
+L 24
+Pointer: 0 Stops: 678 Passes: 3535
+R 31
+Pointer: 31 Stops: 678 Passes: 3535
+R 69
+Pointer: 0 Stops: 679 Passes: 3535
+R 31
+Pointer: 31 Stops: 679 Passes: 3535
+R 69
+Pointer: 0 Stops: 680 Passes: 3535
+L 6
+Pointer: 94 Stops: 680 Passes: 3535
+L 94
+Pointer: 0 Stops: 681 Passes: 3535
+R 130
+Pointer: 30 Stops: 681 Passes: 3536
+R 564
+Pointer: 94 Stops: 681 Passes: 3541
+L 71
+Pointer: 23 Stops: 681 Passes: 3541
+R 707
+Pointer: 30 Stops: 681 Passes: 3548
+L 30
+Pointer: 0 Stops: 682 Passes: 3548
+R 530
+Pointer: 30 Stops: 682 Passes: 3553
+R 26
+Pointer: 56 Stops: 682 Passes: 3553
+R 26
+Pointer: 82 Stops: 682 Passes: 3553
+R 20
+Pointer: 2 Stops: 682 Passes: 3554
+R 582
+Pointer: 84 Stops: 682 Passes: 3559
+R 70
+Pointer: 54 Stops: 682 Passes: 3560
+R 435
+Pointer: 89 Stops: 682 Passes: 3564
+R 73
+Pointer: 62 Stops: 682 Passes: 3565
+R 734
+Pointer: 96 Stops: 682 Passes: 3572
+L 246
+Pointer: 50 Stops: 682 Passes: 3574
+L 630
+Pointer: 20 Stops: 682 Passes: 3580
+R 80
+Pointer: 0 Stops: 683 Passes: 3580
+L 18
+Pointer: 82 Stops: 683 Passes: 3580
+L 38
+Pointer: 44 Stops: 683 Passes: 3580
+R 44
+Pointer: 88 Stops: 683 Passes: 3580
+L 88
+Pointer: 0 Stops: 684 Passes: 3580
+R 39
+Pointer: 39 Stops: 684 Passes: 3580
+L 39
+Pointer: 0 Stops: 685 Passes: 3580
+L 97
+Pointer: 3 Stops: 685 Passes: 3580
+R 97
+Pointer: 0 Stops: 686 Passes: 3580
+L 36
+Pointer: 64 Stops: 686 Passes: 3580
+L 964
+Pointer: 0 Stops: 687 Passes: 3589
+R 70
+Pointer: 70 Stops: 687 Passes: 3589
+L 70
+Pointer: 0 Stops: 688 Passes: 3589
+L 830
+Pointer: 70 Stops: 688 Passes: 3597
+L 77
+Pointer: 93 Stops: 688 Passes: 3598
+L 793
+Pointer: 0 Stops: 689 Passes: 3605
+R 81
+Pointer: 81 Stops: 689 Passes: 3605
+R 19
+Pointer: 0 Stops: 690 Passes: 3605
+L 6
+Pointer: 94 Stops: 690 Passes: 3605
+L 671
+Pointer: 23 Stops: 690 Passes: 3611
+L 423
+Pointer: 0 Stops: 691 Passes: 3615
+R 453
+Pointer: 53 Stops: 691 Passes: 3619
+R 35
+Pointer: 88 Stops: 691 Passes: 3619
+L 88
+Pointer: 0 Stops: 692 Passes: 3619
+L 61
+Pointer: 39 Stops: 692 Passes: 3619
+R 23
+Pointer: 62 Stops: 692 Passes: 3619
+L 21
+Pointer: 41 Stops: 692 Passes: 3619
+R 59
+Pointer: 0 Stops: 693 Passes: 3619
+R 20
+Pointer: 20 Stops: 693 Passes: 3619
+L 12
+Pointer: 8 Stops: 693 Passes: 3619
+L 99
+Pointer: 9 Stops: 693 Passes: 3620
+L 9
+Pointer: 0 Stops: 694 Passes: 3620
+R 5
+Pointer: 5 Stops: 694 Passes: 3620
+L 5
+Pointer: 0 Stops: 695 Passes: 3620
+R 702
+Pointer: 2 Stops: 695 Passes: 3627
+R 90
+Pointer: 92 Stops: 695 Passes: 3627
+R 8
+Pointer: 0 Stops: 696 Passes: 3627
+R 489
+Pointer: 89 Stops: 696 Passes: 3631
+R 48
+Pointer: 37 Stops: 696 Passes: 3632
+R 63
+Pointer: 0 Stops: 697 Passes: 3632
+L 420
+Pointer: 80 Stops: 697 Passes: 3636
+L 78
+Pointer: 2 Stops: 697 Passes: 3636
+R 247
+Pointer: 49 Stops: 697 Passes: 3638
+R 51
+Pointer: 0 Stops: 698 Passes: 3638
+R 16
+Pointer: 16 Stops: 698 Passes: 3638
+L 63
+Pointer: 53 Stops: 698 Passes: 3639
+R 47
+Pointer: 0 Stops: 699 Passes: 3639
+R 57
+Pointer: 57 Stops: 699 Passes: 3639
+L 4
+Pointer: 53 Stops: 699 Passes: 3639
+R 366
+Pointer: 19 Stops: 699 Passes: 3643
+L 15
+Pointer: 4 Stops: 699 Passes: 3643
+L 59
+Pointer: 45 Stops: 699 Passes: 3644
+L 45
+Pointer: 0 Stops: 700 Passes: 3644
+L 888
+Pointer: 12 Stops: 700 Passes: 3652
+R 837
+Pointer: 49 Stops: 700 Passes: 3660
+R 5
+Pointer: 54 Stops: 700 Passes: 3660
+L 54
+Pointer: 0 Stops: 701 Passes: 3660
+R 85
+Pointer: 85 Stops: 701 Passes: 3660
+R 29
+Pointer: 14 Stops: 701 Passes: 3661
+R 87
+Pointer: 1 Stops: 701 Passes: 3662
+R 3
+Pointer: 4 Stops: 701 Passes: 3662
+R 96
+Pointer: 0 Stops: 702 Passes: 3662
+L 55
+Pointer: 45 Stops: 702 Passes: 3662
+L 79
+Pointer: 66 Stops: 702 Passes: 3663
+L 355
+Pointer: 11 Stops: 702 Passes: 3666
+R 66
+Pointer: 77 Stops: 702 Passes: 3666
+L 92
+Pointer: 85 Stops: 702 Passes: 3667
+R 79
+Pointer: 64 Stops: 702 Passes: 3668
+L 97
+Pointer: 67 Stops: 702 Passes: 3669
+L 43
+Pointer: 24 Stops: 702 Passes: 3669
+R 76
+Pointer: 0 Stops: 703 Passes: 3669
+R 32
+Pointer: 32 Stops: 703 Passes: 3669
+R 664
+Pointer: 96 Stops: 703 Passes: 3675
+R 15
+Pointer: 11 Stops: 703 Passes: 3676
+L 11
+Pointer: 0 Stops: 704 Passes: 3676
+R 575
+Pointer: 75 Stops: 704 Passes: 3681
+R 25
+Pointer: 0 Stops: 705 Passes: 3681
+L 308
+Pointer: 92 Stops: 705 Passes: 3684
+R 31
+Pointer: 23 Stops: 705 Passes: 3685
+R 57
+Pointer: 80 Stops: 705 Passes: 3685
+R 94
+Pointer: 74 Stops: 705 Passes: 3686
+L 89
+Pointer: 85 Stops: 705 Passes: 3687
+R 40
+Pointer: 25 Stops: 705 Passes: 3688
+L 573
+Pointer: 52 Stops: 705 Passes: 3694
+R 48
+Pointer: 0 Stops: 706 Passes: 3694
+L 4
+Pointer: 96 Stops: 706 Passes: 3694
+L 14
+Pointer: 82 Stops: 706 Passes: 3694
+R 705
+Pointer: 87 Stops: 706 Passes: 3701
+R 64
+Pointer: 51 Stops: 706 Passes: 3702
+L 378
+Pointer: 73 Stops: 706 Passes: 3706
+L 73
+Pointer: 0 Stops: 707 Passes: 3706
+L 12
+Pointer: 88 Stops: 707 Passes: 3706
+R 12
+Pointer: 0 Stops: 708 Passes: 3706
+R 6
+Pointer: 6 Stops: 708 Passes: 3706
+R 293
+Pointer: 99 Stops: 708 Passes: 3708
+R 88
+Pointer: 87 Stops: 708 Passes: 3709
+R 13
+Pointer: 0 Stops: 709 Passes: 3709
+R 53
+Pointer: 53 Stops: 709 Passes: 3709
+L 607
+Pointer: 46 Stops: 709 Passes: 3715
+L 40
+Pointer: 6 Stops: 709 Passes: 3715
+L 6
+Pointer: 0 Stops: 710 Passes: 3715
+L 57
+Pointer: 43 Stops: 710 Passes: 3715
+R 72
+Pointer: 15 Stops: 710 Passes: 3716
+R 56
+Pointer: 71 Stops: 710 Passes: 3716
+R 712
+Pointer: 83 Stops: 710 Passes: 3723
+L 38
+Pointer: 45 Stops: 710 Passes: 3723
+R 264
+Pointer: 9 Stops: 710 Passes: 3726
+L 9
+Pointer: 0 Stops: 711 Passes: 3726
+R 47
+Pointer: 47 Stops: 711 Passes: 3726
+L 31
+Pointer: 16 Stops: 711 Passes: 3726
+R 15
+Pointer: 31 Stops: 711 Passes: 3726
+R 169
+Pointer: 0 Stops: 712 Passes: 3727
+R 20
+Pointer: 20 Stops: 712 Passes: 3727
+R 80
+Pointer: 0 Stops: 713 Passes: 3727
+R 18
+Pointer: 18 Stops: 713 Passes: 3727
+R 88
+Pointer: 6 Stops: 713 Passes: 3728
+R 744
+Pointer: 50 Stops: 713 Passes: 3735
+R 334
+Pointer: 84 Stops: 713 Passes: 3738
+L 48
+Pointer: 36 Stops: 713 Passes: 3738
+L 36
+Pointer: 0 Stops: 714 Passes: 3738
+L 11
+Pointer: 89 Stops: 714 Passes: 3738
+R 411
+Pointer: 0 Stops: 715 Passes: 3742
+R 34
+Pointer: 34 Stops: 715 Passes: 3742
+L 62
+Pointer: 72 Stops: 715 Passes: 3743
+L 59
+Pointer: 13 Stops: 715 Passes: 3743
+R 5
+Pointer: 18 Stops: 715 Passes: 3743
+R 37
+Pointer: 55 Stops: 715 Passes: 3743
+L 48
+Pointer: 7 Stops: 715 Passes: 3743
+R 93
+Pointer: 0 Stops: 716 Passes: 3743
+R 69
+Pointer: 69 Stops: 716 Passes: 3743
+L 43
+Pointer: 26 Stops: 716 Passes: 3743
+L 26
+Pointer: 0 Stops: 717 Passes: 3743
+L 67
+Pointer: 33 Stops: 717 Passes: 3743
+R 48
+Pointer: 81 Stops: 717 Passes: 3743
+L 81
+Pointer: 0 Stops: 718 Passes: 3743
+R 49
+Pointer: 49 Stops: 718 Passes: 3743
+L 896
+Pointer: 53 Stops: 718 Passes: 3752
+R 47
+Pointer: 0 Stops: 719 Passes: 3752
+R 82
+Pointer: 82 Stops: 719 Passes: 3752
+L 91
+Pointer: 91 Stops: 719 Passes: 3753
+R 9
+Pointer: 0 Stops: 720 Passes: 3753
+R 1
+Pointer: 1 Stops: 720 Passes: 3753
+L 99
+Pointer: 2 Stops: 720 Passes: 3754
+R 96
+Pointer: 98 Stops: 720 Passes: 3754
+L 98
+Pointer: 0 Stops: 721 Passes: 3754
+L 95
+Pointer: 5 Stops: 721 Passes: 3754
+R 46
+Pointer: 51 Stops: 721 Passes: 3754
+R 198
+Pointer: 49 Stops: 721 Passes: 3756
+R 51
+Pointer: 0 Stops: 722 Passes: 3756
+R 2
+Pointer: 2 Stops: 722 Passes: 3756
+L 2
+Pointer: 0 Stops: 723 Passes: 3756
+R 80
+Pointer: 80 Stops: 723 Passes: 3756
+R 20
+Pointer: 0 Stops: 724 Passes: 3756
+L 61
+Pointer: 39 Stops: 724 Passes: 3756
+R 54
+Pointer: 93 Stops: 724 Passes: 3756
+L 47
+Pointer: 46 Stops: 724 Passes: 3756
+R 54
+Pointer: 0 Stops: 725 Passes: 3756
+L 9
+Pointer: 91 Stops: 725 Passes: 3756
+R 62
+Pointer: 53 Stops: 725 Passes: 3757
+R 9
+Pointer: 62 Stops: 725 Passes: 3757
+L 64
+Pointer: 98 Stops: 725 Passes: 3758
+L 6
+Pointer: 92 Stops: 725 Passes: 3758
+R 37
+Pointer: 29 Stops: 725 Passes: 3759
+R 71
+Pointer: 0 Stops: 726 Passes: 3759
+L 18
+Pointer: 82 Stops: 726 Passes: 3759
+L 690
+Pointer: 92 Stops: 726 Passes: 3766
+L 33
+Pointer: 59 Stops: 726 Passes: 3766
+R 41
+Pointer: 0 Stops: 727 Passes: 3766
+L 77
+Pointer: 23 Stops: 727 Passes: 3766
+L 58
+Pointer: 65 Stops: 727 Passes: 3767
+L 24
+Pointer: 41 Stops: 727 Passes: 3767
+R 59
+Pointer: 0 Stops: 728 Passes: 3767
+L 21
+Pointer: 79 Stops: 728 Passes: 3767
+R 62
+Pointer: 41 Stops: 728 Passes: 3768
+L 41
+Pointer: 0 Stops: 729 Passes: 3768
+R 124
+Pointer: 24 Stops: 729 Passes: 3769
+L 46
+Pointer: 78 Stops: 729 Passes: 3770
+R 857
+Pointer: 35 Stops: 729 Passes: 3779
+R 1
+Pointer: 36 Stops: 729 Passes: 3779
+L 44
+Pointer: 92 Stops: 729 Passes: 3780
+L 192
+Pointer: 0 Stops: 730 Passes: 3781
+R 11
+Pointer: 11 Stops: 730 Passes: 3781
+L 87
+Pointer: 24 Stops: 730 Passes: 3782
+R 471
+Pointer: 95 Stops: 730 Passes: 3786
+L 95
+Pointer: 0 Stops: 731 Passes: 3786
+R 33
+Pointer: 33 Stops: 731 Passes: 3786
+L 84
+Pointer: 49 Stops: 731 Passes: 3787
+L 10
+Pointer: 39 Stops: 731 Passes: 3787
+L 11
+Pointer: 28 Stops: 731 Passes: 3787
+R 36
+Pointer: 64 Stops: 731 Passes: 3787
+R 36
+Pointer: 0 Stops: 732 Passes: 3787
+R 19
+Pointer: 19 Stops: 732 Passes: 3787
+L 319
+Pointer: 0 Stops: 733 Passes: 3790
+L 79
+Pointer: 21 Stops: 733 Passes: 3790
+L 21
+Pointer: 0 Stops: 734 Passes: 3790
+L 51
+Pointer: 49 Stops: 734 Passes: 3790
+L 49
+Pointer: 0 Stops: 735 Passes: 3790
+L 52
+Pointer: 48 Stops: 735 Passes: 3790
+R 57
+Pointer: 5 Stops: 735 Passes: 3791
+L 51
+Pointer: 54 Stops: 735 Passes: 3792
+L 50
+Pointer: 4 Stops: 735 Passes: 3792
+L 99
+Pointer: 5 Stops: 735 Passes: 3793
+L 19
+Pointer: 86 Stops: 735 Passes: 3794
+R 614
+Pointer: 0 Stops: 736 Passes: 3800
+L 48
+Pointer: 52 Stops: 736 Passes: 3800
+L 52
+Pointer: 0 Stops: 737 Passes: 3800
+L 23
+Pointer: 77 Stops: 737 Passes: 3800
+L 82
+Pointer: 95 Stops: 737 Passes: 3801
+R 39
+Pointer: 34 Stops: 737 Passes: 3802
+L 34
+Pointer: 0 Stops: 738 Passes: 3802
+R 938
+Pointer: 38 Stops: 738 Passes: 3811
+R 20
+Pointer: 58 Stops: 738 Passes: 3811
+L 258
+Pointer: 0 Stops: 739 Passes: 3813
+L 48
+Pointer: 52 Stops: 739 Passes: 3813
+L 19
+Pointer: 33 Stops: 739 Passes: 3813
+L 33
+Pointer: 0 Stops: 740 Passes: 3813
+L 44
+Pointer: 56 Stops: 740 Passes: 3813
+L 98
+Pointer: 58 Stops: 740 Passes: 3814
+L 98
+Pointer: 60 Stops: 740 Passes: 3815
+L 760
+Pointer: 0 Stops: 741 Passes: 3822
+L 73
+Pointer: 27 Stops: 741 Passes: 3822
+L 1
+Pointer: 26 Stops: 741 Passes: 3822
+R 74
+Pointer: 0 Stops: 742 Passes: 3822
+R 31
+Pointer: 31 Stops: 742 Passes: 3822
+L 386
+Pointer: 45 Stops: 742 Passes: 3826
+R 76
+Pointer: 21 Stops: 742 Passes: 3827
+R 20
+Pointer: 41 Stops: 742 Passes: 3827
+R 59
+Pointer: 0 Stops: 743 Passes: 3827
+L 940
+Pointer: 60 Stops: 743 Passes: 3836
+L 870
+Pointer: 90 Stops: 743 Passes: 3845
+R 9
+Pointer: 99 Stops: 743 Passes: 3845
+R 23
+Pointer: 22 Stops: 743 Passes: 3846
+L 222
+Pointer: 0 Stops: 744 Passes: 3848
+L 21
+Pointer: 79 Stops: 744 Passes: 3848
+L 88
+Pointer: 91 Stops: 744 Passes: 3849
+R 109
+Pointer: 0 Stops: 745 Passes: 3850
+L 77
+Pointer: 23 Stops: 745 Passes: 3850
+L 23
+Pointer: 0 Stops: 746 Passes: 3850
+R 13
+Pointer: 13 Stops: 746 Passes: 3850
+L 43
+Pointer: 70 Stops: 746 Passes: 3851
+R 92
+Pointer: 62 Stops: 746 Passes: 3852
+R 14
+Pointer: 76 Stops: 746 Passes: 3852
+R 76
+Pointer: 52 Stops: 746 Passes: 3853
+R 35
+Pointer: 87 Stops: 746 Passes: 3853
+R 13
+Pointer: 0 Stops: 747 Passes: 3853
+R 12
+Pointer: 12 Stops: 747 Passes: 3853
+R 88
+Pointer: 0 Stops: 748 Passes: 3853
+R 940
+Pointer: 40 Stops: 748 Passes: 3862
+R 60
+Pointer: 0 Stops: 749 Passes: 3862
+R 96
+Pointer: 96 Stops: 749 Passes: 3862
+R 32
+Pointer: 28 Stops: 749 Passes: 3863
+R 47
+Pointer: 75 Stops: 749 Passes: 3863
+R 25
+Pointer: 0 Stops: 750 Passes: 3863
+L 27
+Pointer: 73 Stops: 750 Passes: 3863
+R 54
+Pointer: 27 Stops: 750 Passes: 3864
+L 13
+Pointer: 14 Stops: 750 Passes: 3864
+R 186
+Pointer: 0 Stops: 751 Passes: 3865
+R 96
+Pointer: 96 Stops: 751 Passes: 3865
+R 4
+Pointer: 0 Stops: 752 Passes: 3865
+L 584
+Pointer: 16 Stops: 752 Passes: 3870
+R 84
+Pointer: 0 Stops: 753 Passes: 3870
+L 824
+Pointer: 76 Stops: 753 Passes: 3878
+R 69
+Pointer: 45 Stops: 753 Passes: 3879
+L 45
+Pointer: 0 Stops: 754 Passes: 3879
+L 82
+Pointer: 18 Stops: 754 Passes: 3879
+L 165
+Pointer: 53 Stops: 754 Passes: 3881
+R 11
+Pointer: 64 Stops: 754 Passes: 3881
+L 36
+Pointer: 28 Stops: 754 Passes: 3881
+R 278
+Pointer: 6 Stops: 754 Passes: 3884
+R 94
+Pointer: 0 Stops: 755 Passes: 3884
+R 88
+Pointer: 88 Stops: 755 Passes: 3884
+R 912
+Pointer: 0 Stops: 756 Passes: 3893
+L 36
+Pointer: 64 Stops: 756 Passes: 3893
+R 27
+Pointer: 91 Stops: 756 Passes: 3893
+L 56
+Pointer: 35 Stops: 756 Passes: 3893
+R 11
+Pointer: 46 Stops: 756 Passes: 3893
+L 446
+Pointer: 0 Stops: 757 Passes: 3897
+R 46
+Pointer: 46 Stops: 757 Passes: 3897
+L 18
+Pointer: 28 Stops: 757 Passes: 3897
+R 72
+Pointer: 0 Stops: 758 Passes: 3897
+L 46
+Pointer: 54 Stops: 758 Passes: 3897
+L 62
+Pointer: 92 Stops: 758 Passes: 3898
+R 91
+Pointer: 83 Stops: 758 Passes: 3899
+L 38
+Pointer: 45 Stops: 758 Passes: 3899
+L 45
+Pointer: 0 Stops: 759 Passes: 3899
+R 762
+Pointer: 62 Stops: 759 Passes: 3906
+R 54
+Pointer: 16 Stops: 759 Passes: 3907
+R 384
+Pointer: 0 Stops: 760 Passes: 3910
+R 12
+Pointer: 12 Stops: 760 Passes: 3910
+L 12
+Pointer: 0 Stops: 761 Passes: 3910
+L 498
+Pointer: 2 Stops: 761 Passes: 3914
+L 602
+Pointer: 0 Stops: 762 Passes: 3920
+L 98
+Pointer: 2 Stops: 762 Passes: 3920
+L 102
+Pointer: 0 Stops: 763 Passes: 3921
+L 89
+Pointer: 11 Stops: 763 Passes: 3921
+R 4
+Pointer: 15 Stops: 763 Passes: 3921
+R 650
+Pointer: 65 Stops: 763 Passes: 3927
+L 76
+Pointer: 89 Stops: 763 Passes: 3928
+R 19
+Pointer: 8 Stops: 763 Passes: 3929
+L 35
+Pointer: 73 Stops: 763 Passes: 3930
+R 497
+Pointer: 70 Stops: 763 Passes: 3935
+L 85
+Pointer: 85 Stops: 763 Passes: 3936
+L 22
+Pointer: 63 Stops: 763 Passes: 3936
+L 15
+Pointer: 48 Stops: 763 Passes: 3936
+R 688
+Pointer: 36 Stops: 763 Passes: 3943
+R 39
+Pointer: 75 Stops: 763 Passes: 3943
+L 75
+Pointer: 0 Stops: 764 Passes: 3943
+R 16
+Pointer: 16 Stops: 764 Passes: 3943
+R 53
+Pointer: 69 Stops: 764 Passes: 3943
+R 79
+Pointer: 48 Stops: 764 Passes: 3944
+L 24
+Pointer: 24 Stops: 764 Passes: 3944
+L 24
+Pointer: 0 Stops: 765 Passes: 3944
+L 89
+Pointer: 11 Stops: 765 Passes: 3944
+R 307
+Pointer: 18 Stops: 765 Passes: 3947
+R 79
+Pointer: 97 Stops: 765 Passes: 3947
+L 47
+Pointer: 50 Stops: 765 Passes: 3947
+R 41
+Pointer: 91 Stops: 765 Passes: 3947
+R 58
+Pointer: 49 Stops: 765 Passes: 3948
+R 95
+Pointer: 44 Stops: 765 Passes: 3949
+R 18
+Pointer: 62 Stops: 765 Passes: 3949
+L 14
+Pointer: 48 Stops: 765 Passes: 3949
+R 52
+Pointer: 0 Stops: 766 Passes: 3949
+L 36
+Pointer: 64 Stops: 766 Passes: 3949
+L 52
+Pointer: 12 Stops: 766 Passes: 3949
+R 94
+Pointer: 6 Stops: 766 Passes: 3950
+L 49
+Pointer: 57 Stops: 766 Passes: 3951
+R 7
+Pointer: 64 Stops: 766 Passes: 3951
+L 68
+Pointer: 96 Stops: 766 Passes: 3952
+R 4
+Pointer: 0 Stops: 767 Passes: 3952
+R 38
+Pointer: 38 Stops: 767 Passes: 3952
+R 60
+Pointer: 98 Stops: 767 Passes: 3952
+R 31
+Pointer: 29 Stops: 767 Passes: 3953
+R 6
+Pointer: 35 Stops: 767 Passes: 3953
+R 18
+Pointer: 53 Stops: 767 Passes: 3953
+R 75
+Pointer: 28 Stops: 767 Passes: 3954
+L 42
+Pointer: 86 Stops: 767 Passes: 3955
+L 57
+Pointer: 29 Stops: 767 Passes: 3955
+R 871
+Pointer: 0 Stops: 768 Passes: 3963
+L 920
+Pointer: 80 Stops: 768 Passes: 3972
+L 940
+Pointer: 40 Stops: 768 Passes: 3981
+R 32
+Pointer: 72 Stops: 768 Passes: 3981
+L 99
+Pointer: 73 Stops: 768 Passes: 3982
+L 73
+Pointer: 0 Stops: 769 Passes: 3982
+L 28
+Pointer: 72 Stops: 769 Passes: 3982
+R 52
+Pointer: 24 Stops: 769 Passes: 3983
+R 44
+Pointer: 68 Stops: 769 Passes: 3983
+R 35
+Pointer: 3 Stops: 769 Passes: 3984
+R 67
+Pointer: 70 Stops: 769 Passes: 3984
+R 30
+Pointer: 0 Stops: 770 Passes: 3984
+R 24
+Pointer: 24 Stops: 770 Passes: 3984
+L 805
+Pointer: 19 Stops: 770 Passes: 3992
+L 18
+Pointer: 1 Stops: 770 Passes: 3992
+R 81
+Pointer: 82 Stops: 770 Passes: 3992
+L 73
+Pointer: 9 Stops: 770 Passes: 3992
+L 9
+Pointer: 0 Stops: 771 Passes: 3992
+R 2
+Pointer: 2 Stops: 771 Passes: 3992
+R 126
+Pointer: 28 Stops: 771 Passes: 3993
+R 87
+Pointer: 15 Stops: 771 Passes: 3994
+R 85
+Pointer: 0 Stops: 772 Passes: 3994
+R 9
+Pointer: 9 Stops: 772 Passes: 3994
+L 9
+Pointer: 0 Stops: 773 Passes: 3994
+R 76
+Pointer: 76 Stops: 773 Passes: 3994
+R 70
+Pointer: 46 Stops: 773 Passes: 3995
+R 92
+Pointer: 38 Stops: 773 Passes: 3996
+L 554
+Pointer: 84 Stops: 773 Passes: 4002
+L 32
+Pointer: 52 Stops: 773 Passes: 4002
+R 54
+Pointer: 6 Stops: 773 Passes: 4003
+L 6
+Pointer: 0 Stops: 774 Passes: 4003
+L 578
+Pointer: 22 Stops: 774 Passes: 4008
+L 11
+Pointer: 11 Stops: 774 Passes: 4008
+L 33
+Pointer: 78 Stops: 774 Passes: 4009
+R 636
+Pointer: 14 Stops: 774 Passes: 4016
+L 58
+Pointer: 56 Stops: 774 Passes: 4017
+R 50
+Pointer: 6 Stops: 774 Passes: 4018
+R 1
+Pointer: 7 Stops: 774 Passes: 4018
+L 7
+Pointer: 0 Stops: 775 Passes: 4018
+L 66
+Pointer: 34 Stops: 775 Passes: 4018
+R 89
+Pointer: 23 Stops: 775 Passes: 4019
+R 77
+Pointer: 0 Stops: 776 Passes: 4019
+L 64
+Pointer: 36 Stops: 776 Passes: 4019
+R 371
+Pointer: 7 Stops: 776 Passes: 4023
+L 7
+Pointer: 0 Stops: 777 Passes: 4023
+L 58
+Pointer: 42 Stops: 777 Passes: 4023
+L 12
+Pointer: 30 Stops: 777 Passes: 4023
+L 30
+Pointer: 0 Stops: 778 Passes: 4023
+L 19
+Pointer: 81 Stops: 778 Passes: 4023
+R 56
+Pointer: 37 Stops: 778 Passes: 4024
+R 663
+Pointer: 0 Stops: 779 Passes: 4030
+R 26
+Pointer: 26 Stops: 779 Passes: 4030
+L 79
+Pointer: 47 Stops: 779 Passes: 4031
+R 23
+Pointer: 70 Stops: 779 Passes: 4031
+L 39
+Pointer: 31 Stops: 779 Passes: 4031
+L 64
+Pointer: 67 Stops: 779 Passes: 4032
+L 97
+Pointer: 70 Stops: 779 Passes: 4033
+R 32
+Pointer: 2 Stops: 779 Passes: 4034
+R 598
+Pointer: 0 Stops: 780 Passes: 4039
+R 98
+Pointer: 98 Stops: 780 Passes: 4039
+R 302
+Pointer: 0 Stops: 781 Passes: 4042
+R 77
+Pointer: 77 Stops: 781 Passes: 4042
+L 54
+Pointer: 23 Stops: 781 Passes: 4042
+R 47
+Pointer: 70 Stops: 781 Passes: 4042
+L 70
+Pointer: 0 Stops: 782 Passes: 4042
+R 43
+Pointer: 43 Stops: 782 Passes: 4042
+L 62
+Pointer: 81 Stops: 782 Passes: 4043
+L 81
+Pointer: 0 Stops: 783 Passes: 4043
+R 75
+Pointer: 75 Stops: 783 Passes: 4043
+R 80
+Pointer: 55 Stops: 783 Passes: 4044
+L 55
+Pointer: 0 Stops: 784 Passes: 4044
+R 19
+Pointer: 19 Stops: 784 Passes: 4044
+R 96
+Pointer: 15 Stops: 784 Passes: 4045
+R 85
+Pointer: 0 Stops: 785 Passes: 4045
+L 44
+Pointer: 56 Stops: 785 Passes: 4045
+L 8
+Pointer: 48 Stops: 785 Passes: 4045
+L 49
+Pointer: 99 Stops: 785 Passes: 4046
+R 1
+Pointer: 0 Stops: 786 Passes: 4046
+L 31
+Pointer: 69 Stops: 786 Passes: 4046
+R 67
+Pointer: 36 Stops: 786 Passes: 4047
+L 15
+Pointer: 21 Stops: 786 Passes: 4047
+L 234
+Pointer: 87 Stops: 786 Passes: 4050
+R 20
+Pointer: 7 Stops: 786 Passes: 4051
+L 167
+Pointer: 40 Stops: 786 Passes: 4053
+L 40
+Pointer: 0 Stops: 787 Passes: 4053
+L 948
+Pointer: 52 Stops: 787 Passes: 4062
+L 52
+Pointer: 0 Stops: 788 Passes: 4062
+R 20
+Pointer: 20 Stops: 788 Passes: 4062
+R 80
+Pointer: 0 Stops: 789 Passes: 4062
+R 916
+Pointer: 16 Stops: 789 Passes: 4071
+L 45
+Pointer: 71 Stops: 789 Passes: 4072
+R 29
+Pointer: 0 Stops: 790 Passes: 4072
+R 22
+Pointer: 22 Stops: 790 Passes: 4072
+R 51
+Pointer: 73 Stops: 790 Passes: 4072
+L 128
+Pointer: 45 Stops: 790 Passes: 4073
+R 39
+Pointer: 84 Stops: 790 Passes: 4073
+R 78
+Pointer: 62 Stops: 790 Passes: 4074
+R 38
+Pointer: 0 Stops: 791 Passes: 4074
+R 3
+Pointer: 3 Stops: 791 Passes: 4074
+L 912
+Pointer: 91 Stops: 791 Passes: 4084
+R 69
+Pointer: 60 Stops: 791 Passes: 4085
+L 70
+Pointer: 90 Stops: 791 Passes: 4086
+L 5
+Pointer: 85 Stops: 791 Passes: 4086
+L 519
+Pointer: 66 Stops: 791 Passes: 4091
+R 234
+Pointer: 0 Stops: 792 Passes: 4093
+L 13
+Pointer: 87 Stops: 792 Passes: 4093
+L 27
+Pointer: 60 Stops: 792 Passes: 4093
+L 64
+Pointer: 96 Stops: 792 Passes: 4094
+L 86
+Pointer: 10 Stops: 792 Passes: 4094
+R 48
+Pointer: 58 Stops: 792 Passes: 4094
+R 84
+Pointer: 42 Stops: 792 Passes: 4095
+L 542
+Pointer: 0 Stops: 793 Passes: 4100
+L 97
+Pointer: 3 Stops: 793 Passes: 4100
+L 3
+Pointer: 0 Stops: 794 Passes: 4100
+L 71
+Pointer: 29 Stops: 794 Passes: 4100
+L 24
+Pointer: 5 Stops: 794 Passes: 4100
+L 7
+Pointer: 98 Stops: 794 Passes: 4101
+R 49
+Pointer: 47 Stops: 794 Passes: 4102
+R 240
+Pointer: 87 Stops: 794 Passes: 4104
+R 13
+Pointer: 0 Stops: 795 Passes: 4104
+R 903
+Pointer: 3 Stops: 795 Passes: 4113
+L 95
+Pointer: 8 Stops: 795 Passes: 4114
+R 92
+Pointer: 0 Stops: 796 Passes: 4114
+L 2
+Pointer: 98 Stops: 796 Passes: 4114
+L 29
+Pointer: 69 Stops: 796 Passes: 4114
+R 20
+Pointer: 89 Stops: 796 Passes: 4114
+R 42
+Pointer: 31 Stops: 796 Passes: 4115
+L 731
+Pointer: 0 Stops: 797 Passes: 4122
+L 79
+Pointer: 21 Stops: 797 Passes: 4122
+R 38
+Pointer: 59 Stops: 797 Passes: 4122
+R 41
+Pointer: 0 Stops: 798 Passes: 4122
+L 932
+Pointer: 68 Stops: 798 Passes: 4131
+L 225
+Pointer: 43 Stops: 798 Passes: 4133
+R 48
+Pointer: 91 Stops: 798 Passes: 4133
+R 76
+Pointer: 67 Stops: 798 Passes: 4134
+L 584
+Pointer: 83 Stops: 798 Passes: 4140
+R 49
+Pointer: 32 Stops: 798 Passes: 4141
+L 49
+Pointer: 83 Stops: 798 Passes: 4142
+L 86
+Pointer: 97 Stops: 798 Passes: 4143
+L 97
+Pointer: 0 Stops: 799 Passes: 4143
+R 71
+Pointer: 71 Stops: 799 Passes: 4143
+L 290
+Pointer: 81 Stops: 799 Passes: 4146
+R 19
+Pointer: 0 Stops: 800 Passes: 4146
+R 158
+Pointer: 58 Stops: 800 Passes: 4147
+L 958
+Pointer: 0 Stops: 801 Passes: 4156
+R 8
+Pointer: 8 Stops: 801 Passes: 4156
+L 308
+Pointer: 0 Stops: 802 Passes: 4159
+R 289
+Pointer: 89 Stops: 802 Passes: 4161
+L 36
+Pointer: 53 Stops: 802 Passes: 4161
+R 47
+Pointer: 0 Stops: 803 Passes: 4161
+L 60
+Pointer: 40 Stops: 803 Passes: 4161
+L 940
+Pointer: 0 Stops: 804 Passes: 4170
+R 63
+Pointer: 63 Stops: 804 Passes: 4170
+R 37
+Pointer: 0 Stops: 805 Passes: 4170
+R 67
+Pointer: 67 Stops: 805 Passes: 4170
+R 89
+Pointer: 56 Stops: 805 Passes: 4171
+L 19
+Pointer: 37 Stops: 805 Passes: 4171
+R 81
+Pointer: 18 Stops: 805 Passes: 4172
+L 167
+Pointer: 51 Stops: 805 Passes: 4174
+L 480
+Pointer: 71 Stops: 805 Passes: 4179
+L 98
+Pointer: 73 Stops: 805 Passes: 4180
+R 58
+Pointer: 31 Stops: 805 Passes: 4181
+L 64
+Pointer: 67 Stops: 805 Passes: 4182
+R 86
+Pointer: 53 Stops: 805 Passes: 4183
+L 53
+Pointer: 0 Stops: 806 Passes: 4183
+L 40
+Pointer: 60 Stops: 806 Passes: 4183
+R 17
+Pointer: 77 Stops: 806 Passes: 4183
+R 8
+Pointer: 85 Stops: 806 Passes: 4183
+R 29
+Pointer: 14 Stops: 806 Passes: 4184
+L 14
+Pointer: 0 Stops: 807 Passes: 4184
+L 52
+Pointer: 48 Stops: 807 Passes: 4184
+L 48
+Pointer: 0 Stops: 808 Passes: 4184
+R 2
+Pointer: 2 Stops: 808 Passes: 4184
+L 2
+Pointer: 0 Stops: 809 Passes: 4184
+R 85
+Pointer: 85 Stops: 809 Passes: 4184
+R 65
+Pointer: 50 Stops: 809 Passes: 4185
+L 50
+Pointer: 0 Stops: 810 Passes: 4185
+L 61
+Pointer: 39 Stops: 810 Passes: 4185
+R 92
+Pointer: 31 Stops: 810 Passes: 4186
+R 369
+Pointer: 0 Stops: 811 Passes: 4189
+L 56
+Pointer: 44 Stops: 811 Passes: 4189
+R 26
+Pointer: 70 Stops: 811 Passes: 4189
+R 16
+Pointer: 86 Stops: 811 Passes: 4189
+L 28
+Pointer: 58 Stops: 811 Passes: 4189
+R 11
+Pointer: 69 Stops: 811 Passes: 4189
+R 48
+Pointer: 17 Stops: 811 Passes: 4190
+L 43
+Pointer: 74 Stops: 811 Passes: 4191
+L 632
+Pointer: 42 Stops: 811 Passes: 4197
+R 89
+Pointer: 31 Stops: 811 Passes: 4198
+L 79
+Pointer: 52 Stops: 811 Passes: 4199
+R 1
+Pointer: 53 Stops: 811 Passes: 4199
+R 204
+Pointer: 57 Stops: 811 Passes: 4201
+R 26
+Pointer: 83 Stops: 811 Passes: 4201
+R 99
+Pointer: 82 Stops: 811 Passes: 4202
+L 82
+Pointer: 0 Stops: 812 Passes: 4202
+R 87
+Pointer: 87 Stops: 812 Passes: 4202
+L 87
+Pointer: 0 Stops: 813 Passes: 4202
+R 99
+Pointer: 99 Stops: 813 Passes: 4202
+R 252
+Pointer: 51 Stops: 813 Passes: 4205
+L 14
+Pointer: 37 Stops: 813 Passes: 4205
+R 66
+Pointer: 3 Stops: 813 Passes: 4206
+L 84
+Pointer: 19 Stops: 813 Passes: 4207
+R 81
+Pointer: 0 Stops: 814 Passes: 4207
+R 64
+Pointer: 64 Stops: 814 Passes: 4207
+R 754
+Pointer: 18 Stops: 814 Passes: 4215
+R 25
+Pointer: 43 Stops: 814 Passes: 4215
+L 45
+Pointer: 98 Stops: 814 Passes: 4216
+R 2
+Pointer: 0 Stops: 815 Passes: 4216
+R 879
+Pointer: 79 Stops: 815 Passes: 4224
+L 36
+Pointer: 43 Stops: 815 Passes: 4224
+R 43
+Pointer: 86 Stops: 815 Passes: 4224
+R 254
+Pointer: 40 Stops: 815 Passes: 4227
+L 40
+Pointer: 0 Stops: 816 Passes: 4227
+R 231
+Pointer: 31 Stops: 816 Passes: 4229
+L 27
+Pointer: 4 Stops: 816 Passes: 4229
+L 14
+Pointer: 90 Stops: 816 Passes: 4230
+L 9
+Pointer: 81 Stops: 816 Passes: 4230
+R 23
+Pointer: 4 Stops: 816 Passes: 4231
+L 4
+Pointer: 0 Stops: 817 Passes: 4231
+R 76
+Pointer: 76 Stops: 817 Passes: 4231
+R 325
+Pointer: 1 Stops: 817 Passes: 4235
+R 99
+Pointer: 0 Stops: 818 Passes: 4235
+L 56
+Pointer: 44 Stops: 818 Passes: 4235
+L 33
+Pointer: 11 Stops: 818 Passes: 4235
+R 17
+Pointer: 28 Stops: 818 Passes: 4235
+R 98
+Pointer: 26 Stops: 818 Passes: 4236
+R 82
+Pointer: 8 Stops: 818 Passes: 4237
+R 92
+Pointer: 0 Stops: 819 Passes: 4237
+R 59
+Pointer: 59 Stops: 819 Passes: 4237
+R 703
+Pointer: 62 Stops: 819 Passes: 4244
+L 46
+Pointer: 16 Stops: 819 Passes: 4244
+L 10
+Pointer: 6 Stops: 819 Passes: 4244
+R 94
+Pointer: 0 Stops: 820 Passes: 4244
+L 75
+Pointer: 25 Stops: 820 Passes: 4244
+R 75
+Pointer: 0 Stops: 821 Passes: 4244
+L 71
+Pointer: 29 Stops: 821 Passes: 4244
+R 95
+Pointer: 24 Stops: 821 Passes: 4245
+R 76
+Pointer: 0 Stops: 822 Passes: 4245
+R 20
+Pointer: 20 Stops: 822 Passes: 4245
+R 80
+Pointer: 0 Stops: 823 Passes: 4245
+R 16
+Pointer: 16 Stops: 823 Passes: 4245
+R 944
+Pointer: 60 Stops: 823 Passes: 4254
+L 80
+Pointer: 80 Stops: 823 Passes: 4255
+R 75
+Pointer: 55 Stops: 823 Passes: 4256
+L 60
+Pointer: 95 Stops: 823 Passes: 4257
+L 14
+Pointer: 81 Stops: 823 Passes: 4257
+L 369
+Pointer: 12 Stops: 823 Passes: 4260
+L 96
+Pointer: 16 Stops: 823 Passes: 4261
+R 64
+Pointer: 80 Stops: 823 Passes: 4261
+R 20
+Pointer: 0 Stops: 824 Passes: 4261
+L 36
+Pointer: 64 Stops: 824 Passes: 4261
+R 171
+Pointer: 35 Stops: 824 Passes: 4263
+L 35
+Pointer: 0 Stops: 825 Passes: 4263
+R 77
+Pointer: 77 Stops: 825 Passes: 4263
+L 77
+Pointer: 0 Stops: 826 Passes: 4263
+R 6
+Pointer: 6 Stops: 826 Passes: 4263
+R 494
+Pointer: 0 Stops: 827 Passes: 4267
+L 88
+Pointer: 12 Stops: 827 Passes: 4267
+R 6
+Pointer: 18 Stops: 827 Passes: 4267
+L 18
+Pointer: 0 Stops: 828 Passes: 4267
+L 73
+Pointer: 27 Stops: 828 Passes: 4267
+L 727
+Pointer: 0 Stops: 829 Passes: 4274
+R 257
+Pointer: 57 Stops: 829 Passes: 4276
+R 3
+Pointer: 60 Stops: 829 Passes: 4276
+R 3
+Pointer: 63 Stops: 829 Passes: 4276
+L 71
+Pointer: 92 Stops: 829 Passes: 4277
+R 47
+Pointer: 39 Stops: 829 Passes: 4278
+L 637
+Pointer: 2 Stops: 829 Passes: 4284
+L 2
+Pointer: 0 Stops: 830 Passes: 4284
+R 95
+Pointer: 95 Stops: 830 Passes: 4284
+R 78
+Pointer: 73 Stops: 830 Passes: 4285
+R 40
+Pointer: 13 Stops: 830 Passes: 4286
+R 81
+Pointer: 94 Stops: 830 Passes: 4286
+R 73
+Pointer: 67 Stops: 830 Passes: 4287
+R 33
+Pointer: 0 Stops: 831 Passes: 4287
+L 70
+Pointer: 30 Stops: 831 Passes: 4287
+R 82
+Pointer: 12 Stops: 831 Passes: 4288
+R 477
+Pointer: 89 Stops: 831 Passes: 4292
+L 89
+Pointer: 0 Stops: 832 Passes: 4292
+R 246
+Pointer: 46 Stops: 832 Passes: 4294
+R 68
+Pointer: 14 Stops: 832 Passes: 4295
+R 86
+Pointer: 0 Stops: 833 Passes: 4295
+L 32
+Pointer: 68 Stops: 833 Passes: 4295
+R 18
+Pointer: 86 Stops: 833 Passes: 4295
+R 49
+Pointer: 35 Stops: 833 Passes: 4296
+R 77
+Pointer: 12 Stops: 833 Passes: 4297
+R 88
+Pointer: 0 Stops: 834 Passes: 4297
+R 49
+Pointer: 49 Stops: 834 Passes: 4297
+R 23
+Pointer: 72 Stops: 834 Passes: 4297
+R 96
+Pointer: 68 Stops: 834 Passes: 4298
+L 67
+Pointer: 1 Stops: 834 Passes: 4298
+L 1
+Pointer: 0 Stops: 835 Passes: 4298
+L 93
+Pointer: 7 Stops: 835 Passes: 4298
+L 9
+Pointer: 98 Stops: 835 Passes: 4299
+L 68
+Pointer: 30 Stops: 835 Passes: 4299
+L 87
+Pointer: 43 Stops: 835 Passes: 4300
+R 29
+Pointer: 72 Stops: 835 Passes: 4300
+L 46
+Pointer: 26 Stops: 835 Passes: 4300
+R 74
+Pointer: 0 Stops: 836 Passes: 4300
+R 55
+Pointer: 55 Stops: 836 Passes: 4300
+R 45
+Pointer: 0 Stops: 837 Passes: 4300
+R 99
+Pointer: 99 Stops: 837 Passes: 4300
+R 123
+Pointer: 22 Stops: 837 Passes: 4302
+L 22
+Pointer: 0 Stops: 838 Passes: 4302
+L 72
+Pointer: 28 Stops: 838 Passes: 4302
+R 72
+Pointer: 0 Stops: 839 Passes: 4302
+R 89
+Pointer: 89 Stops: 839 Passes: 4302
+R 64
+Pointer: 53 Stops: 839 Passes: 4303
+R 66
+Pointer: 19 Stops: 839 Passes: 4304
+L 19
+Pointer: 0 Stops: 840 Passes: 4304
+R 98
+Pointer: 98 Stops: 840 Passes: 4304
+R 2
+Pointer: 0 Stops: 841 Passes: 4304
+R 7
+Pointer: 7 Stops: 841 Passes: 4304
+R 80
+Pointer: 87 Stops: 841 Passes: 4304
+R 259
+Pointer: 46 Stops: 841 Passes: 4307
+R 25
+Pointer: 71 Stops: 841 Passes: 4307
+L 48
+Pointer: 23 Stops: 841 Passes: 4307
+L 15
+Pointer: 8 Stops: 841 Passes: 4307
+L 11
+Pointer: 97 Stops: 841 Passes: 4308
+R 87
+Pointer: 84 Stops: 841 Passes: 4309
+L 32
+Pointer: 52 Stops: 841 Passes: 4309
+L 75
+Pointer: 77 Stops: 841 Passes: 4310
+L 49
+Pointer: 28 Stops: 841 Passes: 4310
+L 38
+Pointer: 90 Stops: 841 Passes: 4311
+R 10
+Pointer: 0 Stops: 842 Passes: 4311
+R 2
+Pointer: 2 Stops: 842 Passes: 4311
+L 10
+Pointer: 92 Stops: 842 Passes: 4312
+L 92
+Pointer: 0 Stops: 843 Passes: 4312
+L 743
+Pointer: 57 Stops: 843 Passes: 4319
+R 638
+Pointer: 95 Stops: 843 Passes: 4325
+L 39
+Pointer: 56 Stops: 843 Passes: 4325
+R 42
+Pointer: 98 Stops: 843 Passes: 4325
+R 723
+Pointer: 21 Stops: 843 Passes: 4333
+L 661
+Pointer: 60 Stops: 843 Passes: 4340
+L 21
+Pointer: 39 Stops: 843 Passes: 4340
+R 581
+Pointer: 20 Stops: 843 Passes: 4346
+R 93
+Pointer: 13 Stops: 843 Passes: 4347
+R 187
+Pointer: 0 Stops: 844 Passes: 4348
+L 783
+Pointer: 17 Stops: 844 Passes: 4355
+L 835
+Pointer: 82 Stops: 844 Passes: 4364
+R 83
+Pointer: 65 Stops: 844 Passes: 4365
+R 835
+Pointer: 0 Stops: 845 Passes: 4373
+L 98
+Pointer: 2 Stops: 845 Passes: 4373
+R 35
+Pointer: 37 Stops: 845 Passes: 4373
+L 49
+Pointer: 88 Stops: 845 Passes: 4374
+R 916
+Pointer: 4 Stops: 845 Passes: 4384
+L 44
+Pointer: 60 Stops: 845 Passes: 4385
+R 640
+Pointer: 0 Stops: 846 Passes: 4391
+L 84
+Pointer: 16 Stops: 846 Passes: 4391
+R 26
+Pointer: 42 Stops: 846 Passes: 4391
+L 42
+Pointer: 0 Stops: 847 Passes: 4391
+L 834
+Pointer: 66 Stops: 847 Passes: 4399
+R 34
+Pointer: 0 Stops: 848 Passes: 4399
+L 14
+Pointer: 86 Stops: 848 Passes: 4399
+R 60
+Pointer: 46 Stops: 848 Passes: 4400
+L 55
+Pointer: 91 Stops: 848 Passes: 4401
+L 91
+Pointer: 0 Stops: 849 Passes: 4401
+L 15
+Pointer: 85 Stops: 849 Passes: 4401
+R 34
+Pointer: 19 Stops: 849 Passes: 4402
+L 945
+Pointer: 74 Stops: 849 Passes: 4412
+L 15
+Pointer: 59 Stops: 849 Passes: 4412
+L 513
+Pointer: 46 Stops: 849 Passes: 4417
+L 46
+Pointer: 0 Stops: 850 Passes: 4417
+R 52
+Pointer: 52 Stops: 850 Passes: 4417
+R 648
+Pointer: 0 Stops: 851 Passes: 4423
+R 30
+Pointer: 30 Stops: 851 Passes: 4423
+R 70
+Pointer: 0 Stops: 852 Passes: 4423
+L 864
+Pointer: 36 Stops: 852 Passes: 4431
+R 265
+Pointer: 1 Stops: 852 Passes: 4434
+R 83
+Pointer: 84 Stops: 852 Passes: 4434
+L 702
+Pointer: 82 Stops: 852 Passes: 4441
+R 92
+Pointer: 74 Stops: 852 Passes: 4442
+R 8
+Pointer: 82 Stops: 852 Passes: 4442
+R 58
+Pointer: 40 Stops: 852 Passes: 4443
+L 14
+Pointer: 26 Stops: 852 Passes: 4443
+R 564
+Pointer: 90 Stops: 852 Passes: 4448
+R 81
+Pointer: 71 Stops: 852 Passes: 4449
+R 29
+Pointer: 0 Stops: 853 Passes: 4449
+L 26
+Pointer: 74 Stops: 853 Passes: 4449
+L 1
+Pointer: 73 Stops: 853 Passes: 4449
+L 990
+Pointer: 83 Stops: 853 Passes: 4459
+R 517
+Pointer: 0 Stops: 854 Passes: 4464
+L 14
+Pointer: 86 Stops: 854 Passes: 4464
+L 528
+Pointer: 58 Stops: 854 Passes: 4469
+L 97
+Pointer: 61 Stops: 854 Passes: 4470
+R 86
+Pointer: 47 Stops: 854 Passes: 4471
+L 47
+Pointer: 0 Stops: 855 Passes: 4471
+R 765
+Pointer: 65 Stops: 855 Passes: 4478
+L 69
+Pointer: 96 Stops: 855 Passes: 4479
+R 99
+Pointer: 95 Stops: 855 Passes: 4480
+R 35
+Pointer: 30 Stops: 855 Passes: 4481
+R 70
+Pointer: 0 Stops: 856 Passes: 4481
+R 92
+Pointer: 92 Stops: 856 Passes: 4481
+L 606
+Pointer: 86 Stops: 856 Passes: 4487
+L 131
+Pointer: 55 Stops: 856 Passes: 4488
+L 20
+Pointer: 35 Stops: 856 Passes: 4488
+L 35
+Pointer: 0 Stops: 857 Passes: 4488
+L 9
+Pointer: 91 Stops: 857 Passes: 4488
+L 91
+Pointer: 0 Stops: 858 Passes: 4488
+R 2
+Pointer: 2 Stops: 858 Passes: 4488
+L 9
+Pointer: 93 Stops: 858 Passes: 4489
+R 94
+Pointer: 87 Stops: 858 Passes: 4490
+L 87
+Pointer: 0 Stops: 859 Passes: 4490
+L 95
+Pointer: 5 Stops: 859 Passes: 4490
+L 86
+Pointer: 19 Stops: 859 Passes: 4491
+R 60
+Pointer: 79 Stops: 859 Passes: 4491
+R 79
+Pointer: 58 Stops: 859 Passes: 4492
+L 58
+Pointer: 0 Stops: 860 Passes: 4492
+R 38
+Pointer: 38 Stops: 860 Passes: 4492
+L 81
+Pointer: 57 Stops: 860 Passes: 4493
+R 43
+Pointer: 0 Stops: 861 Passes: 4493
+L 24
+Pointer: 76 Stops: 861 Passes: 4493
+L 76
+Pointer: 0 Stops: 862 Passes: 4493
+R 51
+Pointer: 51 Stops: 862 Passes: 4493
+L 81
+Pointer: 70 Stops: 862 Passes: 4494
+L 92
+Pointer: 78 Stops: 862 Passes: 4495
+L 78
+Pointer: 0 Stops: 863 Passes: 4495
+R 40
+Pointer: 40 Stops: 863 Passes: 4495
+L 14
+Pointer: 26 Stops: 863 Passes: 4495
+R 78
+Pointer: 4 Stops: 863 Passes: 4496
+L 970
+Pointer: 34 Stops: 863 Passes: 4506
+L 73
+Pointer: 61 Stops: 863 Passes: 4507
+R 76
+Pointer: 37 Stops: 863 Passes: 4508
+L 37
+Pointer: 0 Stops: 864 Passes: 4508
+L 87
+Pointer: 13 Stops: 864 Passes: 4508
+L 47
+Pointer: 66 Stops: 864 Passes: 4509
+R 61
+Pointer: 27 Stops: 864 Passes: 4510
+L 27
+Pointer: 0 Stops: 865 Passes: 4510
+L 41
+Pointer: 59 Stops: 865 Passes: 4510
+R 73
+Pointer: 32 Stops: 865 Passes: 4511
+L 26
+Pointer: 6 Stops: 865 Passes: 4511
+L 6
+Pointer: 0 Stops: 866 Passes: 4511
+R 30
+Pointer: 30 Stops: 866 Passes: 4511
+R 70
+Pointer: 0 Stops: 867 Passes: 4511
+L 97
+Pointer: 3 Stops: 867 Passes: 4511
+R 712
+Pointer: 15 Stops: 867 Passes: 4518
+R 19
+Pointer: 34 Stops: 867 Passes: 4518
+L 42
+Pointer: 92 Stops: 867 Passes: 4519
+L 79
+Pointer: 13 Stops: 867 Passes: 4519
+L 58
+Pointer: 55 Stops: 867 Passes: 4520
+R 76
+Pointer: 31 Stops: 867 Passes: 4521
+R 69
+Pointer: 0 Stops: 868 Passes: 4521
+R 75
+Pointer: 75 Stops: 868 Passes: 4521
+L 75
+Pointer: 0 Stops: 869 Passes: 4521
+R 11
+Pointer: 11 Stops: 869 Passes: 4521
+R 53
+Pointer: 64 Stops: 869 Passes: 4521
+L 44
+Pointer: 20 Stops: 869 Passes: 4521
+L 21
+Pointer: 99 Stops: 869 Passes: 4522
+L 99
+Pointer: 0 Stops: 870 Passes: 4522
+L 38
+Pointer: 62 Stops: 870 Passes: 4522
+R 93
+Pointer: 55 Stops: 870 Passes: 4523
+R 245
+Pointer: 0 Stops: 871 Passes: 4525
+R 53
+Pointer: 53 Stops: 871 Passes: 4525
+L 47
+Pointer: 6 Stops: 871 Passes: 4525
+L 12
+Pointer: 94 Stops: 871 Passes: 4526
+L 194
+Pointer: 0 Stops: 872 Passes: 4527
+L 77
+Pointer: 23 Stops: 872 Passes: 4527
+L 99
+Pointer: 24 Stops: 872 Passes: 4528
+R 21
+Pointer: 45 Stops: 872 Passes: 4528
+L 45
+Pointer: 0 Stops: 873 Passes: 4528
+R 249
+Pointer: 49 Stops: 873 Passes: 4530
+R 56
+Pointer: 5 Stops: 873 Passes: 4531
+R 72
+Pointer: 77 Stops: 873 Passes: 4531
+R 23
+Pointer: 0 Stops: 874 Passes: 4531
+R 706
+Pointer: 6 Stops: 874 Passes: 4538
+L 6
+Pointer: 0 Stops: 875 Passes: 4538
+L 9
+Pointer: 91 Stops: 875 Passes: 4538
+L 60
+Pointer: 31 Stops: 875 Passes: 4538
+L 61
+Pointer: 70 Stops: 875 Passes: 4539
+R 8
+Pointer: 78 Stops: 875 Passes: 4539
+L 578
+Pointer: 0 Stops: 876 Passes: 4544
+R 509
+Pointer: 9 Stops: 876 Passes: 4549
+R 208
+Pointer: 17 Stops: 876 Passes: 4551
+L 14
+Pointer: 3 Stops: 876 Passes: 4551
+L 1
+Pointer: 2 Stops: 876 Passes: 4551
+L 2
+Pointer: 0 Stops: 877 Passes: 4551
+L 18
+Pointer: 82 Stops: 877 Passes: 4551
+L 195
+Pointer: 87 Stops: 877 Passes: 4553
+R 163
+Pointer: 50 Stops: 877 Passes: 4555
+R 507
+Pointer: 57 Stops: 877 Passes: 4560
+L 57
+Pointer: 0 Stops: 878 Passes: 4560
+R 23
+Pointer: 23 Stops: 878 Passes: 4560
+L 423
+Pointer: 0 Stops: 879 Passes: 4564
+R 11
+Pointer: 11 Stops: 879 Passes: 4564
+R 89
+Pointer: 0 Stops: 880 Passes: 4564
+L 120
+Pointer: 80 Stops: 880 Passes: 4565
+L 135
+Pointer: 45 Stops: 880 Passes: 4566
+R 67
+Pointer: 12 Stops: 880 Passes: 4567
+L 58
+Pointer: 54 Stops: 880 Passes: 4568
+R 46
+Pointer: 0 Stops: 881 Passes: 4568
+R 24
+Pointer: 24 Stops: 881 Passes: 4568
+L 40
+Pointer: 84 Stops: 881 Passes: 4569
+R 31
+Pointer: 15 Stops: 881 Passes: 4570
+R 35
+Pointer: 50 Stops: 881 Passes: 4570
+R 45
+Pointer: 95 Stops: 881 Passes: 4570
+R 84
+Pointer: 79 Stops: 881 Passes: 4571
+R 96
+Pointer: 75 Stops: 881 Passes: 4572
+R 625
+Pointer: 0 Stops: 882 Passes: 4578
+R 71
+Pointer: 71 Stops: 882 Passes: 4578
+R 129
+Pointer: 0 Stops: 883 Passes: 4579
+L 80
+Pointer: 20 Stops: 883 Passes: 4579
+L 325
+Pointer: 95 Stops: 883 Passes: 4583
+R 76
+Pointer: 71 Stops: 883 Passes: 4584
+L 42
+Pointer: 29 Stops: 883 Passes: 4584
+R 71
+Pointer: 0 Stops: 884 Passes: 4584
+L 40
+Pointer: 60 Stops: 884 Passes: 4584
+R 89
+Pointer: 49 Stops: 884 Passes: 4585
+L 37
+Pointer: 12 Stops: 884 Passes: 4585
+R 7
+Pointer: 19 Stops: 884 Passes: 4585
+R 84
+Pointer: 3 Stops: 884 Passes: 4586
+R 54
+Pointer: 57 Stops: 884 Passes: 4586
+R 43
+Pointer: 0 Stops: 885 Passes: 4586
+L 32
+Pointer: 68 Stops: 885 Passes: 4586
+L 57
+Pointer: 11 Stops: 885 Passes: 4586
+L 85
+Pointer: 26 Stops: 885 Passes: 4587
+L 26
+Pointer: 0 Stops: 886 Passes: 4587
+L 50
+Pointer: 50 Stops: 886 Passes: 4587
+R 50
+Pointer: 0 Stops: 887 Passes: 4587
+L 69
+Pointer: 31 Stops: 887 Passes: 4587
+L 16
+Pointer: 15 Stops: 887 Passes: 4587
+R 319
+Pointer: 34 Stops: 887 Passes: 4590
+L 56
+Pointer: 78 Stops: 887 Passes: 4591
+L 591
+Pointer: 87 Stops: 887 Passes: 4597
+L 84
+Pointer: 3 Stops: 887 Passes: 4597
+L 186
+Pointer: 17 Stops: 887 Passes: 4599
+R 811
+Pointer: 28 Stops: 887 Passes: 4607
+R 715
+Pointer: 43 Stops: 887 Passes: 4614
+R 8
+Pointer: 51 Stops: 887 Passes: 4614
+L 18
+Pointer: 33 Stops: 887 Passes: 4614
+L 33
+Pointer: 0 Stops: 888 Passes: 4614
+L 62
+Pointer: 38 Stops: 888 Passes: 4614
+L 38
+Pointer: 0 Stops: 889 Passes: 4614
+L 58
+Pointer: 42 Stops: 889 Passes: 4614
+L 687
+Pointer: 55 Stops: 889 Passes: 4621
+L 816
+Pointer: 39 Stops: 889 Passes: 4629
+L 39
+Pointer: 0 Stops: 890 Passes: 4629
+R 152
+Pointer: 52 Stops: 890 Passes: 4630
+L 489
+Pointer: 63 Stops: 890 Passes: 4635
+L 763
+Pointer: 0 Stops: 891 Passes: 4642
+R 71
+Pointer: 71 Stops: 891 Passes: 4642
+R 14
+Pointer: 85 Stops: 891 Passes: 4642
+L 8
+Pointer: 77 Stops: 891 Passes: 4642
+L 4
+Pointer: 73 Stops: 891 Passes: 4642
+R 731
+Pointer: 4 Stops: 891 Passes: 4650
+R 14
+Pointer: 18 Stops: 891 Passes: 4650
+L 18
+Pointer: 0 Stops: 892 Passes: 4650
+L 16
+Pointer: 84 Stops: 892 Passes: 4650
+L 95
+Pointer: 89 Stops: 892 Passes: 4651
+R 11
+Pointer: 0 Stops: 893 Passes: 4651
+R 14
+Pointer: 14 Stops: 893 Passes: 4651
+R 86
+Pointer: 0 Stops: 894 Passes: 4651
+R 89
+Pointer: 89 Stops: 894 Passes: 4651
+L 89
+Pointer: 0 Stops: 895 Passes: 4651
+L 20
+Pointer: 80 Stops: 895 Passes: 4651
+R 26
+Pointer: 6 Stops: 895 Passes: 4652
+R 94
+Pointer: 0 Stops: 896 Passes: 4652
+R 15
+Pointer: 15 Stops: 896 Passes: 4652
+R 85
+Pointer: 0 Stops: 897 Passes: 4652
+L 93
+Pointer: 7 Stops: 897 Passes: 4652
+R 58
+Pointer: 65 Stops: 897 Passes: 4652
+R 35
+Pointer: 0 Stops: 898 Passes: 4652
+R 39
+Pointer: 39 Stops: 898 Passes: 4652
+R 927
+Pointer: 66 Stops: 898 Passes: 4661
+L 765
+Pointer: 1 Stops: 898 Passes: 4668
+L 1
+Pointer: 0 Stops: 899 Passes: 4668
+R 44
+Pointer: 44 Stops: 899 Passes: 4668
+R 98
+Pointer: 42 Stops: 899 Passes: 4669
+R 46
+Pointer: 88 Stops: 899 Passes: 4669
+R 4
+Pointer: 92 Stops: 899 Passes: 4669
+R 8
+Pointer: 0 Stops: 900 Passes: 4669
+L 22
+Pointer: 78 Stops: 900 Passes: 4669
+L 78
+Pointer: 0 Stops: 901 Passes: 4669
+R 16
+Pointer: 16 Stops: 901 Passes: 4669
+L 78
+Pointer: 38 Stops: 901 Passes: 4670
+L 87
+Pointer: 51 Stops: 901 Passes: 4671
+R 83
+Pointer: 34 Stops: 901 Passes: 4672
+L 91
+Pointer: 43 Stops: 901 Passes: 4673
+R 69
+Pointer: 12 Stops: 901 Passes: 4674
+L 23
+Pointer: 89 Stops: 901 Passes: 4675
+L 389
+Pointer: 0 Stops: 902 Passes: 4678
+R 70
+Pointer: 70 Stops: 902 Passes: 4678
+R 230
+Pointer: 0 Stops: 903 Passes: 4680
+L 71
+Pointer: 29 Stops: 903 Passes: 4680
+L 74
+Pointer: 55 Stops: 903 Passes: 4681
+L 55
+Pointer: 0 Stops: 904 Passes: 4681
+L 72
+Pointer: 28 Stops: 904 Passes: 4681
+L 562
+Pointer: 66 Stops: 904 Passes: 4687
+R 97
+Pointer: 63 Stops: 904 Passes: 4688
+R 69
+Pointer: 32 Stops: 904 Passes: 4689
+R 68
+Pointer: 0 Stops: 905 Passes: 4689
+R 77
+Pointer: 77 Stops: 905 Passes: 4689
+R 93
+Pointer: 70 Stops: 905 Passes: 4690
+L 85
+Pointer: 85 Stops: 905 Passes: 4691
+R 52
+Pointer: 37 Stops: 905 Passes: 4692
+L 78
+Pointer: 59 Stops: 905 Passes: 4693
+L 59
+Pointer: 0 Stops: 906 Passes: 4693
+R 93
+Pointer: 93 Stops: 906 Passes: 4693
+R 37
+Pointer: 30 Stops: 906 Passes: 4694
+R 61
+Pointer: 91 Stops: 906 Passes: 4694
+L 39
+Pointer: 52 Stops: 906 Passes: 4694
+L 82
+Pointer: 70 Stops: 906 Passes: 4695
+L 170
+Pointer: 0 Stops: 907 Passes: 4696
+R 728
+Pointer: 28 Stops: 907 Passes: 4703
+L 84
+Pointer: 44 Stops: 907 Passes: 4704
+L 241
+Pointer: 3 Stops: 907 Passes: 4706
+R 79
+Pointer: 82 Stops: 907 Passes: 4706
+R 18
+Pointer: 0 Stops: 908 Passes: 4706
+R 83
+Pointer: 83 Stops: 908 Passes: 4706
+R 864
+Pointer: 47 Stops: 908 Passes: 4715
+L 835
+Pointer: 12 Stops: 908 Passes: 4723
+L 10
+Pointer: 2 Stops: 908 Passes: 4723
+R 41
+Pointer: 43 Stops: 908 Passes: 4723
+L 34
+Pointer: 9 Stops: 908 Passes: 4723
+R 91
+Pointer: 0 Stops: 909 Passes: 4723
+L 55
+Pointer: 45 Stops: 909 Passes: 4723
+L 746
+Pointer: 99 Stops: 909 Passes: 4731
+L 98
+Pointer: 1 Stops: 909 Passes: 4731
+R 641
+Pointer: 42 Stops: 909 Passes: 4737
+L 87
+Pointer: 55 Stops: 909 Passes: 4738
+R 45
+Pointer: 0 Stops: 910 Passes: 4738
+R 304
+Pointer: 4 Stops: 910 Passes: 4741
+L 1
+Pointer: 3 Stops: 910 Passes: 4741
+L 15
+Pointer: 88 Stops: 910 Passes: 4742
+R 12
+Pointer: 0 Stops: 911 Passes: 4742
+L 372
+Pointer: 28 Stops: 911 Passes: 4745
+L 97
+Pointer: 31 Stops: 911 Passes: 4746
+L 65
+Pointer: 66 Stops: 911 Passes: 4747
+L 66
+Pointer: 0 Stops: 912 Passes: 4747
+R 90
+Pointer: 90 Stops: 912 Passes: 4747
+R 935
+Pointer: 25 Stops: 912 Passes: 4757
+R 81
+Pointer: 6 Stops: 912 Passes: 4758
+R 36
+Pointer: 42 Stops: 912 Passes: 4758
+L 42
+Pointer: 0 Stops: 913 Passes: 4758
+R 324
+Pointer: 24 Stops: 913 Passes: 4761
+L 32
+Pointer: 92 Stops: 913 Passes: 4762
+R 13
+Pointer: 5 Stops: 913 Passes: 4763
+L 5
+Pointer: 0 Stops: 914 Passes: 4763
+L 7
+Pointer: 93 Stops: 914 Passes: 4763
+L 47
+Pointer: 46 Stops: 914 Passes: 4763
+L 868
+Pointer: 78 Stops: 914 Passes: 4772
+L 52
+Pointer: 26 Stops: 914 Passes: 4772
+L 26
+Pointer: 0 Stops: 915 Passes: 4772
+L 99
+Pointer: 1 Stops: 915 Passes: 4772
+L 1
+Pointer: 0 Stops: 916 Passes: 4772
+R 555
+Pointer: 55 Stops: 916 Passes: 4777
+R 45
+Pointer: 0 Stops: 917 Passes: 4777
+L 72
+Pointer: 28 Stops: 917 Passes: 4777
+R 631
+Pointer: 59 Stops: 917 Passes: 4783
+L 459
+Pointer: 0 Stops: 918 Passes: 4787
+L 99
+Pointer: 1 Stops: 918 Passes: 4787
+R 14
+Pointer: 15 Stops: 918 Passes: 4787
+R 85
+Pointer: 0 Stops: 919 Passes: 4787
+R 82
+Pointer: 82 Stops: 919 Passes: 4787
+L 482
+Pointer: 0 Stops: 920 Passes: 4791
+L 93
+Pointer: 7 Stops: 920 Passes: 4791
+R 92
+Pointer: 99 Stops: 920 Passes: 4791
+R 1
+Pointer: 0 Stops: 921 Passes: 4791
+L 874
+Pointer: 26 Stops: 921 Passes: 4799
+L 72
+Pointer: 54 Stops: 921 Passes: 4800
+R 484
+Pointer: 38 Stops: 921 Passes: 4805
+L 57
+Pointer: 81 Stops: 921 Passes: 4806
+L 946
+Pointer: 35 Stops: 921 Passes: 4815
+L 535
+Pointer: 0 Stops: 922 Passes: 4820
+L 79
+Pointer: 21 Stops: 922 Passes: 4820
+R 24
+Pointer: 45 Stops: 922 Passes: 4820
+L 778
+Pointer: 67 Stops: 922 Passes: 4828
+L 930
+Pointer: 37 Stops: 922 Passes: 4837
+R 29
+Pointer: 66 Stops: 922 Passes: 4837
+R 619
+Pointer: 85 Stops: 922 Passes: 4843
+R 515
+Pointer: 0 Stops: 923 Passes: 4848
+R 663
+Pointer: 63 Stops: 923 Passes: 4854
+L 94
+Pointer: 69 Stops: 923 Passes: 4855
+L 69
+Pointer: 0 Stops: 924 Passes: 4855
+L 34
+Pointer: 66 Stops: 924 Passes: 4855
+R 34
+Pointer: 0 Stops: 925 Passes: 4855
+L 78
+Pointer: 22 Stops: 925 Passes: 4855
+R 4
+Pointer: 26 Stops: 925 Passes: 4855
+R 74
+Pointer: 0 Stops: 926 Passes: 4855
+R 976
+Pointer: 76 Stops: 926 Passes: 4864
+R 44
+Pointer: 20 Stops: 926 Passes: 4865
+L 78
+Pointer: 42 Stops: 926 Passes: 4866
+R 58
+Pointer: 0 Stops: 927 Passes: 4866
+L 87
+Pointer: 13 Stops: 927 Passes: 4866
+L 82
+Pointer: 31 Stops: 927 Passes: 4867
+L 31
+Pointer: 0 Stops: 928 Passes: 4867
+L 468
+Pointer: 32 Stops: 928 Passes: 4871
+L 32
+Pointer: 0 Stops: 929 Passes: 4871
+L 14
+Pointer: 86 Stops: 929 Passes: 4871
+R 61
+Pointer: 47 Stops: 929 Passes: 4872
+R 11
+Pointer: 58 Stops: 929 Passes: 4872
+L 74
+Pointer: 84 Stops: 929 Passes: 4873
+R 116
+Pointer: 0 Stops: 930 Passes: 4874
+L 2
+Pointer: 98 Stops: 930 Passes: 4874
+L 98
+Pointer: 0 Stops: 931 Passes: 4874
+L 70
+Pointer: 30 Stops: 931 Passes: 4874
+R 84
+Pointer: 14 Stops: 931 Passes: 4875
+L 14
+Pointer: 0 Stops: 932 Passes: 4875
+L 99
+Pointer: 1 Stops: 932 Passes: 4875
+R 99
+Pointer: 0 Stops: 933 Passes: 4875
+L 498
+Pointer: 2 Stops: 933 Passes: 4879
+R 32
+Pointer: 34 Stops: 933 Passes: 4879
+L 14
+Pointer: 20 Stops: 933 Passes: 4879
+R 80
+Pointer: 0 Stops: 934 Passes: 4879
+R 34
+Pointer: 34 Stops: 934 Passes: 4879
+L 63
+Pointer: 71 Stops: 934 Passes: 4880
+L 71
+Pointer: 0 Stops: 935 Passes: 4880
+L 6
+Pointer: 94 Stops: 935 Passes: 4880
+L 52
+Pointer: 42 Stops: 935 Passes: 4880
+R 10
+Pointer: 52 Stops: 935 Passes: 4880
+L 95
+Pointer: 57 Stops: 935 Passes: 4881
+L 970
+Pointer: 87 Stops: 935 Passes: 4891
+L 82
+Pointer: 5 Stops: 935 Passes: 4891
+R 63
+Pointer: 68 Stops: 935 Passes: 4891
+L 83
+Pointer: 85 Stops: 935 Passes: 4892
+R 97
+Pointer: 82 Stops: 935 Passes: 4893
+L 717
+Pointer: 65 Stops: 935 Passes: 4900
+R 99
+Pointer: 64 Stops: 935 Passes: 4901
+L 64
+Pointer: 0 Stops: 936 Passes: 4901
+L 69
+Pointer: 31 Stops: 936 Passes: 4901
+R 588
+Pointer: 19 Stops: 936 Passes: 4907
+L 529
+Pointer: 90 Stops: 936 Passes: 4913
+L 490
+Pointer: 0 Stops: 937 Passes: 4917
+L 7
+Pointer: 93 Stops: 937 Passes: 4917
+L 93
+Pointer: 0 Stops: 938 Passes: 4917
+L 85
+Pointer: 15 Stops: 938 Passes: 4917
+L 376
+Pointer: 39 Stops: 938 Passes: 4921
+R 93
+Pointer: 32 Stops: 938 Passes: 4922
+L 596
+Pointer: 36 Stops: 938 Passes: 4928
+R 26
+Pointer: 62 Stops: 938 Passes: 4928
+L 86
+Pointer: 76 Stops: 938 Passes: 4929
+L 76
+Pointer: 0 Stops: 939 Passes: 4929
+L 15
+Pointer: 85 Stops: 939 Passes: 4929
+L 85
+Pointer: 0 Stops: 940 Passes: 4929
+L 11
+Pointer: 89 Stops: 940 Passes: 4929
+R 26
+Pointer: 15 Stops: 940 Passes: 4930
+L 19
+Pointer: 96 Stops: 940 Passes: 4931
+R 4
+Pointer: 0 Stops: 941 Passes: 4931
+R 75
+Pointer: 75 Stops: 941 Passes: 4931
+L 29
+Pointer: 46 Stops: 941 Passes: 4931
+L 36
+Pointer: 10 Stops: 941 Passes: 4931
+L 40
+Pointer: 70 Stops: 941 Passes: 4932
+R 99
+Pointer: 69 Stops: 941 Passes: 4933
+L 20
+Pointer: 49 Stops: 941 Passes: 4933
+R 72
+Pointer: 21 Stops: 941 Passes: 4934
+L 21
+Pointer: 0 Stops: 942 Passes: 4934
+R 96
+Pointer: 96 Stops: 942 Passes: 4934
+R 33
+Pointer: 29 Stops: 942 Passes: 4935
+R 71
+Pointer: 0 Stops: 943 Passes: 4935
+L 81
+Pointer: 19 Stops: 943 Passes: 4935
+R 621
+Pointer: 40 Stops: 943 Passes: 4941
+L 40
+Pointer: 0 Stops: 944 Passes: 4941
+L 120
+Pointer: 80 Stops: 944 Passes: 4942
+L 826
+Pointer: 54 Stops: 944 Passes: 4950
+L 54
+Pointer: 0 Stops: 945 Passes: 4950
+R 29
+Pointer: 29 Stops: 945 Passes: 4950
+L 829
+Pointer: 0 Stops: 946 Passes: 4958
+R 71
+Pointer: 71 Stops: 946 Passes: 4958
+L 48
+Pointer: 23 Stops: 946 Passes: 4958
+L 35
+Pointer: 88 Stops: 946 Passes: 4959
+L 58
+Pointer: 30 Stops: 946 Passes: 4959
+L 21
+Pointer: 9 Stops: 946 Passes: 4959
+L 9
+Pointer: 0 Stops: 947 Passes: 4959
+R 61
+Pointer: 61 Stops: 947 Passes: 4959
+R 39
+Pointer: 0 Stops: 948 Passes: 4959
+R 746
+Pointer: 46 Stops: 948 Passes: 4966
+L 25
+Pointer: 21 Stops: 948 Passes: 4966
+R 42
+Pointer: 63 Stops: 948 Passes: 4966
+R 28
+Pointer: 91 Stops: 948 Passes: 4966
+R 8
+Pointer: 99 Stops: 948 Passes: 4966
+R 287
+Pointer: 86 Stops: 948 Passes: 4969
+L 869
+Pointer: 17 Stops: 948 Passes: 4977
+L 359
+Pointer: 58 Stops: 948 Passes: 4981
+L 46
+Pointer: 12 Stops: 948 Passes: 4981
+L 346
+Pointer: 66 Stops: 948 Passes: 4985
+L 10
+Pointer: 56 Stops: 948 Passes: 4985
+R 78
+Pointer: 34 Stops: 948 Passes: 4986
+L 34
+Pointer: 0 Stops: 949 Passes: 4986
+L 57
+Pointer: 43 Stops: 949 Passes: 4986
+L 90
+Pointer: 53 Stops: 949 Passes: 4987
+R 20
+Pointer: 73 Stops: 949 Passes: 4987
+R 27
+Pointer: 0 Stops: 950 Passes: 4987
+L 550
+Pointer: 50 Stops: 950 Passes: 4992
+L 78
+Pointer: 72 Stops: 950 Passes: 4993
+L 72
+Pointer: 0 Stops: 951 Passes: 4993
+R 91
+Pointer: 91 Stops: 951 Passes: 4993
+R 30
+Pointer: 21 Stops: 951 Passes: 4994
+L 21
+Pointer: 0 Stops: 952 Passes: 4994
+R 48
+Pointer: 48 Stops: 952 Passes: 4994
+L 48
+Pointer: 0 Stops: 953 Passes: 4994
+L 33
+Pointer: 67 Stops: 953 Passes: 4994
+L 77
+Pointer: 90 Stops: 953 Passes: 4995
+R 56
+Pointer: 46 Stops: 953 Passes: 4996
+L 459
+Pointer: 87 Stops: 953 Passes: 5001
+L 81
+Pointer: 6 Stops: 953 Passes: 5001
+R 39
+Pointer: 45 Stops: 953 Passes: 5001
+R 55
+Pointer: 0 Stops: 954 Passes: 5001
+L 82
+Pointer: 18 Stops: 954 Passes: 5001
+R 65
+Pointer: 83 Stops: 954 Passes: 5001
+R 17
+Pointer: 0 Stops: 955 Passes: 5001
+L 93
+Pointer: 7 Stops: 955 Passes: 5001
+L 7
+Pointer: 0 Stops: 956 Passes: 5001
+L 6
+Pointer: 94 Stops: 956 Passes: 5001
+L 21
+Pointer: 73 Stops: 956 Passes: 5001
+R 487
+Pointer: 60 Stops: 956 Passes: 5006
+L 60
+Pointer: 0 Stops: 957 Passes: 5006
+R 90
+Pointer: 90 Stops: 957 Passes: 5006
+R 910
+Pointer: 0 Stops: 958 Passes: 5015
+R 33
+Pointer: 33 Stops: 958 Passes: 5015
+L 57
+Pointer: 76 Stops: 958 Passes: 5016
+L 30
+Pointer: 46 Stops: 958 Passes: 5016
+L 746
+Pointer: 0 Stops: 959 Passes: 5023
+L 98
+Pointer: 2 Stops: 959 Passes: 5023
+R 98
+Pointer: 0 Stops: 960 Passes: 5023
+L 93
+Pointer: 7 Stops: 960 Passes: 5023
+R 45
+Pointer: 52 Stops: 960 Passes: 5023
+R 67
+Pointer: 19 Stops: 960 Passes: 5024
+R 81
+Pointer: 0 Stops: 961 Passes: 5024
+R 49
+Pointer: 49 Stops: 961 Passes: 5024
+L 83
+Pointer: 66 Stops: 961 Passes: 5025
+L 17
+Pointer: 49 Stops: 961 Passes: 5025
+L 89
+Pointer: 60 Stops: 961 Passes: 5026
+R 68
+Pointer: 28 Stops: 961 Passes: 5027
+R 26
+Pointer: 54 Stops: 961 Passes: 5027
+L 54
+Pointer: 0 Stops: 962 Passes: 5027
+L 53
+Pointer: 47 Stops: 962 Passes: 5027
+R 16
+Pointer: 63 Stops: 962 Passes: 5027
+L 4
+Pointer: 59 Stops: 962 Passes: 5027
+L 59
+Pointer: 0 Stops: 963 Passes: 5027
+L 93
+Pointer: 7 Stops: 963 Passes: 5027
+L 7
+Pointer: 0 Stops: 964 Passes: 5027
+R 17
+Pointer: 17 Stops: 964 Passes: 5027
+R 49
+Pointer: 66 Stops: 964 Passes: 5027
+R 62
+Pointer: 28 Stops: 964 Passes: 5028
+R 72
+Pointer: 0 Stops: 965 Passes: 5028
+R 61
+Pointer: 61 Stops: 965 Passes: 5028
+R 52
+Pointer: 13 Stops: 965 Passes: 5029
+R 87
+Pointer: 0 Stops: 966 Passes: 5029
+R 18
+Pointer: 18 Stops: 966 Passes: 5029
+L 32
+Pointer: 86 Stops: 966 Passes: 5030
+L 31
+Pointer: 55 Stops: 966 Passes: 5030
+L 527
+Pointer: 28 Stops: 966 Passes: 5035
+R 67
+Pointer: 95 Stops: 966 Passes: 5035
+L 22
+Pointer: 73 Stops: 966 Passes: 5035
+L 473
+Pointer: 0 Stops: 967 Passes: 5039
+L 979
+Pointer: 21 Stops: 967 Passes: 5048
+R 65
+Pointer: 86 Stops: 967 Passes: 5048
+R 14
+Pointer: 0 Stops: 968 Passes: 5048
+L 82
+Pointer: 18 Stops: 968 Passes: 5048
+L 95
+Pointer: 23 Stops: 968 Passes: 5049
+R 12
+Pointer: 35 Stops: 968 Passes: 5049
+R 365
+Pointer: 0 Stops: 969 Passes: 5052
+L 46
+Pointer: 54 Stops: 969 Passes: 5052
+L 54
+Pointer: 0 Stops: 970 Passes: 5052
+L 943
+Pointer: 57 Stops: 970 Passes: 5061
+L 57
+Pointer: 0 Stops: 971 Passes: 5061
+L 95
+Pointer: 5 Stops: 971 Passes: 5061
+L 99
+Pointer: 6 Stops: 971 Passes: 5062
+R 94
+Pointer: 0 Stops: 972 Passes: 5062
+R 57
+Pointer: 57 Stops: 972 Passes: 5062
+L 29
+Pointer: 28 Stops: 972 Passes: 5062
+L 28
+Pointer: 0 Stops: 973 Passes: 5062
+L 90
+Pointer: 10 Stops: 973 Passes: 5062
+R 90
+Pointer: 0 Stops: 974 Passes: 5062
+R 95
+Pointer: 95 Stops: 974 Passes: 5062
+L 595
+Pointer: 0 Stops: 975 Passes: 5067
+L 8
+Pointer: 92 Stops: 975 Passes: 5067
+L 592
+Pointer: 0 Stops: 976 Passes: 5072
+L 4
+Pointer: 96 Stops: 976 Passes: 5072
+L 2
+Pointer: 94 Stops: 976 Passes: 5072
+R 61
+Pointer: 55 Stops: 976 Passes: 5073
+L 55
+Pointer: 0 Stops: 977 Passes: 5073
+L 12
+Pointer: 88 Stops: 977 Passes: 5073
+R 51
+Pointer: 39 Stops: 977 Passes: 5074
+R 20
+Pointer: 59 Stops: 977 Passes: 5074
+R 41
+Pointer: 0 Stops: 978 Passes: 5074
+L 65
+Pointer: 35 Stops: 978 Passes: 5074
+L 45
+Pointer: 90 Stops: 978 Passes: 5075
+R 841
+Pointer: 31 Stops: 978 Passes: 5084
+R 18
+Pointer: 49 Stops: 978 Passes: 5084
+R 51
+Pointer: 0 Stops: 979 Passes: 5084
+L 40
+Pointer: 60 Stops: 979 Passes: 5084
+L 51
+Pointer: 9 Stops: 979 Passes: 5084
+L 302
+Pointer: 7 Stops: 979 Passes: 5087
+R 81
+Pointer: 88 Stops: 979 Passes: 5087
+R 11
+Pointer: 99 Stops: 979 Passes: 5087
+L 77
+Pointer: 22 Stops: 979 Passes: 5087
+L 48
+Pointer: 74 Stops: 979 Passes: 5088
+L 8
+Pointer: 66 Stops: 979 Passes: 5088
+L 75
+Pointer: 91 Stops: 979 Passes: 5089
+L 91
+Pointer: 0 Stops: 980 Passes: 5089
+L 51
+Pointer: 49 Stops: 980 Passes: 5089
+R 188
+Pointer: 37 Stops: 980 Passes: 5091
+L 79
+Pointer: 58 Stops: 980 Passes: 5092
+L 2
+Pointer: 56 Stops: 980 Passes: 5092
+R 48
+Pointer: 4 Stops: 980 Passes: 5093
+R 96
+Pointer: 0 Stops: 981 Passes: 5093
+R 83
+Pointer: 83 Stops: 981 Passes: 5093
+L 83
+Pointer: 0 Stops: 982 Passes: 5093
+R 77
+Pointer: 77 Stops: 982 Passes: 5093
+R 39
+Pointer: 16 Stops: 982 Passes: 5094
+R 33
+Pointer: 49 Stops: 982 Passes: 5094
+R 705
+Pointer: 54 Stops: 982 Passes: 5101
+L 97
+Pointer: 57 Stops: 982 Passes: 5102
+R 43
+Pointer: 0 Stops: 983 Passes: 5102
+L 38
+Pointer: 62 Stops: 983 Passes: 5102
+L 897
+Pointer: 65 Stops: 983 Passes: 5111
+L 53
+Pointer: 12 Stops: 983 Passes: 5111
+R 916
+Pointer: 28 Stops: 983 Passes: 5120
+L 36
+Pointer: 92 Stops: 983 Passes: 5121
+R 72
+Pointer: 64 Stops: 983 Passes: 5122
+L 42
+Pointer: 22 Stops: 983 Passes: 5122
+R 51
+Pointer: 73 Stops: 983 Passes: 5122
+R 86
+Pointer: 59 Stops: 983 Passes: 5123
+R 43
+Pointer: 2 Stops: 983 Passes: 5124
+L 2
+Pointer: 0 Stops: 984 Passes: 5124
+L 52
+Pointer: 48 Stops: 984 Passes: 5124
+L 39
+Pointer: 9 Stops: 984 Passes: 5124
+R 10
+Pointer: 19 Stops: 984 Passes: 5124
+R 10
+Pointer: 29 Stops: 984 Passes: 5124
+R 48
+Pointer: 77 Stops: 984 Passes: 5124
+L 42
+Pointer: 35 Stops: 984 Passes: 5124
+R 76
+Pointer: 11 Stops: 984 Passes: 5125
+L 76
+Pointer: 35 Stops: 984 Passes: 5126
+L 59
+Pointer: 76 Stops: 984 Passes: 5127
+R 24
+Pointer: 0 Stops: 985 Passes: 5127
+L 49
+Pointer: 51 Stops: 985 Passes: 5127
+R 49
+Pointer: 0 Stops: 986 Passes: 5127
+R 36
+Pointer: 36 Stops: 986 Passes: 5127
+L 82
+Pointer: 54 Stops: 986 Passes: 5128
+L 72
+Pointer: 82 Stops: 986 Passes: 5129
+L 82
+Pointer: 0 Stops: 987 Passes: 5129
+R 95
+Pointer: 95 Stops: 987 Passes: 5129
+L 95
+Pointer: 0 Stops: 988 Passes: 5129
+L 30
+Pointer: 70 Stops: 988 Passes: 5129
+L 82
+Pointer: 88 Stops: 988 Passes: 5130
+L 12
+Pointer: 76 Stops: 988 Passes: 5130
+R 39
+Pointer: 15 Stops: 988 Passes: 5131
+R 16
+Pointer: 31 Stops: 988 Passes: 5131
+L 18
+Pointer: 13 Stops: 988 Passes: 5131
+L 89
+Pointer: 24 Stops: 988 Passes: 5132
+L 24
+Pointer: 0 Stops: 989 Passes: 5132
+R 31
+Pointer: 31 Stops: 989 Passes: 5132
+R 4
+Pointer: 35 Stops: 989 Passes: 5132
+R 51
+Pointer: 86 Stops: 989 Passes: 5132
+R 45
+Pointer: 31 Stops: 989 Passes: 5133
+L 20
+Pointer: 11 Stops: 989 Passes: 5133
+L 72
+Pointer: 39 Stops: 989 Passes: 5134
+R 52
+Pointer: 91 Stops: 989 Passes: 5134
+L 91
+Pointer: 0 Stops: 990 Passes: 5134
+L 24
+Pointer: 76 Stops: 990 Passes: 5134
+L 54
+Pointer: 22 Stops: 990 Passes: 5134
+R 78
+Pointer: 0 Stops: 991 Passes: 5134
+R 63
+Pointer: 63 Stops: 991 Passes: 5134
+R 19
+Pointer: 82 Stops: 991 Passes: 5134
+R 13
+Pointer: 95 Stops: 991 Passes: 5134
+R 5
+Pointer: 0 Stops: 992 Passes: 5134
+L 80
+Pointer: 20 Stops: 992 Passes: 5134
+R 13
+Pointer: 33 Stops: 992 Passes: 5134
+R 49
+Pointer: 82 Stops: 992 Passes: 5134
+L 13
+Pointer: 69 Stops: 992 Passes: 5134
+L 10
+Pointer: 59 Stops: 992 Passes: 5134
+R 21
+Pointer: 80 Stops: 992 Passes: 5134
+L 35
+Pointer: 45 Stops: 992 Passes: 5134
+L 38
+Pointer: 7 Stops: 992 Passes: 5134
+L 24
+Pointer: 83 Stops: 992 Passes: 5135
+L 26
+Pointer: 57 Stops: 992 Passes: 5135
+R 2
+Pointer: 59 Stops: 992 Passes: 5135
+L 39
+Pointer: 20 Stops: 992 Passes: 5135
+R 39
+Pointer: 59 Stops: 992 Passes: 5135
+R 2
+Pointer: 61 Stops: 992 Passes: 5135
+R 20
+Pointer: 81 Stops: 992 Passes: 5135
+L 12
+Pointer: 69 Stops: 992 Passes: 5135
+L 7
+Pointer: 62 Stops: 992 Passes: 5135
+L 9
+Pointer: 53 Stops: 992 Passes: 5135
+L 47
+Pointer: 6 Stops: 992 Passes: 5135
+R 39
+Pointer: 45 Stops: 992 Passes: 5135
+L 34
+Pointer: 11 Stops: 992 Passes: 5135
+R 17
+Pointer: 28 Stops: 992 Passes: 5135
+R 31
+Pointer: 59 Stops: 992 Passes: 5135
+R 16
+Pointer: 75 Stops: 992 Passes: 5135
+R 9
+Pointer: 84 Stops: 992 Passes: 5135
+L 10
+Pointer: 74 Stops: 992 Passes: 5135
+L 4
+Pointer: 70 Stops: 992 Passes: 5135
+L 39
+Pointer: 31 Stops: 992 Passes: 5135
+L 8
+Pointer: 23 Stops: 992 Passes: 5135
+L 21
+Pointer: 2 Stops: 992 Passes: 5135
+L 10
+Pointer: 92 Stops: 992 Passes: 5136
+L 48
+Pointer: 44 Stops: 992 Passes: 5136
+R 13
+Pointer: 57 Stops: 992 Passes: 5136
+L 41
+Pointer: 16 Stops: 992 Passes: 5136
+L 33
+Pointer: 83 Stops: 992 Passes: 5137
+L 32
+Pointer: 51 Stops: 992 Passes: 5137
+L 20
+Pointer: 31 Stops: 992 Passes: 5137
+R 45
+Pointer: 76 Stops: 992 Passes: 5137
+R 14
+Pointer: 90 Stops: 992 Passes: 5137
+L 2
+Pointer: 88 Stops: 992 Passes: 5137
+R 45
+Pointer: 33 Stops: 992 Passes: 5138
+L 8
+Pointer: 25 Stops: 992 Passes: 5138
+L 8
+Pointer: 17 Stops: 992 Passes: 5138
+R 37
+Pointer: 54 Stops: 992 Passes: 5138
+R 29
+Pointer: 83 Stops: 992 Passes: 5138
+L 45
+Pointer: 38 Stops: 992 Passes: 5138
+L 29
+Pointer: 9 Stops: 992 Passes: 5138
+R 14
+Pointer: 23 Stops: 992 Passes: 5138
+L 42
+Pointer: 81 Stops: 992 Passes: 5139
+R 29
+Pointer: 10 Stops: 992 Passes: 5140
+L 45
+Pointer: 65 Stops: 992 Passes: 5141
+L 34
+Pointer: 31 Stops: 992 Passes: 5141
+R 14
+Pointer: 45 Stops: 992 Passes: 5141
+
+End time: 2025-12-02 14:06:31.525789
+
+Part 1 Answer : 992
+Passes past 0 (without stopping at 0): 5141
+Part 2 Answer : 6133
+Time taken: 0:00:00.009417
